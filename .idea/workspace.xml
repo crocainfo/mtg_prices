@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="58d2ab37-f8a8-4f2e-ac79-447dee6195e1" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="58d2ab37-f8a8-4f2e-ac79-447dee6195e1" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -139,7 +137,7 @@
       <option name="presentableId" value="Default" />
       <updated>1620740854461</updated>
       <workItem from="1620740856210" duration="1467000" />
-      <workItem from="1620743103952" duration="2623000" />
+      <workItem from="1620743103952" duration="2889000" />
     </task>
     <task id="LOCAL-00001" summary="First Laravel installations">
       <created>1620742594062</created>
@@ -155,7 +153,14 @@
       <option name="project" value="LOCAL" />
       <updated>1620743257038</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="First Laravel installations">
+      <created>1620746660672</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1620746660672</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
