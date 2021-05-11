@@ -1,0 +1,19 @@
+{
+  "name": "Gift of Immortality",
+  "lang": "",
+  "price": {
+    "nm": "3.99",
+    "ex": "3.19",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/theros/gift-of-immortality-35125-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/theros/gift-of-immortality-35125-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/theros/gift-of-immortality",
+    "foil": ""
+  }
+}

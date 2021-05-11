@@ -1,0 +1,19 @@
+{
+  "name": "Overeager Apprentice Divine vs Demonic",
+  "lang": "",
+  "price": {
+    "nm": "0.25",
+    "ex": "0.20",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/duel-decks-anthology/overeager-apprentice-divine-vs-demonic-43284-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/duel-decks-anthology/overeager-apprentice-divine-vs-demonic-43284-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/duel-decks-anthology/overeager-apprentice-divine-vs-demonic",
+    "foil": ""
+  }
+}

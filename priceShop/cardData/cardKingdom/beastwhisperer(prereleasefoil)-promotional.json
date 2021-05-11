@@ -1,0 +1,19 @@
+{
+  "name": "Beast Whisperer Prerelease Foil",
+  "lang": "",
+  "price": {
+    "nm": "4.99",
+    "ex": "3.99",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/promotional/beast-whisperer-prerelease-foil-84705-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/promotional/beast-whisperer-prerelease-foil-84705-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/promotional/beast-whisperer-prerelease-foil",
+    "foil": ""
+  }
+}

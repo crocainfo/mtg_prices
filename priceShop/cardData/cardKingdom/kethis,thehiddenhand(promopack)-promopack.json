@@ -1,0 +1,19 @@
+{
+  "name": "Kethis, the Hidden Hand Promo Pack",
+  "lang": "",
+  "price": {
+    "nm": "3.99",
+    "ex": "3.19",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/promo-pack/kethis-the-hidden-hand-promo-pack-88595-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/promo-pack/kethis-the-hidden-hand-promo-pack-88595-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/promo-pack/kethis-the-hidden-hand-promo-pack",
+    "foil": ""
+  }
+}

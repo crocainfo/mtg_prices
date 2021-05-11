@@ -1,0 +1,19 @@
+{
+  "name": "Dominating Licid",
+  "lang": "",
+  "price": {
+    "nm": "9.99",
+    "ex": "7.99",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/exodus/dominating-licid-16189-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/exodus/dominating-licid-16189-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/exodus/dominating-licid",
+    "foil": ""
+  }
+}

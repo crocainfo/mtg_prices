@@ -1,0 +1,19 @@
+{
+  "name": "Wild Instincts",
+  "lang": "",
+  "price": {
+    "nm": "0.25",
+    "ex": "0.20",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/magic-origins/wild-instincts-45407-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/magic-origins/wild-instincts-45407-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/magic-origins/wild-instincts",
+    "foil": ""
+  }
+}

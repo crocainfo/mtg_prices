@@ -1,0 +1,19 @@
+{
+  "name": "Gamble Judge Foil",
+  "lang": "",
+  "price": {
+    "nm": "34.99",
+    "ex": "29.74",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/promotional/gamble-judge-foil-68408-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/promotional/gamble-judge-foil-68408-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/promotional/gamble-judge-foil",
+    "foil": ""
+  }
+}

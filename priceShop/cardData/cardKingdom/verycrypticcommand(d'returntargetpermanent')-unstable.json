@@ -1,0 +1,19 @@
+{
+  "name": "Very Cryptic Command D 'Return target permanent'",
+  "lang": "",
+  "price": {
+    "nm": "3.49 ",
+    "ex": "2.79",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/unstable/very-cryptic-command-d-68333-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/unstable/very-cryptic-command-d-68333-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/unstable/very-cryptic-command-d-return-target-permanent",
+    "foil": ""
+  }
+}

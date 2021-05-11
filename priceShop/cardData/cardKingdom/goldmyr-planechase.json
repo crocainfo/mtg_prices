@@ -1,0 +1,19 @@
+{
+  "name": "Gold Myr",
+  "lang": "",
+  "price": {
+    "nm": "0.99",
+    "ex": "0.79",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/planechase/gold-myr-43534-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/planechase/gold-myr-43534-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/planechase/gold-myr",
+    "foil": ""
+  }
+}

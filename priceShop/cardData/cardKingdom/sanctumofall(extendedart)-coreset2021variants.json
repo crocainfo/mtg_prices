@@ -1,0 +1,19 @@
+{
+  "name": "Sanctum of All Extended Art",
+  "lang": "",
+  "price": {
+    "nm": "2.49",
+    "ex": "1.99",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/core-set-2021-variants/sanctum-of-all-extended-art-19463-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/core-set-2021-variants/sanctum-of-all-extended-art-19463-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/core-set-2021-variants/sanctum-of-all-extended-art",
+    "foil": ""
+  }
+}

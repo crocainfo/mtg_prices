@@ -1,0 +1,19 @@
+{
+  "name": "Su-Chi",
+  "lang": "",
+  "price": {
+    "nm": "139.99",
+    "ex": "125.99",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/antiquities/su-chi-30050-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/antiquities/su-chi-30050-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/antiquities/su-chi",
+    "foil": ""
+  }
+}

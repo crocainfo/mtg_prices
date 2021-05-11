@@ -1,0 +1,19 @@
+{
+  "name": "Guardian Beast",
+  "lang": "",
+  "price": {
+    "nm": "999.99",
+    "ex": "899.99",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/arabian-nights/guardian-beast-56369-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/arabian-nights/guardian-beast-56369-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/arabian-nights/guardian-beast",
+    "foil": ""
+  }
+}

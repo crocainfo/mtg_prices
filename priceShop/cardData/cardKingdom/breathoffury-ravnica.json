@@ -1,0 +1,19 @@
+{
+  "name": "Breath of Fury",
+  "lang": "",
+  "price": {
+    "nm": "1.99",
+    "ex": "1.59",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/ravnica/breath-of-fury-19273-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/ravnica/breath-of-fury-19273-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/ravnica/breath-of-fury",
+    "foil": ""
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "name": "Harmonize",
+  "lang": "",
+  "price": {
+    "nm": "0.49",
+    "ex": "0.39",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/duel-decks-garruk-vs-liliana/harmonize-15048-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/duel-decks-garruk-vs-liliana/harmonize-15048-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/duel-decks-garruk-vs-liliana/harmonize",
+    "foil": ""
+  }
+}

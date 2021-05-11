@@ -1,0 +1,19 @@
+{
+  "name": "Soul Foundry",
+  "lang": "",
+  "price": {
+    "nm": "1.29",
+    "ex": "1.03",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/mirrodin/soul-foundry-1332-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/mirrodin/soul-foundry-1332-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/mirrodin/soul-foundry",
+    "foil": ""
+  }
+}

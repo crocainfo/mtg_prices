@@ -1,0 +1,19 @@
+{
+  "name": "Incinerate",
+  "lang": "",
+  "price": {
+    "nm": "0.25",
+    "ex": "0.20",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/5th-edition/incinerate-25432-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/5th-edition/incinerate-25432-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/5th-edition/incinerate",
+    "foil": ""
+  }
+}

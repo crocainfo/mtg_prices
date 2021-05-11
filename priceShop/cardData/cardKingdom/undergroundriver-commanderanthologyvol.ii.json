@@ -1,0 +1,19 @@
+{
+  "name": "Underground River",
+  "lang": "",
+  "price": {
+    "nm": "11.99",
+    "ex": "9.59",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/commander-anthology-vol-ii/underground-river-29803-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/commander-anthology-vol-ii/underground-river-29803-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/commander-anthology-vol-ii/underground-river",
+    "foil": ""
+  }
+}

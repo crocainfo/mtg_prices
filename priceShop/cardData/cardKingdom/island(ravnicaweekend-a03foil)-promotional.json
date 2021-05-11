@@ -1,0 +1,19 @@
+{
+  "name": "Island Ravnica Weekend - A03 Foil",
+  "lang": "",
+  "price": {
+    "nm": "3.49",
+    "ex": "2.79",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/promotional/island-ravnica-weekend-a03-foil-61242-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/promotional/island-ravnica-weekend-a03-foil-61242-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/promotional/island-ravnica-weekend-a03-foil",
+    "foil": ""
+  }
+}

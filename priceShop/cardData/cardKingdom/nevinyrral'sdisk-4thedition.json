@@ -1,0 +1,19 @@
+{
+  "name": "Nevinyrral's Disk",
+  "lang": "",
+  "price": {
+    "nm": "3.99",
+    "ex": "3.19",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/4th-edition/nevinyrrals-disk-25395-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/4th-edition/nevinyrrals-disk-25395-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/4th-edition/nevinyrrals-disk",
+    "foil": ""
+  }
+}

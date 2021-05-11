@@ -1,0 +1,19 @@
+{
+  "name": "Eidolon of the Great Revel",
+  "lang": "",
+  "price": {
+    "nm": "12.99",
+    "ex": "10.39",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/journey-into-nyx/eidolon-of-the-great-revel-39340-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/journey-into-nyx/eidolon-of-the-great-revel-39340-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/journey-into-nyx/eidolon-of-the-great-revel",
+    "foil": ""
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "name": "Swamp 291 B",
+  "lang": "",
+  "price": {
+    "nm": "0.79",
+    "ex": "0.63",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/shadowmoor/swamp-291-36897-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/shadowmoor/swamp-291-36897-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/shadowmoor/swamp-291-b",
+    "foil": ""
+  }
+}

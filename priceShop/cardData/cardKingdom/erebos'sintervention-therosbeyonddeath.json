@@ -1,0 +1,19 @@
+{
+  "name": "Erebos's Intervention",
+  "lang": "",
+  "price": {
+    "nm": "1.29",
+    "ex": "1.03",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/theros-beyond-death/ereboss-intervention-58776-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/theros-beyond-death/ereboss-intervention-58776-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/theros-beyond-death/ereboss-intervention",
+    "foil": ""
+  }
+}

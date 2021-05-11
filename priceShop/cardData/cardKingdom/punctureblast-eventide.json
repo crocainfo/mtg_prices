@@ -1,0 +1,19 @@
+{
+  "name": "Puncture Blast",
+  "lang": "",
+  "price": {
+    "nm": "0.25",
+    "ex": "0.20",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/eventide/puncture-blast-14818-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/eventide/puncture-blast-14818-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/eventide/puncture-blast",
+    "foil": ""
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "name": "Lorehold Command Extended Art",
+  "lang": "",
+  "price": {
+    "nm": "1.49",
+    "ex": "1.19",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/strixhaven-school-of-mages-variants/lorehold-command-extended-art-47451-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/strixhaven-school-of-mages-variants/lorehold-command-extended-art-47451-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/strixhaven-school-of-mages-variants/lorehold-command-extended-art",
+    "foil": ""
+  }
+}

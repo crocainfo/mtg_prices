@@ -1,0 +1,19 @@
+{
+  "name": "Inner-Chamber Guard",
+  "lang": "",
+  "price": {
+    "nm": "0.49",
+    "ex": "0.39",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/saviors-of-kamigawa/inner-chamber-guard-27292-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/saviors-of-kamigawa/inner-chamber-guard-27292-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/saviors-of-kamigawa/inner-chamber-guard",
+    "foil": ""
+  }
+}

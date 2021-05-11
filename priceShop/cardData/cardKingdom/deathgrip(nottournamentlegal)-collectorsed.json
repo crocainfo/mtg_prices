@@ -1,0 +1,19 @@
+{
+  "name": "Deathgrip Not Tournament Legal",
+  "lang": "",
+  "price": {
+    "nm": "3.99",
+    "ex": "3.19",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/collectors-ed/deathgrip-not-tournament-legal-4651-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/collectors-ed/deathgrip-not-tournament-legal-4651-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/collectors-ed/deathgrip-not-tournament-legal",
+    "foil": ""
+  }
+}

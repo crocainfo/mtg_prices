@@ -1,0 +1,19 @@
+{
+  "name": "March of the Multitudes",
+  "lang": "",
+  "price": {
+    "nm": "3.49",
+    "ex": "2.79",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/guilds-of-ravnica/march-of-the-multitudes-91211-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/guilds-of-ravnica/march-of-the-multitudes-91211-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/guilds-of-ravnica/march-of-the-multitudes",
+    "foil": ""
+  }
+}

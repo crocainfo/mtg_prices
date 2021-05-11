@@ -1,0 +1,19 @@
+{
+  "name": "Elf Warrior Token",
+  "lang": "",
+  "price": {
+    "nm": "0.35",
+    "ex": "0.28",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/masters-25/elf-warrior-token-91191-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/masters-25/elf-warrior-token-91191-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/masters-25/elf-warrior-token",
+    "foil": ""
+  }
+}

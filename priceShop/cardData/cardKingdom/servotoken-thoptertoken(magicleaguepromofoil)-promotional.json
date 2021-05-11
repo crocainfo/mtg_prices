@@ -1,0 +1,19 @@
+{
+  "name": "Servo Token - Thopter Token Magic League Promo Foil",
+  "lang": "",
+  "price": {
+    "nm": "5.99",
+    "ex": "4.79",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/promotional/thopter-token-servo-token-magic-league-promo-19100-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/promotional/thopter-token-servo-token-magic-league-promo-19100-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/promotional/servo-token-thopter-token-magic-league-promo-foil",
+    "foil": ""
+  }
+}

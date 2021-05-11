@@ -1,0 +1,19 @@
+{
+  "name": "Sequestered Stash",
+  "lang": "",
+  "price": {
+    "nm": "0.25",
+    "ex": "0.20",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/kaladesh/sequestered-stash-27278-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/kaladesh/sequestered-stash-27278-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/kaladesh/sequestered-stash",
+    "foil": ""
+  }
+}

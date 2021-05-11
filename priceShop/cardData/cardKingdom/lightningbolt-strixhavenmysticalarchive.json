@@ -1,0 +1,19 @@
+{
+  "name": "Lightning Bolt",
+  "lang": "",
+  "price": {
+    "nm": "4.99",
+    "ex": "3.99",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/strixhaven-mystical-archive/lightning-bolt-45513-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/strixhaven-mystical-archive/lightning-bolt-45513-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/strixhaven-mystical-archive/lightning-bolt",
+    "foil": ""
+  }
+}

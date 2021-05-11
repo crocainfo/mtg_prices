@@ -1,0 +1,19 @@
+{
+  "name": "Draugr Recruiter",
+  "lang": "",
+  "price": {
+    "nm": "0.25",
+    "ex": "0.20",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/kaldheim/draugr-recruiter-31490-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/kaldheim/draugr-recruiter-31490-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/kaldheim/draugr-recruiter",
+    "foil": ""
+  }
+}

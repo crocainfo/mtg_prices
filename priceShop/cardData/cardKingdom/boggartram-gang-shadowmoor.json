@@ -1,0 +1,19 @@
+{
+  "name": "Boggart Ram-Gang",
+  "lang": "",
+  "price": {
+    "nm": "0.39",
+    "ex": "0.31",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/shadowmoor/boggart-ram-gang-9980-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/shadowmoor/boggart-ram-gang-9980-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/shadowmoor/boggart-ram-gang",
+    "foil": ""
+  }
+}

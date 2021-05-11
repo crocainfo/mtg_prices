@@ -1,0 +1,19 @@
+{
+  "name": "Shu General",
+  "lang": "",
+  "price": {
+    "nm": "12.99",
+    "ex": "10.39",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/portal-3k/shu-general-11297-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/portal-3k/shu-general-11297-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/portal-3k/shu-general",
+    "foil": ""
+  }
+}

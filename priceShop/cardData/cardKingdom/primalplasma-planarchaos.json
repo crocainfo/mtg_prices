@@ -1,0 +1,19 @@
+{
+  "name": "Primal Plasma",
+  "lang": "",
+  "price": {
+    "nm": "0.25",
+    "ex": "0.20",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/planar-chaos/primal-plasma-13347-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/planar-chaos/primal-plasma-13347-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/planar-chaos/primal-plasma",
+    "foil": ""
+  }
+}

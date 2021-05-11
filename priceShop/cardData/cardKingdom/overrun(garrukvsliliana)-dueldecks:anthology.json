@@ -1,0 +1,19 @@
+{
+  "name": "Overrun Garruk vs Liliana",
+  "lang": "",
+  "price": {
+    "nm": "0.39",
+    "ex": "0.31",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/duel-decks-anthology/overrun-garruk-vs-liliana-43137-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/duel-decks-anthology/overrun-garruk-vs-liliana-43137-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/duel-decks-anthology/overrun-garruk-vs-liliana",
+    "foil": ""
+  }
+}

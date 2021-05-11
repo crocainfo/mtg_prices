@@ -1,0 +1,19 @@
+{
+  "name": "Avatar of Woe",
+  "lang": "",
+  "price": {
+    "nm": "3.49",
+    "ex": "2.79",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/timeshifted/avatar-of-woe-20486-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/timeshifted/avatar-of-woe-20486-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/timeshifted/avatar-of-woe",
+    "foil": ""
+  }
+}

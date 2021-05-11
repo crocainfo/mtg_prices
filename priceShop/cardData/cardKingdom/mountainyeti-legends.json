@@ -1,0 +1,19 @@
+{
+  "name": "Mountain Yeti",
+  "lang": "",
+  "price": {
+    "nm": "5.99",
+    "ex": "4.79",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/legends/mountain-yeti-5784-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/legends/mountain-yeti-5784-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/legends/mountain-yeti",
+    "foil": ""
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "name": "Dwarven Ruins",
+  "lang": "",
+  "price": {
+    "nm": "0.39",
+    "ex": "0.31",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/fallen-empires/dwarven-ruins-39601-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/fallen-empires/dwarven-ruins-39601-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/fallen-empires/dwarven-ruins",
+    "foil": ""
+  }
+}

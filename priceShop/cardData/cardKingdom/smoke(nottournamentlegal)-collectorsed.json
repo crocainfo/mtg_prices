@@ -1,0 +1,19 @@
+{
+  "name": "Smoke Not Tournament Legal",
+  "lang": "",
+  "price": {
+    "nm": "8.49",
+    "ex": "6.79",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/collectors-ed/smoke-not-tournament-legal-23546-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/collectors-ed/smoke-not-tournament-legal-23546-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/collectors-ed/smoke-not-tournament-legal",
+    "foil": ""
+  }
+}

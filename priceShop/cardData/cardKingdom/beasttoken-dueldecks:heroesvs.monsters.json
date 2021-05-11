@@ -1,0 +1,19 @@
+{
+  "name": "Beast Token",
+  "lang": "",
+  "price": {
+    "nm": "0.25",
+    "ex": "0.20",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/duel-decks-heroes-vs-monsters/beast-token-35035-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/duel-decks-heroes-vs-monsters/beast-token-35035-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/duel-decks-heroes-vs-monsters/beast-token",
+    "foil": ""
+  }
+}

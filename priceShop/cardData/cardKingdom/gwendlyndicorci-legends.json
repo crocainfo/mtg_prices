@@ -1,0 +1,19 @@
+{
+  "name": "Gwendlyn Di Corci",
+  "lang": "",
+  "price": {
+    "nm": "559.99",
+    "ex": "503.99",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/legends/gwendlyn-di-corci-79352-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/legends/gwendlyn-di-corci-79352-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/legends/gwendlyn-di-corci",
+    "foil": ""
+  }
+}

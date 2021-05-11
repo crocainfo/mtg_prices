@@ -1,0 +1,19 @@
+{
+  "name": "Golem Token // Thopter Token Flying",
+  "lang": "",
+  "price": {
+    "nm": "0.25",
+    "ex": "0.20",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/commander-2021/golem-token-thopter-token-flying-33969-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/commander-2021/golem-token-thopter-token-flying-33969-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/commander-2021/golem-token-thopter-token-flying",
+    "foil": ""
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "name": "Earthquake",
+  "lang": "",
+  "price": {
+    "nm": "2.29",
+    "ex": "1.83",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/5th-edition/earthquake-5019-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/5th-edition/earthquake-5019-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/5th-edition/earthquake",
+    "foil": ""
+  }
+}

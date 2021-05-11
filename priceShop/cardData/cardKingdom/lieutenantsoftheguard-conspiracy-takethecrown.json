@@ -1,0 +1,19 @@
+{
+  "name": "Lieutenants of the Guard",
+  "lang": "",
+  "price": {
+    "nm": "0.25",
+    "ex": "0.20",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/conspiracy-take-the-crown/lieutenants-of-the-guard-56018-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/conspiracy-take-the-crown/lieutenants-of-the-guard-56018-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/conspiracy-take-the-crown/lieutenants-of-the-guard",
+    "foil": ""
+  }
+}

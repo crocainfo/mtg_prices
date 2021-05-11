@@ -1,0 +1,19 @@
+{
+  "name": "Dawning Angel",
+  "lang": "",
+  "price": {
+    "nm": "0.25",
+    "ex": "0.20",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/core-set-2020/core-set-2020-54192-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/core-set-2020/core-set-2020-54192-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/core-set-2020/dawning-angel",
+    "foil": ""
+  }
+}

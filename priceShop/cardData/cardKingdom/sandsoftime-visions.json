@@ -1,0 +1,19 @@
+{
+  "name": "Sands of Time",
+  "lang": "",
+  "price": {
+    "nm": "9.99",
+    "ex": "7.99",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/visions/sands-of-time-67966-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/visions/sands-of-time-67966-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/visions/sands-of-time",
+    "foil": ""
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "name": "Lay Claim",
+  "lang": "",
+  "price": {
+    "nm": "0.35",
+    "ex": "0.28",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/amonkhet/lay-claim-76086-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/amonkhet/lay-claim-76086-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/amonkhet/lay-claim",
+    "foil": ""
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "name": "Plated Rootwalla",
+  "lang": "",
+  "price": {
+    "nm": "0.25",
+    "ex": "0.20",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/battle-royale/plated-rootwalla-27890-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/battle-royale/plated-rootwalla-27890-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/battle-royale/plated-rootwalla",
+    "foil": ""
+  }
+}

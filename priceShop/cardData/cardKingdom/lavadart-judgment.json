@@ -1,0 +1,19 @@
+{
+  "name": "Lava Dart",
+  "lang": "",
+  "price": {
+    "nm": "0.29",
+    "ex": "0.23",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/judgment/lava-dart-9249-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/judgment/lava-dart-9249-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/judgment/lava-dart",
+    "foil": ""
+  }
+}

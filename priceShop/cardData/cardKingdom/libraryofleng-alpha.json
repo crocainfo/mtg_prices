@@ -1,0 +1,19 @@
+{
+  "name": "Library of Leng",
+  "lang": "",
+  "price": {
+    "nm": "399.99",
+    "ex": "319.99",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/alpha/library-of-leng-9847-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/alpha/library-of-leng-9847-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/alpha/library-of-leng",
+    "foil": ""
+  }
+}

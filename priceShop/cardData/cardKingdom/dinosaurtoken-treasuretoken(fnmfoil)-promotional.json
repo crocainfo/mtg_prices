@@ -1,0 +1,19 @@
+{
+  "name": "Dinosaur Token - Treasure Token FNM Foil",
+  "lang": "",
+  "price": {
+    "nm": "0.79",
+    "ex": "0.63",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/promotional/dinosaur-token-treasure-token-fnm-18251-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/promotional/dinosaur-token-treasure-token-fnm-18251-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/promotional/dinosaur-token-treasure-token-fnm-foil",
+    "foil": ""
+  }
+}

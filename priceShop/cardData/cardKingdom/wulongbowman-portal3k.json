@@ -1,0 +1,19 @@
+{
+  "name": "Wu Longbowman",
+  "lang": "",
+  "price": {
+    "nm": "4.49",
+    "ex": "3.59",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/portal-3k/wu-longbowman-15739-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/portal-3k/wu-longbowman-15739-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/portal-3k/wu-longbowman",
+    "foil": ""
+  }
+}

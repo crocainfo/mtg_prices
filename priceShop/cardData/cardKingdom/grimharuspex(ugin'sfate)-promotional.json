@@ -1,0 +1,19 @@
+{
+  "name": "Grim Haruspex Ugin's Fate",
+  "lang": "",
+  "price": {
+    "nm": "19.99",
+    "ex": "16.99",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/promotional/grim-haruspex-ugins-fate-promo-42841-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/promotional/grim-haruspex-ugins-fate-promo-42841-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/promotional/grim-haruspex-ugins-fate",
+    "foil": ""
+  }
+}

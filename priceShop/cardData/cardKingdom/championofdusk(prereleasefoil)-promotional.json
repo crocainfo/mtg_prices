@@ -1,0 +1,19 @@
+{
+  "name": "Champion of Dusk Prerelease Foil",
+  "lang": "",
+  "price": {
+    "nm": "4.99",
+    "ex": "3.99",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/promotional/champion-of-dusk-prerelease-foil-15370-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/promotional/champion-of-dusk-prerelease-foil-15370-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/promotional/champion-of-dusk-prerelease-foil",
+    "foil": ""
+  }
+}

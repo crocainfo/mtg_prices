@@ -1,0 +1,19 @@
+{
+  "name": "Very Cryptic Command F 'Scry 3'",
+  "lang": "",
+  "price": {
+    "nm": "2.29",
+    "ex": "1.83",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/unstable/very-cryptic-command-f-60874-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/unstable/very-cryptic-command-f-60874-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/unstable/very-cryptic-command-f-scry-3",
+    "foil": ""
+  }
+}

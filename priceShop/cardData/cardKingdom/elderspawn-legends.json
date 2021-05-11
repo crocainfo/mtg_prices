@@ -1,0 +1,19 @@
+{
+  "name": "Elder Spawn",
+  "lang": "",
+  "price": {
+    "nm": "39.99",
+    "ex": "33.99",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/legends/elder-spawn-8319-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/legends/elder-spawn-8319-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/legends/elder-spawn",
+    "foil": ""
+  }
+}

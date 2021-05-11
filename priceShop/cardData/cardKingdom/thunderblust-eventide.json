@@ -1,0 +1,19 @@
+{
+  "name": "Thunderblust",
+  "lang": "",
+  "price": {
+    "nm": "0.99",
+    "ex": "0.79",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/eventide/thunderblust-21583-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/eventide/thunderblust-21583-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/eventide/thunderblust",
+    "foil": ""
+  }
+}

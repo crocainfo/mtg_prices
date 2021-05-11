@@ -1,0 +1,19 @@
+{
+  "name": "Atla Palani, Nest Tender Foil",
+  "lang": "",
+  "price": {
+    "nm": "1.49",
+    "ex": "1.19",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/commander-2019/atla-palani-nest-tender-foil-12542-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/commander-2019/atla-palani-nest-tender-foil-12542-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/commander-2019/atla-palani-nest-tender-foil",
+    "foil": ""
+  }
+}

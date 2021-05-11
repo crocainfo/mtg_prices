@@ -1,0 +1,19 @@
+{
+  "name": "Stalwart Valkyrie",
+  "lang": "",
+  "price": {
+    "nm": "0.25",
+    "ex": "0.20",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/kaldheim/stalwart-valkyrie-53815-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/kaldheim/stalwart-valkyrie-53815-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/kaldheim/stalwart-valkyrie",
+    "foil": ""
+  }
+}

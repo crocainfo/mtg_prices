@@ -1,0 +1,19 @@
+{
+  "name": "Blaze of Glory Not Tournament Legal",
+  "lang": "",
+  "price": {
+    "nm": "29.99",
+    "ex": "25.49",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/collectors-ed-intl/blaze-of-glory-not-tournament-legal-21530-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/collectors-ed-intl/blaze-of-glory-not-tournament-legal-21530-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/collectors-ed-intl/blaze-of-glory-not-tournament-legal",
+    "foil": ""
+  }
+}

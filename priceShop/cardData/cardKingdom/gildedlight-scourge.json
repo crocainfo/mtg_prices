@@ -1,0 +1,19 @@
+{
+  "name": "Gilded Light",
+  "lang": "",
+  "price": {
+    "nm": "0.35",
+    "ex": "0.28",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/scourge/gilded-light-27578-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/scourge/gilded-light-27578-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/scourge/gilded-light",
+    "foil": ""
+  }
+}

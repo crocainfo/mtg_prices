@@ -1,0 +1,19 @@
+{
+  "name": "Molderhulk",
+  "lang": "",
+  "price": {
+    "nm": "0.25",
+    "ex": "0.20",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/guilds-of-ravnica/molderhulk-30205-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/guilds-of-ravnica/molderhulk-30205-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/guilds-of-ravnica/molderhulk",
+    "foil": ""
+  }
+}

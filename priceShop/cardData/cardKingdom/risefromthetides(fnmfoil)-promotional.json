@@ -1,0 +1,19 @@
+{
+  "name": "Rise from the Tides FNM Foil",
+  "lang": "",
+  "price": {
+    "nm": "0.49",
+    "ex": "0.39",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/promotional/rise-from-the-tides-fnm-foil-58671-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/promotional/rise-from-the-tides-fnm-foil-58671-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/promotional/rise-from-the-tides-fnm-foil",
+    "foil": ""
+  }
+}

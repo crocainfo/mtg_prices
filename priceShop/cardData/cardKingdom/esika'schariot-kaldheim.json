@@ -1,0 +1,19 @@
+{
+  "name": "Esika's Chariot",
+  "lang": "",
+  "price": {
+    "nm": "0.99",
+    "ex": "0.79",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/kaldheim/esikas-chariot-12418-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/kaldheim/esikas-chariot-12418-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/kaldheim/esikas-chariot",
+    "foil": ""
+  }
+}

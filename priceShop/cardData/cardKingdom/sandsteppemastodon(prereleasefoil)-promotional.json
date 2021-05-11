@@ -1,0 +1,19 @@
+{
+  "name": "Sandsteppe Mastodon Prerelease Foil",
+  "lang": "",
+  "price": {
+    "nm": "0.39",
+    "ex": "0.31",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/promotional/sandsteppe-mastodon-prerelease-foil-51219-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/promotional/sandsteppe-mastodon-prerelease-foil-51219-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/promotional/sandsteppe-mastodon-prerelease-foil",
+    "foil": ""
+  }
+}

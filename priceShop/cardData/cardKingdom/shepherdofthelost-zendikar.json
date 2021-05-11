@@ -1,0 +1,19 @@
+{
+  "name": "Shepherd of the Lost",
+  "lang": "",
+  "price": {
+    "nm": "0.25",
+    "ex": "0.20",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/zendikar/shepherd-of-the-lost-20308-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/zendikar/shepherd-of-the-lost-20308-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/zendikar/shepherd-of-the-lost",
+    "foil": ""
+  }
+}

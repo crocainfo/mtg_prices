@@ -1,0 +1,19 @@
+{
+  "name": "Inferno Titan",
+  "lang": "",
+  "price": {
+    "nm": "2.29",
+    "ex": "1.83",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/commander-2013/inferno-titan-36182-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/commander-2013/inferno-titan-36182-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/commander-2013/inferno-titan",
+    "foil": ""
+  }
+}

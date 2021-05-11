@@ -1,0 +1,19 @@
+{
+  "name": "Reiver Demon",
+  "lang": "",
+  "price": {
+    "nm": "1.49",
+    "ex": "1.19",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/commander/reiver-demon-29829-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/commander/reiver-demon-29829-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/commander/reiver-demon",
+    "foil": ""
+  }
+}

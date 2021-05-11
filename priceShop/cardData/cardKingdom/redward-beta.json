@@ -1,0 +1,19 @@
+{
+  "name": "Red Ward",
+  "lang": "",
+  "price": {
+    "nm": "15.99",
+    "ex": "12.79",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/beta/red-ward-15501-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/beta/red-ward-15501-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/beta/red-ward",
+    "foil": ""
+  }
+}

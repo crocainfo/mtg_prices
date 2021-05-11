@@ -1,0 +1,19 @@
+{
+  "name": "Bone Saw",
+  "lang": "",
+  "price": {
+    "nm": "0.25",
+    "ex": "0.20",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/oath-of-the-gatewatch/bone-saw-76598-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/oath-of-the-gatewatch/bone-saw-76598-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/oath-of-the-gatewatch/bone-saw",
+    "foil": ""
+  }
+}

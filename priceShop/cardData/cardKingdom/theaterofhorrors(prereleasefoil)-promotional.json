@@ -1,0 +1,19 @@
+{
+  "name": "Theater of Horrors Prerelease Foil",
+  "lang": "",
+  "price": {
+    "nm": "0.99",
+    "ex": "0.79",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/promotional/prerelease-foil-18815-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/promotional/prerelease-foil-18815-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/promotional/theater-of-horrors-prerelease-foil",
+    "foil": ""
+  }
+}

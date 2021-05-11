@@ -1,0 +1,19 @@
+{
+  "name": "Krav, the Unredeemed",
+  "lang": "",
+  "price": {
+    "nm": "7.49",
+    "ex": "5.99",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/battlebond/krav-the-unredeemed-56577-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/battlebond/krav-the-unredeemed-56577-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/battlebond/krav-the-unredeemed",
+    "foil": ""
+  }
+}

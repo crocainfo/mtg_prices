@@ -1,0 +1,19 @@
+{
+  "name": "Chaoslace Not Tournament Legal",
+  "lang": "",
+  "price": {
+    "nm": "4.99",
+    "ex": "3.99",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/collectors-ed-intl/chaoslace-not-tournament-legal-15218-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/collectors-ed-intl/chaoslace-not-tournament-legal-15218-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/collectors-ed-intl/chaoslace-not-tournament-legal",
+    "foil": ""
+  }
+}

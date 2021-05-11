@@ -1,0 +1,19 @@
+{
+  "name": "Stonecoil Serpent Extended Art",
+  "lang": "",
+  "price": {
+    "nm": "10.99",
+    "ex": "8.79",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/throne-of-eldraine-variants/stonecoil-serpent-extended-art-42056-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/throne-of-eldraine-variants/stonecoil-serpent-extended-art-42056-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/throne-of-eldraine-variants/stonecoil-serpent-extended-art",
+    "foil": ""
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "name": "Echo of Eons Not Tournament Legal",
+  "lang": "",
+  "price": {
+    "nm": "0.25",
+    "ex": "0.20",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/art-series/echo-of-eons-not-tournament-legal-27193-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/art-series/echo-of-eons-not-tournament-legal-27193-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/art-series/echo-of-eons-not-tournament-legal",
+    "foil": ""
+  }
+}

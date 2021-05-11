@@ -1,0 +1,19 @@
+{
+  "name": "Silk Net",
+  "lang": "",
+  "price": {
+    "nm": "0.25",
+    "ex": "0.20",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/urzas-legacy/silk-net-8442-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/urzas-legacy/silk-net-8442-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/urzas-legacy/silk-net",
+    "foil": ""
+  }
+}

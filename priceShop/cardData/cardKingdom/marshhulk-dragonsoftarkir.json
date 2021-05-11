@@ -1,0 +1,19 @@
+{
+  "name": "Marsh Hulk",
+  "lang": "",
+  "price": {
+    "nm": "0.25 ",
+    "ex": "0.20",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/dragons-of-tarkir/marsh-hulk-43792-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/dragons-of-tarkir/marsh-hulk-43792-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/dragons-of-tarkir/marsh-hulk",
+    "foil": ""
+  }
+}

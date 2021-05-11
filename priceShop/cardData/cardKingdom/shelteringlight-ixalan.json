@@ -1,0 +1,19 @@
+{
+  "name": "Sheltering Light",
+  "lang": "",
+  "price": {
+    "nm": "0.25",
+    "ex": "0.20",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/ixalan/sheltering-light-62072-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/ixalan/sheltering-light-62072-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/ixalan/sheltering-light",
+    "foil": ""
+  }
+}

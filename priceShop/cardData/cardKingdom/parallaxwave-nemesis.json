@@ -1,0 +1,19 @@
+{
+  "name": "Parallax Wave",
+  "lang": "",
+  "price": {
+    "nm": "7.49",
+    "ex": "5.99",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/nemesis/parallax-wave-51662-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/nemesis/parallax-wave-51662-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/nemesis/parallax-wave",
+    "foil": ""
+  }
+}

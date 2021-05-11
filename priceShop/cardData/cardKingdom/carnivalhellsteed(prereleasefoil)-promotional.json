@@ -1,0 +1,19 @@
+{
+  "name": "Carnival Hellsteed Prerelease Foil",
+  "lang": "",
+  "price": {
+    "nm": "0.35",
+    "ex": "0.28",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/promotional/carnival-hellsteed-prerelease-foil-32617-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/promotional/carnival-hellsteed-prerelease-foil-32617-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/promotional/carnival-hellsteed-prerelease-foil",
+    "foil": ""
+  }
+}

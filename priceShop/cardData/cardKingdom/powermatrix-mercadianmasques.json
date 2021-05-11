@@ -1,0 +1,19 @@
+{
+  "name": "Power Matrix",
+  "lang": "",
+  "price": {
+    "nm": "7.99",
+    "ex": "6.39",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/mercadian-masques/power-matrix-2771-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/mercadian-masques/power-matrix-2771-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/mercadian-masques/power-matrix",
+    "foil": ""
+  }
+}

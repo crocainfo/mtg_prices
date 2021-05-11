@@ -1,0 +1,19 @@
+{
+  "name": "Reins of Power",
+  "lang": "",
+  "price": {
+    "nm": "2.49",
+    "ex": "1.99",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/stronghold/reins-of-power-16329-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/stronghold/reins-of-power-16329-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/stronghold/reins-of-power",
+    "foil": ""
+  }
+}

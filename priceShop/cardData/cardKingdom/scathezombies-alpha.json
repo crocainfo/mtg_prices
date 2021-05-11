@@ -1,0 +1,19 @@
+{
+  "name": "Scathe Zombies",
+  "lang": "",
+  "price": {
+    "nm": "64.99",
+    "ex": "51.99",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/alpha/scathe-zombies-14226-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/alpha/scathe-zombies-14226-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/alpha/scathe-zombies",
+    "foil": ""
+  }
+}

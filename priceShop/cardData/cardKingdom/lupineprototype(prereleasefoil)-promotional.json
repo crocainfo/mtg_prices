@@ -1,0 +1,19 @@
+{
+  "name": "Lupine Prototype Prerelease Foil",
+  "lang": "",
+  "price": {
+    "nm": "1.99",
+    "ex": "1.59",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/promotional/lupine-prototype-prerelease-foil-34307-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/promotional/lupine-prototype-prerelease-foil-34307-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/promotional/lupine-prototype-prerelease-foil",
+    "foil": ""
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "name": "Teferi, Master of Time Borderless",
+  "lang": "",
+  "price": {
+    "nm": "19.99",
+    "ex": "16.99",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/core-set-2021-variants/teferi-master-of-time-borderless-52343-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/core-set-2021-variants/teferi-master-of-time-borderless-52343-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/core-set-2021-variants/teferi-master-of-time-borderless",
+    "foil": ""
+  }
+}

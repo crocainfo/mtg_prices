@@ -1,0 +1,19 @@
+{
+  "name": "Strategic Planning",
+  "lang": "",
+  "price": {
+    "nm": "21.99",
+    "ex": "18.69",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/portal-3k/strategic-planning-58512-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/portal-3k/strategic-planning-58512-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/portal-3k/strategic-planning",
+    "foil": ""
+  }
+}

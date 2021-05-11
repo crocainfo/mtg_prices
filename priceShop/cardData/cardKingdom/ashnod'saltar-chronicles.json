@@ -1,0 +1,19 @@
+{
+  "name": "Ashnod's Altar",
+  "lang": "",
+  "price": {
+    "nm": "11.99",
+    "ex": "9.59",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/chronicles/ashnods-altar-28632-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/chronicles/ashnods-altar-28632-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/chronicles/ashnods-altar",
+    "foil": ""
+  }
+}

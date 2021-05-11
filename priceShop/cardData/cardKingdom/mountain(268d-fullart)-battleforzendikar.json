@@ -1,0 +1,19 @@
+{
+  "name": "Mountain 268 D - Full Art",
+  "lang": "",
+  "price": {
+    "nm": "0.79",
+    "ex": "0.63",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/battle-for-zendikar/mountain-268-d-full-art-67193-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/battle-for-zendikar/mountain-268-d-full-art-67193-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/battle-for-zendikar/mountain-268-d-full-art",
+    "foil": ""
+  }
+}

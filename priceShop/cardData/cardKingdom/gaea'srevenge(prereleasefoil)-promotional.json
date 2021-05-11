@@ -1,0 +1,19 @@
+{
+  "name": "Gaea's Revenge Prerelease Foil",
+  "lang": "",
+  "price": {
+    "nm": "0.99",
+    "ex": "0.79",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/promotional/gaeas-revenge-prerelease-foil-70426-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/promotional/gaeas-revenge-prerelease-foil-70426-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/promotional/gaeas-revenge-prerelease-foil",
+    "foil": ""
+  }
+}

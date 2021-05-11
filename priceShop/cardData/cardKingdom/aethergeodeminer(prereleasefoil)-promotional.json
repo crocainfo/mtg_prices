@@ -1,0 +1,19 @@
+{
+  "name": "Aethergeode Miner Prerelease Foil",
+  "lang": "",
+  "price": {
+    "nm": "0.49",
+    "ex": "0.39",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/promotional/aethergeode-miner-prerelease-foil-59217-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/promotional/aethergeode-miner-prerelease-foil-59217-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/promotional/aethergeode-miner-prerelease-foil",
+    "foil": ""
+  }
+}

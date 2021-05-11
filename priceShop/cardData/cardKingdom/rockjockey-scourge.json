@@ -1,0 +1,19 @@
+{
+  "name": "Rock Jockey",
+  "lang": "",
+  "price": {
+    "nm": "0.25",
+    "ex": "0.20",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/scourge/rock-jockey-10032-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/scourge/rock-jockey-10032-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/scourge/rock-jockey",
+    "foil": ""
+  }
+}

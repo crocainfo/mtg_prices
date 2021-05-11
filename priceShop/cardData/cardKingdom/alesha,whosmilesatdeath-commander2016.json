@@ -1,0 +1,19 @@
+{
+  "name": "Alesha, Who Smiles at Death",
+  "lang": "",
+  "price": {
+    "nm": "0.35",
+    "ex": "0.28 ",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/commander-2016/alesha-who-smiles-at-death-14715-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/commander-2016/alesha-who-smiles-at-death-14715-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/commander-2016/alesha-who-smiles-at-death",
+    "foil": ""
+  }
+}

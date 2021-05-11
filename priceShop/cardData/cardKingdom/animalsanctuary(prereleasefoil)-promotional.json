@@ -1,0 +1,19 @@
+{
+  "name": "Animal Sanctuary Prerelease Foil",
+  "lang": "",
+  "price": {
+    "nm": "2.99",
+    "ex": "2.39",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/promotional/animal-sanctuary-prerelease-foil-95237-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/promotional/animal-sanctuary-prerelease-foil-95237-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/promotional/animal-sanctuary-prerelease-foil",
+    "foil": ""
+  }
+}

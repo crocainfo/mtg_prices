@@ -1,0 +1,19 @@
+{
+  "name": "Veteran Bodyguard",
+  "lang": "",
+  "price": {
+    "nm": "449.99",
+    "ex": "359.99",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/beta/veteran-bodyguard-18409-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/beta/veteran-bodyguard-18409-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/beta/veteran-bodyguard",
+    "foil": ""
+  }
+}

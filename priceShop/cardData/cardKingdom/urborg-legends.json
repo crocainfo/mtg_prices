@@ -1,0 +1,19 @@
+{
+  "name": "Urborg",
+  "lang": "",
+  "price": {
+    "nm": "34.99",
+    "ex": "29.74",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/legends/urborg-76377-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/legends/urborg-76377-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/legends/urborg",
+    "foil": ""
+  }
+}

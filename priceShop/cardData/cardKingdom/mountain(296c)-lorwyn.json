@@ -1,0 +1,19 @@
+{
+  "name": "Mountain 296 C",
+  "lang": "",
+  "price": {
+    "nm": "0.39",
+    "ex": "0.31",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/lorwyn/mountain-296-37093-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/lorwyn/mountain-296-37093-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/lorwyn/mountain-296-c",
+    "foil": ""
+  }
+}

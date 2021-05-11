@@ -1,0 +1,19 @@
+{
+  "name": "Prized Unicorn Welcome Deck",
+  "lang": "",
+  "price": {
+    "nm": "2.29",
+    "ex": "1.83",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/core-set-2020/prized-unicorn-welcome-deck-75902-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/core-set-2020/prized-unicorn-welcome-deck-75902-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/core-set-2020/prized-unicorn-welcome-deck",
+    "foil": ""
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "name": "Goblin Matron",
+  "lang": "",
+  "price": {
+    "nm": "2.29",
+    "ex": "1.83",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/duel-decks-elves-vs-goblins/goblin-matron-2458-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/duel-decks-elves-vs-goblins/goblin-matron-2458-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/duel-decks-elves-vs-goblins/goblin-matron",
+    "foil": ""
+  }
+}

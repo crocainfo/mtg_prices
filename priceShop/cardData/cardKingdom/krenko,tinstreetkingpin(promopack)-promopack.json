@@ -1,0 +1,19 @@
+{
+  "name": "Krenko, Tin Street Kingpin Promo Pack",
+  "lang": "",
+  "price": {
+    "nm": "3.99",
+    "ex": "3.19",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/promo-pack-throne-of-eldraine/promo-pack-65133-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/promo-pack-throne-of-eldraine/promo-pack-65133-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/promo-pack/krenko-tin-street-kingpin-promo-pack",
+    "foil": ""
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "name": "Savor the Moment",
+  "lang": "",
+  "price": {
+    "nm": "9.99",
+    "ex": "7.99",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/shadowmoor/savor-the-moment-27614-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/shadowmoor/savor-the-moment-27614-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/shadowmoor/savor-the-moment",
+    "foil": ""
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "name": "Fevered Strength Foaming Mouth",
+  "lang": "",
+  "price": {
+    "nm": "0.25",
+    "ex": "0.20",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/alliances/fevered-strength-69693-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/alliances/fevered-strength-69693-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/alliances/fevered-strength-foaming-mouth",
+    "foil": ""
+  }
+}

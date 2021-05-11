@@ -1,0 +1,19 @@
+{
+  "name": "Bident of Thassa",
+  "lang": "",
+  "price": {
+    "nm": "2.99",
+    "ex": "2.39",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/commander-2015/bident-of-thassa-99692-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/commander-2015/bident-of-thassa-99692-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/commander-2015/bident-of-thassa",
+    "foil": ""
+  }
+}

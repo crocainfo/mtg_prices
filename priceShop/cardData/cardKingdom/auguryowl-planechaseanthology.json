@@ -1,0 +1,19 @@
+{
+  "name": "Augury Owl",
+  "lang": "",
+  "price": {
+    "nm": "0.25",
+    "ex": "0.20",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/planechase-anthology/augury-owl-94070-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/planechase-anthology/augury-owl-94070-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/planechase-anthology/augury-owl",
+    "foil": ""
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "name": "Goblin Rabblemaster",
+  "lang": "",
+  "price": {
+    "nm": "4.49 ",
+    "ex": "3.59",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/duel-decks-merfolk-vs-goblins/goblin-rabblemaster-78864-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/duel-decks-merfolk-vs-goblins/goblin-rabblemaster-78864-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/duel-decks-merfolk-vs-goblins/goblin-rabblemaster",
+    "foil": ""
+  }
+}

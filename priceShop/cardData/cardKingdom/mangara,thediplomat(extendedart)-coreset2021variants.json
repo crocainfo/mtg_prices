@@ -1,0 +1,19 @@
+{
+  "name": "Mangara, the Diplomat Extended Art",
+  "lang": "",
+  "price": {
+    "nm": "25.99",
+    "ex": "22.09",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/core-set-2021-variants/mangara-the-diplomat-extended-art-70252-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/core-set-2021-variants/mangara-the-diplomat-extended-art-70252-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/core-set-2021-variants/mangara-the-diplomat-extended-art",
+    "foil": ""
+  }
+}

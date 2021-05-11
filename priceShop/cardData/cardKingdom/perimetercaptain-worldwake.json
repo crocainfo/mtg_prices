@@ -1,0 +1,19 @@
+{
+  "name": "Perimeter Captain",
+  "lang": "",
+  "price": {
+    "nm": "0.99",
+    "ex": "0.79",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/worldwake/perimeter-captain-25273-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/worldwake/perimeter-captain-25273-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/worldwake/perimeter-captain",
+    "foil": ""
+  }
+}

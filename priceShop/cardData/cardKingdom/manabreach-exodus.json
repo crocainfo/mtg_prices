@@ -1,0 +1,19 @@
+{
+  "name": "Mana Breach",
+  "lang": "",
+  "price": {
+    "nm": "2.29",
+    "ex": "1.83",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/exodus/mana-breach-56531-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/exodus/mana-breach-56531-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/exodus/mana-breach",
+    "foil": ""
+  }
+}

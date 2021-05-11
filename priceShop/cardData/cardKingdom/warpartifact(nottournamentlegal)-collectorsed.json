@@ -1,0 +1,19 @@
+{
+  "name": "Warp Artifact Not Tournament Legal",
+  "lang": "",
+  "price": {
+    "nm": "4.49",
+    "ex": "3.59",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/collectors-ed/warp-artifact-not-tournament-legal-26323-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/collectors-ed/warp-artifact-not-tournament-legal-26323-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/collectors-ed/warp-artifact-not-tournament-legal",
+    "foil": ""
+  }
+}

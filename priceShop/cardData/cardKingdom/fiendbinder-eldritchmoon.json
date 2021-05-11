@@ -1,0 +1,19 @@
+{
+  "name": "Fiend Binder",
+  "lang": "",
+  "price": {
+    "nm": "0.25",
+    "ex": "0.20",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/eldritch-moon/fiend-binder-53146-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/eldritch-moon/fiend-binder-53146-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/eldritch-moon/fiend-binder",
+    "foil": ""
+  }
+}

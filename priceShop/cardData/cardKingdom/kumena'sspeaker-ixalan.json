@@ -1,0 +1,19 @@
+{
+  "name": "Kumena's Speaker",
+  "lang": "",
+  "price": {
+    "nm": "0.25",
+    "ex": "0.20",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/ixalan/kumenas-speaker-61874-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/ixalan/kumenas-speaker-61874-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/ixalan/kumenas-speaker",
+    "foil": ""
+  }
+}

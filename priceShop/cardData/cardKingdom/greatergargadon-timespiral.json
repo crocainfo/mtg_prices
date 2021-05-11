@@ -1,0 +1,19 @@
+{
+  "name": "Greater Gargadon",
+  "lang": "",
+  "price": {
+    "nm": "0.99",
+    "ex": "0.79",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/time-spiral/greater-gargadon-26737-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/time-spiral/greater-gargadon-26737-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/time-spiral/greater-gargadon",
+    "foil": ""
+  }
+}

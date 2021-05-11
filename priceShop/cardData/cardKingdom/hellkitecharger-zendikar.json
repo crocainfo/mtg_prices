@@ -1,0 +1,19 @@
+{
+  "name": "Hellkite Charger",
+  "lang": "",
+  "price": {
+    "nm": "2.79",
+    "ex": "2.23",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/zendikar/hellkite-charger-7052-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/zendikar/hellkite-charger-7052-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/zendikar/hellkite-charger",
+    "foil": ""
+  }
+}

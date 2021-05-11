@@ -1,0 +1,19 @@
+{
+  "name": "Kami of the Palace Fields",
+  "lang": "",
+  "price": {
+    "nm": "0.25",
+    "ex": "0.20",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/champions-of-kamigawa/kami-of-the-palace-fields-16183-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/champions-of-kamigawa/kami-of-the-palace-fields-16183-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/champions-of-kamigawa/kami-of-the-palace-fields",
+    "foil": ""
+  }
+}

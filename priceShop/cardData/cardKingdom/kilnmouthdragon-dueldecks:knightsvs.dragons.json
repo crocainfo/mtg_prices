@@ -1,0 +1,19 @@
+{
+  "name": "Kilnmouth Dragon",
+  "lang": "",
+  "price": {
+    "nm": "1.29",
+    "ex": "1.03",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/duel-decks-knights-vs-dragons/kilnmouth-dragon-29180-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/duel-decks-knights-vs-dragons/kilnmouth-dragon-29180-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/duel-decks-knights-vs-dragons/kilnmouth-dragon",
+    "foil": ""
+  }
+}

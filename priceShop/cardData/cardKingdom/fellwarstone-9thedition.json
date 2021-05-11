@@ -1,0 +1,19 @@
+{
+  "name": "Fellwar Stone",
+  "lang": "",
+  "price": {
+    "nm": "8.49",
+    "ex": "6.79",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/9th-edition/fellwar-stone-13865-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/9th-edition/fellwar-stone-13865-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/9th-edition/fellwar-stone",
+    "foil": ""
+  }
+}

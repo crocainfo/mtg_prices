@@ -1,0 +1,19 @@
+{
+  "name": "Blustersquall",
+  "lang": "",
+  "price": {
+    "nm": "0.25",
+    "ex": "0.20",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/commander-2015/blustersquall-46532-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/commander-2015/blustersquall-46532-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/commander-2015/blustersquall",
+    "foil": ""
+  }
+}

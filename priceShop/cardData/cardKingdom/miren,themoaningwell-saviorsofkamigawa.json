@@ -1,0 +1,19 @@
+{
+  "name": "Miren, the Moaning Well",
+  "lang": "",
+  "price": {
+    "nm": "19.99",
+    "ex": "16.99",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/saviors-of-kamigawa/miren-the-moaning-well-17269-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/saviors-of-kamigawa/miren-the-moaning-well-17269-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/saviors-of-kamigawa/miren-the-moaning-well",
+    "foil": ""
+  }
+}

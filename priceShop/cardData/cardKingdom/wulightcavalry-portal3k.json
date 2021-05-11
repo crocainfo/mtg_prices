@@ -1,0 +1,19 @@
+{
+  "name": "Wu Light Cavalry",
+  "lang": "",
+  "price": {
+    "nm": "3.49",
+    "ex": "2.79",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/portal-3k/wu-light-cavalry-6051-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/portal-3k/wu-light-cavalry-6051-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/portal-3k/wu-light-cavalry",
+    "foil": ""
+  }
+}

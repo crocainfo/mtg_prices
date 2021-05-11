@@ -1,0 +1,19 @@
+{
+  "name": "Mox Jet Not Tournament Legal",
+  "lang": "",
+  "price": {
+    "nm": "2299.99",
+    "ex": "2069.99",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/collectors-ed-intl/mox-jet-not-tournament-legal-16722-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/collectors-ed-intl/mox-jet-not-tournament-legal-16722-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/collectors-ed-intl/mox-jet-not-tournament-legal",
+    "foil": ""
+  }
+}

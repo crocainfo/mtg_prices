@@ -1,0 +1,19 @@
+{
+  "name": "Hide // Seek",
+  "lang": "",
+  "price": {
+    "nm": "2.99",
+    "ex": "2.39",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/dissension/hide-seek-80778-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/dissension/hide-seek-80778-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/dissension/hide-seek",
+    "foil": ""
+  }
+}

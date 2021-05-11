@@ -1,0 +1,19 @@
+{
+  "name": "Mace of the Valiant Brawl Deck Card",
+  "lang": "",
+  "price": {
+    "nm": "0.35",
+    "ex": "0.28",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/throne-of-eldraine/brawl-deck-61290-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/throne-of-eldraine/brawl-deck-61290-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/throne-of-eldraine/mace-of-the-valiant-brawl-deck-card",
+    "foil": ""
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "name": "Vindictive Lich",
+  "lang": "",
+  "price": {
+    "nm": "14.99",
+    "ex": "11.99",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/commander-2017/vindictive-lich-61412-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/commander-2017/vindictive-lich-61412-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/commander-2017/vindictive-lich",
+    "foil": ""
+  }
+}

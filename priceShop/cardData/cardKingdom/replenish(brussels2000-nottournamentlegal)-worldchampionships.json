@@ -1,0 +1,19 @@
+{
+  "name": "Replenish Brussels 2000 - Not Tournament Legal",
+  "lang": "",
+  "price": {
+    "nm": "44.99",
+    "ex": "38.24",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/world-championships/replenish-brussels-2000-not-tournament-legal-38755-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/world-championships/replenish-brussels-2000-not-tournament-legal-38755-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/world-championships/replenish-brussels-2000-not-tournament-legal",
+    "foil": ""
+  }
+}

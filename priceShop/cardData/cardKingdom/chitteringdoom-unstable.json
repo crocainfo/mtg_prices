@@ -1,0 +1,19 @@
+{
+  "name": "Chittering Doom",
+  "lang": "",
+  "price": {
+    "nm": "0.35 ",
+    "ex": "0.28",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/unstable/chittering-doom-42928-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/unstable/chittering-doom-42928-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/unstable/chittering-doom",
+    "foil": ""
+  }
+}

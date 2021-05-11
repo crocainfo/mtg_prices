@@ -1,0 +1,19 @@
+{
+  "name": "Plains 262 B",
+  "lang": "",
+  "price": {
+    "nm": "0.15",
+    "ex": "0.12",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/core-set-2020/plains-261-a-58043-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/core-set-2020/plains-261-a-58043-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/core-set-2020/plains-262-b",
+    "foil": ""
+  }
+}

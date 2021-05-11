@@ -1,0 +1,19 @@
+{
+  "name": "Avatar Token",
+  "lang": "",
+  "price": {
+    "nm": "1.29",
+    "ex": "1.03",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/2010-core-set/avatar-token-1963-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/2010-core-set/avatar-token-1963-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/2010-core-set/avatar-token",
+    "foil": ""
+  }
+}

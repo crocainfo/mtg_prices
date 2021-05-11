@@ -1,0 +1,19 @@
+{
+  "name": "Liliana, Dreadhorde General",
+  "lang": "",
+  "price": {
+    "nm": "34.99",
+    "ex": "29.74",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/war-of-the-spark/liliana-dreadhorde-general-72645-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/war-of-the-spark/liliana-dreadhorde-general-72645-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/war-of-the-spark/liliana-dreadhorde-general",
+    "foil": ""
+  }
+}

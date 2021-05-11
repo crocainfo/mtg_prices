@@ -1,0 +1,19 @@
+{
+  "name": "Crystal Rod",
+  "lang": "",
+  "price": {
+    "nm": "2.99",
+    "ex": "2.39",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/unlimited/crystal-rod-22004-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/unlimited/crystal-rod-22004-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/unlimited/crystal-rod",
+    "foil": ""
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "name": "Ajani, Wise Counselor Foil - Planeswalker Deck",
+  "lang": "",
+  "price": {
+    "nm": "9.99",
+    "ex": "7.99",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/core-set-2019/core-set-2019-54948-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/core-set-2019/core-set-2019-54948-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/core-set-2019/ajani-wise-counselor-foil-planeswalker-deck",
+    "foil": ""
+  }
+}

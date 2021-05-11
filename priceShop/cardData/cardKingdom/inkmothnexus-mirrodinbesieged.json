@@ -1,0 +1,19 @@
+{
+  "name": "Inkmoth Nexus",
+  "lang": "",
+  "price": {
+    "nm": "27.99",
+    "ex": "23.79",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/mirrodin-besieged/inkmoth-nexus-59010-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/mirrodin-besieged/inkmoth-nexus-59010-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/mirrodin-besieged/inkmoth-nexus",
+    "foil": ""
+  }
+}

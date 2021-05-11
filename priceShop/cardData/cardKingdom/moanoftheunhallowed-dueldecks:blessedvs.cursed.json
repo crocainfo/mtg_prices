@@ -1,0 +1,19 @@
+{
+  "name": "Moan of the Unhallowed",
+  "lang": "",
+  "price": {
+    "nm": "0.25",
+    "ex": "0.20",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/duel-decks-blessed-vs-cursed/moan-of-the-unhallowed-47906-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/duel-decks-blessed-vs-cursed/moan-of-the-unhallowed-47906-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/duel-decks-blessed-vs-cursed/moan-of-the-unhallowed",
+    "foil": ""
+  }
+}

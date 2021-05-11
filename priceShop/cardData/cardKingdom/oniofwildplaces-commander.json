@@ -1,0 +1,19 @@
+{
+  "name": "Oni of Wild Places",
+  "lang": "",
+  "price": {
+    "nm": "0.25",
+    "ex": "0.20",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/commander/oni-of-wild-places-29804-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/commander/oni-of-wild-places-29804-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/commander/oni-of-wild-places",
+    "foil": ""
+  }
+}

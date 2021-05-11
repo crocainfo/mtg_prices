@@ -1,0 +1,19 @@
+{
+  "name": "Stormfist Crusader Promo Pack",
+  "lang": "",
+  "price": {
+    "nm": "0.79",
+    "ex": "0.63",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/promo-pack-throne-of-eldraine/stormfist-crusader-promo-pack-52501-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/promo-pack-throne-of-eldraine/stormfist-crusader-promo-pack-52501-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/promo-pack/stormfist-crusader-promo-pack",
+    "foil": ""
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "name": "Steamcore Weird",
+  "lang": "",
+  "price": {
+    "nm": "0.25",
+    "ex": "0.20",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/guildpact/steamcore-weird-7633-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/guildpact/steamcore-weird-7633-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/guildpact/steamcore-weird",
+    "foil": ""
+  }
+}

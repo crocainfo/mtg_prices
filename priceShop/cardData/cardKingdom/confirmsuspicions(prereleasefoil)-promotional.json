@@ -1,0 +1,19 @@
+{
+  "name": "Confirm Suspicions Prerelease Foil",
+  "lang": "",
+  "price": {
+    "nm": "1.49 ",
+    "ex": "1.19",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/promotional/confirm-suspicions-prerelease-foil-53318-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/promotional/confirm-suspicions-prerelease-foil-53318-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/promotional/confirm-suspicions-prerelease-foil",
+    "foil": ""
+  }
+}

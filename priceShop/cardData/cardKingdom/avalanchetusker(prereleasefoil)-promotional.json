@@ -1,0 +1,19 @@
+{
+  "name": "Avalanche Tusker Prerelease Foil",
+  "lang": "",
+  "price": {
+    "nm": "0.39",
+    "ex": "0.31",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/promotional/avalanche-tusker-prerelease-foil-44122-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/promotional/avalanche-tusker-prerelease-foil-44122-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/promotional/avalanche-tusker-prerelease-foil",
+    "foil": ""
+  }
+}

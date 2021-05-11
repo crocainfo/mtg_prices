@@ -1,0 +1,19 @@
+{
+  "name": "Mystic Snake",
+  "lang": "",
+  "price": {
+    "nm": "2.49",
+    "ex": "1.99",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/apocalypse/mystic-snake-22348-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/apocalypse/mystic-snake-22348-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/apocalypse/mystic-snake",
+    "foil": ""
+  }
+}

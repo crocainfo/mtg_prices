@@ -1,0 +1,19 @@
+{
+  "name": "Nova Pentacle",
+  "lang": "",
+  "price": {
+    "nm": "99.99",
+    "ex": "84.99",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/legends/nova-pentacle-31533-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/legends/nova-pentacle-31533-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/legends/nova-pentacle",
+    "foil": ""
+  }
+}

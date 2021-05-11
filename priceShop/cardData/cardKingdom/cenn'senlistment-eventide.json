@@ -1,0 +1,19 @@
+{
+  "name": "Cenn's Enlistment",
+  "lang": "",
+  "price": {
+    "nm": "0.25",
+    "ex": "0.20",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/eventide/cenns-enlistment-17116-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/eventide/cenns-enlistment-17116-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/eventide/cenns-enlistment",
+    "foil": ""
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "name": "Gorilla Berserkers Peaceful",
+  "lang": "",
+  "price": {
+    "nm": "0.25",
+    "ex": "0.20",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/alliances/gorilla-berserkers-attacking-71847-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/alliances/gorilla-berserkers-attacking-71847-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/alliances/gorilla-berserkers-peaceful",
+    "foil": ""
+  }
+}

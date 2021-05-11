@@ -1,0 +1,19 @@
+{
+  "name": "Thrill of Possibility Not Tournament Legal",
+  "lang": "",
+  "price": {
+    "nm": "0.25",
+    "ex": "0.20",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/art-series/thrill-of-possibility-not-tournament-legal-35014-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/art-series/thrill-of-possibility-not-tournament-legal-35014-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/art-series/thrill-of-possibility-not-tournament-legal",
+    "foil": ""
+  }
+}

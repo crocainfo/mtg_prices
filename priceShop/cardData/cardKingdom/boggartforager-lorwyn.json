@@ -1,0 +1,19 @@
+{
+  "name": "Boggart Forager",
+  "lang": "",
+  "price": {
+    "nm": "0.25",
+    "ex": "0.20",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/lorwyn/boggart-forager-80524-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/lorwyn/boggart-forager-80524-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/lorwyn/boggart-forager",
+    "foil": ""
+  }
+}

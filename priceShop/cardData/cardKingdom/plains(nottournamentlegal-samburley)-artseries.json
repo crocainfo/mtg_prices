@@ -1,0 +1,19 @@
+{
+  "name": "Plains Not Tournament Legal - Sam Burley",
+  "lang": "",
+  "price": {
+    "nm": "1.99",
+    "ex": "1.59",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/art-series/plains-not-tournament-legal-sam-burley-70073-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/art-series/plains-not-tournament-legal-sam-burley-70073-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/art-series/plains-not-tournament-legal-sam-burley",
+    "foil": ""
+  }
+}

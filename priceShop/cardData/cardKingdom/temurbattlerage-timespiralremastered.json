@@ -1,0 +1,19 @@
+{
+  "name": "Temur Battle Rage",
+  "lang": "",
+  "price": {
+    "nm": "0.99",
+    "ex": "0.79",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/time-spiral-remastered/temur-battle-rage-78616-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/time-spiral-remastered/temur-battle-rage-78616-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/time-spiral-remastered/temur-battle-rage",
+    "foil": ""
+  }
+}

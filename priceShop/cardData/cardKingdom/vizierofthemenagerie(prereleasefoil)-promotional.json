@@ -1,0 +1,19 @@
+{
+  "name": "Vizier of the Menagerie Prerelease Foil",
+  "lang": "",
+  "price": {
+    "nm": "11.99",
+    "ex": "9.59",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/promotional/vizier-of-the-menagerie-prerelease-foil-60179-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/promotional/vizier-of-the-menagerie-prerelease-foil-60179-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/promotional/vizier-of-the-menagerie-prerelease-foil",
+    "foil": ""
+  }
+}

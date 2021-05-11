@@ -1,0 +1,19 @@
+{
+  "name": "Ley Druid Not Tournament Legal",
+  "lang": "",
+  "price": {
+    "nm": "2.99",
+    "ex": "2.39",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/collectors-ed/ley-druid-not-tournament-legal-5988-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/collectors-ed/ley-druid-not-tournament-legal-5988-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/collectors-ed/ley-druid-not-tournament-legal",
+    "foil": ""
+  }
+}

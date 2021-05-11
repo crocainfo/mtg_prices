@@ -1,0 +1,19 @@
+{
+  "name": "Angelic Guardian 2018 Gift Pack",
+  "lang": "",
+  "price": {
+    "nm": "1.99",
+    "ex": "1.59",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/promotional/angelic-guardian-2018-gift-pack-94633-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/promotional/angelic-guardian-2018-gift-pack-94633-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/promotional/angelic-guardian-2018-gift-pack",
+    "foil": ""
+  }
+}

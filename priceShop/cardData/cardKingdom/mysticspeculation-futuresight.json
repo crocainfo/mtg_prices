@@ -1,0 +1,19 @@
+{
+  "name": "Mystic Speculation",
+  "lang": "",
+  "price": {
+    "nm": "2.49",
+    "ex": "1.99",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/future-sight/mystic-speculation-19828-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/future-sight/mystic-speculation-19828-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/future-sight/mystic-speculation",
+    "foil": ""
+  }
+}

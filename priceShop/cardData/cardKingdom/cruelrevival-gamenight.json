@@ -1,0 +1,19 @@
+{
+  "name": "Cruel Revival",
+  "lang": "",
+  "price": {
+    "nm": "0.25",
+    "ex": "0.20",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/game-night/game-night-12056-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/game-night/game-night-12056-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/game-night/cruel-revival",
+    "foil": ""
+  }
+}

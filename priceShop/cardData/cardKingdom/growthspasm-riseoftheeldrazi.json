@@ -1,0 +1,19 @@
+{
+  "name": "Growth Spasm",
+  "lang": "",
+  "price": {
+    "nm": "0.39",
+    "ex": "0.31",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/rise-of-the-eldrazi/growth-spasm-4834-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/rise-of-the-eldrazi/growth-spasm-4834-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/rise-of-the-eldrazi/growth-spasm",
+    "foil": ""
+  }
+}

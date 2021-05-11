@@ -1,0 +1,19 @@
+{
+  "name": "Mirari's Wake Pro Tour Foil",
+  "lang": "",
+  "price": {
+    "nm": "69.99",
+    "ex": "59.49",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/promotional/miraris-wake-pro-tour-foil-34815-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/promotional/miraris-wake-pro-tour-foil-34815-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/promotional/miraris-wake-pro-tour-foil",
+    "foil": ""
+  }
+}

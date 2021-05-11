@@ -1,0 +1,19 @@
+{
+  "name": "Voidmage Husher IDW Comic Promo",
+  "lang": "",
+  "price": {
+    "nm": "2.99",
+    "ex": "2.39",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/promotional/voidmage-husher-comic-promo-34965-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/promotional/voidmage-husher-comic-promo-34965-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/promotional/voidmage-husher-idw-comic-promo",
+    "foil": ""
+  }
+}

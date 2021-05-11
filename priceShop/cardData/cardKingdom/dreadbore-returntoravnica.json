@@ -1,0 +1,19 @@
+{
+  "name": "Dreadbore",
+  "lang": "",
+  "price": {
+    "nm": "4.49",
+    "ex": "3.59",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/return-to-ravnica/dreadbore-32080-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/return-to-ravnica/dreadbore-32080-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/return-to-ravnica/dreadbore",
+    "foil": ""
+  }
+}

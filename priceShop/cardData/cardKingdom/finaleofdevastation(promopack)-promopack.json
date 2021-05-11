@@ -1,0 +1,19 @@
+{
+  "name": "Finale of Devastation Promo Pack",
+  "lang": "",
+  "price": {
+    "nm": "49.99",
+    "ex": "42.49",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/promo-pack/finale-of-devastation-promo-pack-27278-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/promo-pack/finale-of-devastation-promo-pack-27278-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/promo-pack/finale-of-devastation-promo-pack",
+    "foil": ""
+  }
+}

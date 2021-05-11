@@ -1,0 +1,19 @@
+{
+  "name": "Basalt Monolith",
+  "lang": "",
+  "price": {
+    "nm": "299.99",
+    "ex": "239.99",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/beta/basalt-monolith-46787-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/beta/basalt-monolith-46787-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/beta/basalt-monolith",
+    "foil": ""
+  }
+}

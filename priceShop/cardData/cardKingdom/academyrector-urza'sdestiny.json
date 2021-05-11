@@ -1,0 +1,19 @@
+{
+  "name": "Academy Rector",
+  "lang": "",
+  "price": {
+    "nm": "119.99",
+    "ex": "107.99",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/urzas-destiny/academy-rector-16352-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/urzas-destiny/academy-rector-16352-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/urzas-destiny/academy-rector",
+    "foil": ""
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "name": "Revolutionary Rebuff",
+  "lang": "",
+  "price": {
+    "nm": "0.25",
+    "ex": "0.20",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/kaladesh/revolutionary-rebuff-57031-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/kaladesh/revolutionary-rebuff-57031-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/kaladesh/revolutionary-rebuff",
+    "foil": ""
+  }
+}

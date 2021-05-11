@@ -1,0 +1,19 @@
+{
+  "name": "Dark Confidant",
+  "lang": "",
+  "price": {
+    "nm": "49.99 ",
+    "ex": "42.49",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/double-masters-box-toppers/dark-confidant-80924-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/double-masters-box-toppers/dark-confidant-80924-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/double-masters-box-toppers/dark-confidant",
+    "foil": ""
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "name": "Jhoira of the Ghitu",
+  "lang": "",
+  "price": {
+    "nm": "1.49",
+    "ex": "1.19",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/future-sight/jhoira-of-the-ghitu-2267-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/future-sight/jhoira-of-the-ghitu-2267-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/future-sight/jhoira-of-the-ghitu",
+    "foil": ""
+  }
+}

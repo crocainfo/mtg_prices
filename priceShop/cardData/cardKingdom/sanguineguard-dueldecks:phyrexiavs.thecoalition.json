@@ -1,0 +1,19 @@
+{
+  "name": "Sanguine Guard",
+  "lang": "",
+  "price": {
+    "nm": "0.25",
+    "ex": "0.20",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/duel-decks-phyrexia-vs-the-coalition/sanguine-guard-3664-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/duel-decks-phyrexia-vs-the-coalition/sanguine-guard-3664-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/duel-decks-phyrexia-vs-the-coalition/sanguine-guard",
+    "foil": ""
+  }
+}

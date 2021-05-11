@@ -1,0 +1,19 @@
+{
+  "name": "Ninja of the Deep Hours",
+  "lang": "",
+  "price": {
+    "nm": "1.99",
+    "ex": "1.59",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/time-spiral-remastered/ninja-of-the-deep-hours-10416-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/time-spiral-remastered/ninja-of-the-deep-hours-10416-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/time-spiral-remastered/ninja-of-the-deep-hours",
+    "foil": ""
+  }
+}

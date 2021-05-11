@@ -1,0 +1,19 @@
+{
+  "name": "Ink-Eyes, Servant of Oni",
+  "lang": "",
+  "price": {
+    "nm": "19.99",
+    "ex": "16.99",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/betrayers-of-kamigawa/ink-eyes-servant-of-oni-12257-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/betrayers-of-kamigawa/ink-eyes-servant-of-oni-12257-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/betrayers-of-kamigawa/ink-eyes-servant-of-oni",
+    "foil": ""
+  }
+}

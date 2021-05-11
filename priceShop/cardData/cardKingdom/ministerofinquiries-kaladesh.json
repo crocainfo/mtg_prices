@@ -1,0 +1,19 @@
+{
+  "name": "Minister of Inquiries",
+  "lang": "",
+  "price": {
+    "nm": "0.25",
+    "ex": "0.20",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/kaladesh/minister-of-inquiries-27491-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/kaladesh/minister-of-inquiries-27491-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/kaladesh/minister-of-inquiries",
+    "foil": ""
+  }
+}

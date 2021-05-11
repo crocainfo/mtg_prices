@@ -1,0 +1,19 @@
+{
+  "name": "Fork",
+  "lang": "",
+  "price": {
+    "nm": "1399.99",
+    "ex": "1119.99",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/beta/fork-1056-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/beta/fork-1056-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/beta/fork",
+    "foil": ""
+  }
+}

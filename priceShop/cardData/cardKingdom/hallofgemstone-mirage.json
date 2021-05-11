@@ -1,0 +1,19 @@
+{
+  "name": "Hall of Gemstone",
+  "lang": "",
+  "price": {
+    "nm": "44.99",
+    "ex": "38.24",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/mirage/hall-of-gemstone-20008-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/mirage/hall-of-gemstone-20008-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/mirage/hall-of-gemstone",
+    "foil": ""
+  }
+}

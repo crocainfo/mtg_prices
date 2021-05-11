@@ -1,0 +1,19 @@
+{
+  "name": "Aladdin",
+  "lang": "",
+  "price": {
+    "nm": "169.99 ",
+    "ex": "152.99",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/arabian-nights/aladdin-15447-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/arabian-nights/aladdin-15447-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/arabian-nights/aladdin",
+    "foil": ""
+  }
+}

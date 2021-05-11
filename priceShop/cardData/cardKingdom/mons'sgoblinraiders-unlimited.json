@@ -1,0 +1,19 @@
+{
+  "name": "Mons's Goblin Raiders",
+  "lang": "",
+  "price": {
+    "nm": "2.49",
+    "ex": "1.99",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/unlimited/monss-goblin-raiders-6471-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/unlimited/monss-goblin-raiders-6471-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/unlimited/monss-goblin-raiders",
+    "foil": ""
+  }
+}

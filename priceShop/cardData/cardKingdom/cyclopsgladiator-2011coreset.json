@@ -1,0 +1,19 @@
+{
+  "name": "Cyclops Gladiator",
+  "lang": "",
+  "price": {
+    "nm": "0.35",
+    "ex": "0.28",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/2011-core-set/cyclops-gladiator-8793-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/2011-core-set/cyclops-gladiator-8793-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/2011-core-set/cyclops-gladiator",
+    "foil": ""
+  }
+}

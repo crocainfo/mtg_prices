@@ -1,0 +1,19 @@
+{
+  "name": "Fugitive Druid",
+  "lang": "",
+  "price": {
+    "nm": "0.59",
+    "ex": "0.47",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/tempest/fugitive-druid-21906-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/tempest/fugitive-druid-21906-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/tempest/fugitive-druid",
+    "foil": ""
+  }
+}

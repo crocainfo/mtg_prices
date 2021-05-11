@@ -1,0 +1,19 @@
+{
+  "name": "Pristine Talisman Mirrodin Pure Promo",
+  "lang": "",
+  "price": {
+    "nm": "5.49",
+    "ex": "4.39",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/promotional/pristine-talisman-mirrodin-pure-promo-10706-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/promotional/pristine-talisman-mirrodin-pure-promo-10706-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/promotional/pristine-talisman-mirrodin-pure-promo",
+    "foil": ""
+  }
+}

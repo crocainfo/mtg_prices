@@ -1,0 +1,19 @@
+{
+  "name": "Phyrexian War Beast Propeller Right",
+  "lang": "",
+  "price": {
+    "nm": "0.25",
+    "ex": "0.20",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/alliances/phyrexian-war-beast-propeller-left-72051-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/alliances/phyrexian-war-beast-propeller-left-72051-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/alliances/phyrexian-war-beast-propeller-right",
+    "foil": ""
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "name": "Helm of Obedience",
+  "lang": "",
+  "price": {
+    "nm": "89.99",
+    "ex": "76.49",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/alliances/helm-of-obedience-69148-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/alliances/helm-of-obedience-69148-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/alliances/helm-of-obedience",
+    "foil": ""
+  }
+}

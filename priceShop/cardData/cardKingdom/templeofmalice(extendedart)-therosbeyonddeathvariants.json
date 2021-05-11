@@ -1,0 +1,19 @@
+{
+  "name": "Temple of Malice Extended Art",
+  "lang": "",
+  "price": {
+    "nm": "5.49",
+    "ex": "4.39",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/theros-beyond-death-variants/temple-of-malice-extended-art-78351-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/theros-beyond-death-variants/temple-of-malice-extended-art-78351-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/theros-beyond-death-variants/temple-of-malice-extended-art",
+    "foil": ""
+  }
+}

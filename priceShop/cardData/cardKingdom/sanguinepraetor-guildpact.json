@@ -1,0 +1,19 @@
+{
+  "name": "Sanguine Praetor",
+  "lang": "",
+  "price": {
+    "nm": "0.35",
+    "ex": "0.28",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/guildpact/sanguine-praetor-6562-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/guildpact/sanguine-praetor-6562-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/guildpact/sanguine-praetor",
+    "foil": ""
+  }
+}

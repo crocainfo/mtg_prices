@@ -1,0 +1,19 @@
+{
+  "name": "Squelching Leeches Game Day Extended Art",
+  "lang": "",
+  "price": {
+    "nm": "0.25",
+    "ex": "0.20",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/promotional/squelching-leeches-game-day-extended-art-44672-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/promotional/squelching-leeches-game-day-extended-art-44672-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/promotional/squelching-leeches-game-day-extended-art",
+    "foil": ""
+  }
+}

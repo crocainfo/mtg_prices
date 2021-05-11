@@ -1,0 +1,19 @@
+{
+  "name": "Clue Token Full Art",
+  "lang": "",
+  "price": {
+    "nm": "0.39",
+    "ex": "0.31",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/unstable/clue-token-full-art-34934-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/unstable/clue-token-full-art-34934-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/unstable/clue-token-full-art",
+    "foil": ""
+  }
+}

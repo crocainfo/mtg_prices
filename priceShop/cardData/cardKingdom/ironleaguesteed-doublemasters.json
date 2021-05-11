@@ -1,0 +1,19 @@
+{
+  "name": "Iron League Steed",
+  "lang": "",
+  "price": {
+    "nm": "0.25",
+    "ex": "0.20",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/double-masters/iron-league-steed-62015-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/double-masters/iron-league-steed-62015-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/double-masters/iron-league-steed",
+    "foil": ""
+  }
+}

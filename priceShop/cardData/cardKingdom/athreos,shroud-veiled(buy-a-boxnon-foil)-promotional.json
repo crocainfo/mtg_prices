@@ -1,0 +1,19 @@
+{
+  "name": "Athreos, Shroud-Veiled Buy-a-Box Non-Foil",
+  "lang": "",
+  "price": {
+    "nm": "7.99",
+    "ex": "6.39",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/promotional/athreos-shroud-veiled-buy-a-box-non-foil-89703-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/promotional/athreos-shroud-veiled-buy-a-box-non-foil-89703-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/promotional/athreos-shroud-veiled-buy-a-box-non-foil",
+    "foil": ""
+  }
+}

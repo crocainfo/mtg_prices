@@ -1,0 +1,19 @@
+{
+  "name": "Mountain 338 B",
+  "lang": "",
+  "price": {
+    "nm": "0.69",
+    "ex": "0.55",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/7th-edition/mountain-338-38159-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/7th-edition/mountain-338-38159-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/7th-edition/mountain-338-b",
+    "foil": ""
+  }
+}

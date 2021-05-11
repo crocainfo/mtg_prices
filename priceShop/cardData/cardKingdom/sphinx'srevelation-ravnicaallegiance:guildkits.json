@@ -1,0 +1,19 @@
+{
+  "name": "Sphinx's Revelation",
+  "lang": "",
+  "price": {
+    "nm": "4.49",
+    "ex": "3.59",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/ravnica-allegiance-guild-kits/sphinxs-revelation-62342-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/ravnica-allegiance-guild-kits/sphinxs-revelation-62342-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/ravnica-allegiance-guild-kits/sphinxs-revelation",
+    "foil": ""
+  }
+}

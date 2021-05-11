@@ -1,0 +1,19 @@
+{
+  "name": "Blazing Salvo",
+  "lang": "",
+  "price": {
+    "nm": "0.25",
+    "ex": "0.20",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/odyssey/blazing-salvo-28595-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/odyssey/blazing-salvo-28595-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/odyssey/blazing-salvo",
+    "foil": ""
+  }
+}

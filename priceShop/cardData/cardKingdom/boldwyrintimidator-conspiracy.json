@@ -1,0 +1,19 @@
+{
+  "name": "Boldwyr Intimidator",
+  "lang": "",
+  "price": {
+    "nm": "0.25",
+    "ex": "0.20",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/conspiracy/boldwyr-intimidator-39998-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/conspiracy/boldwyr-intimidator-39998-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/conspiracy/boldwyr-intimidator",
+    "foil": ""
+  }
+}

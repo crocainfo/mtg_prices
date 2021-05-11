@@ -1,0 +1,19 @@
+{
+  "name": "Magda, Brazen Outlaw Showcase",
+  "lang": "",
+  "price": {
+    "nm": "1.29",
+    "ex": "1.03",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/kaldheim-variants/magda-brazen-outlaw-showcase-16439-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/kaldheim-variants/magda-brazen-outlaw-showcase-16439-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/kaldheim-variants/magda-brazen-outlaw-showcase",
+    "foil": ""
+  }
+}

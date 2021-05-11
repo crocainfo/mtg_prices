@@ -1,0 +1,19 @@
+{
+  "name": "Wildest Dreams Prerelease Foil",
+  "lang": "",
+  "price": {
+    "nm": "1.99",
+    "ex": "1.59",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/promotional/wildest-dreams-prerelease-foil-57179-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/promotional/wildest-dreams-prerelease-foil-57179-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/promotional/wildest-dreams-prerelease-foil",
+    "foil": ""
+  }
+}

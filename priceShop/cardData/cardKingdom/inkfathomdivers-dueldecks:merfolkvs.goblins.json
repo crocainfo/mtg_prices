@@ -1,0 +1,19 @@
+{
+  "name": "Inkfathom Divers",
+  "lang": "",
+  "price": {
+    "nm": "0.25",
+    "ex": "0.20",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/duel-decks-merfolk-vs-goblins/inkfathom-divers-58398-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/duel-decks-merfolk-vs-goblins/inkfathom-divers-58398-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/duel-decks-merfolk-vs-goblins/inkfathom-divers",
+    "foil": ""
+  }
+}

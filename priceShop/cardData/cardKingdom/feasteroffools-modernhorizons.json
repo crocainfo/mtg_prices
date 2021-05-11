@@ -1,0 +1,19 @@
+{
+  "name": "Feaster of Fools",
+  "lang": "",
+  "price": {
+    "nm": "0.25",
+    "ex": "0.20",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/modern-horizons/feaster-of-fools-22628-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/modern-horizons/feaster-of-fools-22628-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/modern-horizons/feaster-of-fools",
+    "foil": ""
+  }
+}

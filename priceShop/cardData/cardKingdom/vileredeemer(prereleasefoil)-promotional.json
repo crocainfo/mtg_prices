@@ -1,0 +1,19 @@
+{
+  "name": "Vile Redeemer Prerelease Foil",
+  "lang": "",
+  "price": {
+    "nm": "0.79",
+    "ex": "0.63",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/promotional/vile-redeemer-prerelease-foil-22201-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/promotional/vile-redeemer-prerelease-foil-22201-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/promotional/vile-redeemer-prerelease-foil",
+    "foil": ""
+  }
+}

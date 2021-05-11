@@ -1,0 +1,19 @@
+{
+  "name": "Balefire Liege",
+  "lang": "",
+  "price": {
+    "nm": "6.49",
+    "ex": "5.19",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/eventide/balefire-liege-12514-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/eventide/balefire-liege-12514-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/eventide/balefire-liege",
+    "foil": ""
+  }
+}

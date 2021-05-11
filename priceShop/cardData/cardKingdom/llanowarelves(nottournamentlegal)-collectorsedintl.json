@@ -1,0 +1,19 @@
+{
+  "name": "Llanowar Elves Not Tournament Legal",
+  "lang": "",
+  "price": {
+    "nm": "44.99",
+    "ex": "38.24",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/collectors-ed-intl/llanowar-elves-not-tournament-legal-68497-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/collectors-ed-intl/llanowar-elves-not-tournament-legal-68497-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/collectors-ed-intl/llanowar-elves-not-tournament-legal",
+    "foil": ""
+  }
+}

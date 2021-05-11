@@ -1,0 +1,19 @@
+{
+  "name": "Green Ward",
+  "lang": "",
+  "price": {
+    "nm": "0.25",
+    "ex": "0.20",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/3rd-edition/green-ward-56865-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/3rd-edition/green-ward-56865-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/3rd-edition/green-ward",
+    "foil": ""
+  }
+}

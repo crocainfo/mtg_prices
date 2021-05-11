@@ -1,0 +1,19 @@
+{
+  "name": "Thicket Basilisk",
+  "lang": "",
+  "price": {
+    "nm": "199.99",
+    "ex": "159.99",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/alpha/thicket-basilisk-21203-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/alpha/thicket-basilisk-21203-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/alpha/thicket-basilisk",
+    "foil": ""
+  }
+}

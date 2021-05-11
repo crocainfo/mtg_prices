@@ -1,0 +1,19 @@
+{
+  "name": "Earthen Arms",
+  "lang": "",
+  "price": {
+    "nm": "0.25",
+    "ex": "0.20",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/battle-for-zendikar/earthen-arms-96875-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/battle-for-zendikar/earthen-arms-96875-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/battle-for-zendikar/earthen-arms",
+    "foil": ""
+  }
+}

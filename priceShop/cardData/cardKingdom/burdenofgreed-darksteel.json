@@ -1,0 +1,19 @@
+{
+  "name": "Burden of Greed",
+  "lang": "",
+  "price": {
+    "nm": "0.25",
+    "ex": "0.20",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/darksteel/burden-of-greed-87296-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/darksteel/burden-of-greed-87296-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/darksteel/burden-of-greed",
+    "foil": ""
+  }
+}

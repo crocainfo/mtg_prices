@@ -1,0 +1,19 @@
+{
+  "name": "Dwarven Warriors",
+  "lang": "",
+  "price": {
+    "nm": "14.99",
+    "ex": "11.99",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/beta/dwarven-warriors-23936-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/beta/dwarven-warriors-23936-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/beta/dwarven-warriors",
+    "foil": ""
+  }
+}

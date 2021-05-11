@@ -1,0 +1,19 @@
+{
+  "name": "Mirrorpool",
+  "lang": "",
+  "price": {
+    "nm": "4.49",
+    "ex": "3.59",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/oath-of-the-gatewatch/mirrorpool-47105-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/oath-of-the-gatewatch/mirrorpool-47105-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/oath-of-the-gatewatch/mirrorpool",
+    "foil": ""
+  }
+}

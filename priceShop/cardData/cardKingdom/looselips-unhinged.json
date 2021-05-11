@@ -1,0 +1,19 @@
+{
+  "name": "Loose Lips",
+  "lang": "",
+  "price": {
+    "nm": "0.25",
+    "ex": "0.20",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/unhinged/loose-lips-1016-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/unhinged/loose-lips-1016-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/unhinged/loose-lips",
+    "foil": ""
+  }
+}

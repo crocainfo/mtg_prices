@@ -1,0 +1,19 @@
+{
+  "name": "Mina and Denn, Wildborn",
+  "lang": "",
+  "price": {
+    "nm": "0.99",
+    "ex": "0.79",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/oath-of-the-gatewatch/mina-and-denn-wildborn-28235-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/oath-of-the-gatewatch/mina-and-denn-wildborn-28235-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/oath-of-the-gatewatch/mina-and-denn-wildborn",
+    "foil": ""
+  }
+}

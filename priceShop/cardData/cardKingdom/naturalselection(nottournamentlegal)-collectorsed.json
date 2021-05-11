@@ -1,0 +1,19 @@
+{
+  "name": "Natural Selection Not Tournament Legal",
+  "lang": "",
+  "price": {
+    "nm": "54.99",
+    "ex": "46.74",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/collectors-ed/natural-selection-not-tournament-legal-39744-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/collectors-ed/natural-selection-not-tournament-legal-39744-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/collectors-ed/natural-selection-not-tournament-legal",
+    "foil": ""
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "name": "Seeds of Strength",
+  "lang": "",
+  "price": {
+    "nm": "0.25",
+    "ex": "0.20",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/ravnica/seeds-of-strength-21597-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/ravnica/seeds-of-strength-21597-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/ravnica/seeds-of-strength",
+    "foil": ""
+  }
+}

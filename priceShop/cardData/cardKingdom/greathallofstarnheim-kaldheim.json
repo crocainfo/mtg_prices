@@ -1,0 +1,19 @@
+{
+  "name": "Great Hall of Starnheim",
+  "lang": "",
+  "price": {
+    "nm": "0.25",
+    "ex": "0.20",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/kaldheim/great-hall-of-starnheim-87329-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/kaldheim/great-hall-of-starnheim-87329-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/kaldheim/great-hall-of-starnheim",
+    "foil": ""
+  }
+}

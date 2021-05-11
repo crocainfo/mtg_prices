@@ -1,0 +1,19 @@
+{
+  "name": "Traveling Plague",
+  "lang": "",
+  "price": {
+    "nm": "0.49",
+    "ex": "0.39",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/odyssey/traveling-plague-9138-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/odyssey/traveling-plague-9138-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/odyssey/traveling-plague",
+    "foil": ""
+  }
+}

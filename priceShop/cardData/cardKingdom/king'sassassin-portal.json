@@ -1,0 +1,19 @@
+{
+  "name": "King's Assassin",
+  "lang": "",
+  "price": {
+    "nm": "6.49",
+    "ex": "5.19",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/portal/kings-assassin-22612-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/portal/kings-assassin-22612-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/portal/kings-assassin",
+    "foil": ""
+  }
+}

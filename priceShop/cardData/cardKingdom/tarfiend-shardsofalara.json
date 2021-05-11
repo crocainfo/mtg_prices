@@ -1,0 +1,19 @@
+{
+  "name": "Tar Fiend",
+  "lang": "",
+  "price": {
+    "nm": "0.35",
+    "ex": "0.28",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/shards-of-alara/tar-fiend-6199-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/shards-of-alara/tar-fiend-6199-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/shards-of-alara/tar-fiend",
+    "foil": ""
+  }
+}

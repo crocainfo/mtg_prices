@@ -1,0 +1,19 @@
+{
+  "name": "Momir Vig, Simic Visionary",
+  "lang": "",
+  "price": {
+    "nm": "3.49",
+    "ex": "2.79",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/ravnica-allegiance-guild-kits/momir-vig-simic-visionary-20733-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/ravnica-allegiance-guild-kits/momir-vig-simic-visionary-20733-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/ravnica-allegiance-guild-kits/momir-vig-simic-visionary",
+    "foil": ""
+  }
+}

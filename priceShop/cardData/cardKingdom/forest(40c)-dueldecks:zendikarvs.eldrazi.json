@@ -1,0 +1,19 @@
+{
+  "name": "Forest 40 C",
+  "lang": "",
+  "price": {
+    "nm": "0.25",
+    "ex": "0.20",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/duel-decks-zendikar-vs-eldrazi/forest-40-46029-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/duel-decks-zendikar-vs-eldrazi/forest-40-46029-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/duel-decks-zendikar-vs-eldrazi/forest-40-c",
+    "foil": ""
+  }
+}

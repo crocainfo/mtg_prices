@@ -1,0 +1,19 @@
+{
+  "name": "Blue Sun's Zenith",
+  "lang": "",
+  "price": {
+    "nm": "3.99",
+    "ex": "3.19",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/masters-25/blue-suns-zenith-67374-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/masters-25/blue-suns-zenith-67374-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/masters-25/blue-suns-zenith",
+    "foil": ""
+  }
+}

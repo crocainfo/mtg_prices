@@ -1,0 +1,19 @@
+{
+  "name": "Golgari Thug",
+  "lang": "",
+  "price": {
+    "nm": "1.99",
+    "ex": "1.59",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/ravnica/golgari-thug-20696-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/ravnica/golgari-thug-20696-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/ravnica/golgari-thug",
+    "foil": ""
+  }
+}

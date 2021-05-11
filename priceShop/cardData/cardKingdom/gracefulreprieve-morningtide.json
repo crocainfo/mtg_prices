@@ -1,0 +1,19 @@
+{
+  "name": "Graceful Reprieve",
+  "lang": "",
+  "price": {
+    "nm": "0.25",
+    "ex": "0.20",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/morningtide/graceful-reprieve-3498-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/morningtide/graceful-reprieve-3498-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/morningtide/graceful-reprieve",
+    "foil": ""
+  }
+}

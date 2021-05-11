@@ -1,0 +1,19 @@
+{
+  "name": "Giant Badger Book",
+  "lang": "",
+  "price": {
+    "nm": "2.99",
+    "ex": "2.39",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/promotional/giant-badger-book-2613-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/promotional/giant-badger-book-2613-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/promotional/giant-badger-book",
+    "foil": ""
+  }
+}

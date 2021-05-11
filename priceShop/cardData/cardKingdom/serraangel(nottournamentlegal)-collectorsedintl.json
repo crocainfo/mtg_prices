@@ -1,0 +1,19 @@
+{
+  "name": "Serra Angel Not Tournament Legal",
+  "lang": "",
+  "price": {
+    "nm": "99.99",
+    "ex": "84.99",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/collectors-ed-intl/serra-angel-not-tournament-legal-18491-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/collectors-ed-intl/serra-angel-not-tournament-legal-18491-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/collectors-ed-intl/serra-angel-not-tournament-legal",
+    "foil": ""
+  }
+}

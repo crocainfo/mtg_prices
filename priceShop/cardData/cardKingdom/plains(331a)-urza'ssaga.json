@@ -1,0 +1,19 @@
+{
+  "name": "Plains 331 A",
+  "lang": "",
+  "price": {
+    "nm": "0.49",
+    "ex": "0.39",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/urzas-saga/plains-331-37537-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/urzas-saga/plains-331-37537-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/urzas-saga/plains-331-a",
+    "foil": ""
+  }
+}

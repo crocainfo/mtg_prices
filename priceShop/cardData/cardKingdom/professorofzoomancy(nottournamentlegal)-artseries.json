@@ -1,0 +1,19 @@
+{
+  "name": "Professor of Zoomancy Not Tournament Legal",
+  "lang": "",
+  "price": {
+    "nm": "0.25 ",
+    "ex": "0.20",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/art-series/professor-of-zoomancy-not-tournament-legal-85631-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/art-series/professor-of-zoomancy-not-tournament-legal-85631-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/art-series/professor-of-zoomancy-not-tournament-legal",
+    "foil": ""
+  }
+}

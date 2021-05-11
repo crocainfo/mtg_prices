@@ -1,0 +1,19 @@
+{
+  "name": "Needle Spires Prerelease Foil",
+  "lang": "",
+  "price": {
+    "nm": "2.99",
+    "ex": "2.39",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/promotional/needle-spires-prerelease-foil-39726-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/promotional/needle-spires-prerelease-foil-39726-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/promotional/needle-spires-prerelease-foil",
+    "foil": ""
+  }
+}

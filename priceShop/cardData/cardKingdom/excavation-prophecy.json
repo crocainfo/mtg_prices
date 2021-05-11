@@ -1,0 +1,19 @@
+{
+  "name": "Excavation",
+  "lang": "",
+  "price": {
+    "nm": "0.99",
+    "ex": "0.79",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/prophecy/excavation-1580-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/prophecy/excavation-1580-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/prophecy/excavation",
+    "foil": ""
+  }
+}

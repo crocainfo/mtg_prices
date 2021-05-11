@@ -1,0 +1,19 @@
+{
+  "name": "Kessig Prowler",
+  "lang": "",
+  "price": {
+    "nm": "0.25",
+    "ex": "0.20",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/eldritch-moon/kessig-prowler-47154-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/eldritch-moon/kessig-prowler-47154-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/eldritch-moon/kessig-prowler",
+    "foil": ""
+  }
+}

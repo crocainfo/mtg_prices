@@ -1,0 +1,19 @@
+{
+  "name": "Unwilling Recruit",
+  "lang": "",
+  "price": {
+    "nm": "0.29",
+    "ex": "0.23",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/eventide/unwilling-recruit-6966-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/eventide/unwilling-recruit-6966-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/eventide/unwilling-recruit",
+    "foil": ""
+  }
+}

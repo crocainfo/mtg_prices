@@ -1,0 +1,19 @@
+{
+  "name": "Hero of Precinct One Promo Pack",
+  "lang": "",
+  "price": {
+    "nm": "0.35",
+    "ex": "0.28",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/promo-pack-throne-of-eldraine/hero-of-precinct-one-promo-pack-51477-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/promo-pack-throne-of-eldraine/hero-of-precinct-one-promo-pack-51477-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/promo-pack/hero-of-precinct-one-promo-pack",
+    "foil": ""
+  }
+}

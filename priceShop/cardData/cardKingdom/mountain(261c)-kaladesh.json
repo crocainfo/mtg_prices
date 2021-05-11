@@ -1,0 +1,19 @@
+{
+  "name": "Mountain 261 C",
+  "lang": "",
+  "price": {
+    "nm": "0.25",
+    "ex": "0.20",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/kaladesh/mountain-261-57015-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/kaladesh/mountain-261-57015-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/kaladesh/mountain-261-c",
+    "foil": ""
+  }
+}

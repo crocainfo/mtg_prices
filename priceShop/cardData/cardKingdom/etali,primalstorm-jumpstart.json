@@ -1,0 +1,19 @@
+{
+  "name": "Etali, Primal Storm",
+  "lang": "",
+  "price": {
+    "nm": "1.49",
+    "ex": "1.19",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/jumpstart/etali-primal-storm-83199-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/jumpstart/etali-primal-storm-83199-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/jumpstart/etali-primal-storm",
+    "foil": ""
+  }
+}

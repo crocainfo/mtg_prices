@@ -1,0 +1,19 @@
+{
+  "name": "Dimir Spybug",
+  "lang": "",
+  "price": {
+    "nm": "0.25",
+    "ex": "0.20",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/guilds-of-ravnica/dimir-spybug-99283-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/guilds-of-ravnica/dimir-spybug-99283-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/guilds-of-ravnica/dimir-spybug",
+    "foil": ""
+  }
+}

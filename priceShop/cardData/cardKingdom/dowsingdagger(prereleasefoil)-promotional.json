@@ -1,0 +1,19 @@
+{
+  "name": "Dowsing Dagger Prerelease Foil",
+  "lang": "",
+  "price": {
+    "nm": "12.99",
+    "ex": "10.39",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/promotional/dowsing-dagger-prerelease-foil-62208-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/promotional/dowsing-dagger-prerelease-foil-62208-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/promotional/dowsing-dagger-prerelease-foil",
+    "foil": ""
+  }
+}

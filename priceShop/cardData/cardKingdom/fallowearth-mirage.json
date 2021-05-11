@@ -1,0 +1,19 @@
+{
+  "name": "Fallow Earth",
+  "lang": "",
+  "price": {
+    "nm": "0.25",
+    "ex": "0.20",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/mirage/fallow-earth-23500-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/mirage/fallow-earth-23500-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/mirage/fallow-earth",
+    "foil": ""
+  }
+}

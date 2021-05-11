@@ -1,0 +1,19 @@
+{
+  "name": "City in a Bottle",
+  "lang": "",
+  "price": {
+    "nm": "799.99",
+    "ex": "719.99",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/arabian-nights/city-in-a-bottle-63250-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/arabian-nights/city-in-a-bottle-63250-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/arabian-nights/city-in-a-bottle",
+    "foil": ""
+  }
+}

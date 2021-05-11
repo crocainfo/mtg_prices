@@ -1,0 +1,19 @@
+{
+  "name": "Goblin Sledder Elves vs Goblins",
+  "lang": "",
+  "price": {
+    "nm": "0.69",
+    "ex": "0.55",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/duel-decks-anthology/goblin-sledder-elves-vs-goblins-43217-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/duel-decks-anthology/goblin-sledder-elves-vs-goblins-43217-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/duel-decks-anthology/goblin-sledder-elves-vs-goblins",
+    "foil": ""
+  }
+}

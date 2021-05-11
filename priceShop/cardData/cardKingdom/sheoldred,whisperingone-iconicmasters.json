@@ -1,0 +1,19 @@
+{
+  "name": "Sheoldred, Whispering One",
+  "lang": "",
+  "price": {
+    "nm": "27.99",
+    "ex": "23.79",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/iconic-masters/sheoldred-whispering-one-23368-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/iconic-masters/sheoldred-whispering-one-23368-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/iconic-masters/sheoldred-whispering-one",
+    "foil": ""
+  }
+}

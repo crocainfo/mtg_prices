@@ -1,0 +1,19 @@
+{
+  "name": "Silumgar's Command Prerelease Foil",
+  "lang": "",
+  "price": {
+    "nm": "0.79",
+    "ex": "0.63",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/promotional/silumgars-command-prerelease-foil-66480-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/promotional/silumgars-command-prerelease-foil-66480-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/promotional/silumgars-command-prerelease-foil",
+    "foil": ""
+  }
+}

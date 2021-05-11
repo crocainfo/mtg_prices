@@ -1,0 +1,19 @@
+{
+  "name": "Tamiyo, Collector of Tales Prerelease Foil",
+  "lang": "",
+  "price": {
+    "nm": "2.99",
+    "ex": "2.39",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/war-of-the-spark/tamiyo-collector-of-tales-80944-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/war-of-the-spark/tamiyo-collector-of-tales-80944-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/promotional/tamiyo-collector-of-tales-prerelease-foil",
+    "foil": ""
+  }
+}

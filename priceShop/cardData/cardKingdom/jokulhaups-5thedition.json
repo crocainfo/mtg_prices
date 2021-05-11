@@ -1,0 +1,19 @@
+{
+  "name": "Jokulhaups",
+  "lang": "",
+  "price": {
+    "nm": "7.49",
+    "ex": "5.99",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/5th-edition/jokulhaups-27042-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/5th-edition/jokulhaups-27042-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/5th-edition/jokulhaups",
+    "foil": ""
+  }
+}

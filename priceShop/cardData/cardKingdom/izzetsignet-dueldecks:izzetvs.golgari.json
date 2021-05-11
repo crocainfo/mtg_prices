@@ -1,0 +1,19 @@
+{
+  "name": "Izzet Signet",
+  "lang": "",
+  "price": {
+    "nm": "0.99",
+    "ex": "0.79",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/duel-decks-izzet-vs-golgari/izzet-signet-32265-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/duel-decks-izzet-vs-golgari/izzet-signet-32265-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/duel-decks-izzet-vs-golgari/izzet-signet",
+    "foil": ""
+  }
+}

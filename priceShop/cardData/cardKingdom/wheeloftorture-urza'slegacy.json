@@ -1,0 +1,19 @@
+{
+  "name": "Wheel of Torture",
+  "lang": "",
+  "price": {
+    "nm": "1.99",
+    "ex": "1.59",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/urzas-legacy/wheel-of-torture-16674-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/urzas-legacy/wheel-of-torture-16674-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/urzas-legacy/wheel-of-torture",
+    "foil": ""
+  }
+}

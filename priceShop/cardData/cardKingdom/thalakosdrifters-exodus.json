@@ -1,0 +1,19 @@
+{
+  "name": "Thalakos Drifters",
+  "lang": "",
+  "price": {
+    "nm": "0.49",
+    "ex": "0.39",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/exodus/thalakos-drifters-25543-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/exodus/thalakos-drifters-25543-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/exodus/thalakos-drifters",
+    "foil": ""
+  }
+}

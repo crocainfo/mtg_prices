@@ -1,0 +1,19 @@
+{
+  "name": "Keiga, the Tide Star",
+  "lang": "",
+  "price": {
+    "nm": "5.99",
+    "ex": "4.79",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/champions-of-kamigawa/keiga-the-tide-star-24393-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/champions-of-kamigawa/keiga-the-tide-star-24393-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/champions-of-kamigawa/keiga-the-tide-star",
+    "foil": ""
+  }
+}

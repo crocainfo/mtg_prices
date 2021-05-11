@@ -1,0 +1,19 @@
+{
+  "name": "Blinding Light",
+  "lang": "",
+  "price": {
+    "nm": "1.49",
+    "ex": "1.19",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/starter-1999/blinding-light-28765-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/starter-1999/blinding-light-28765-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/starter-1999/blinding-light",
+    "foil": ""
+  }
+}

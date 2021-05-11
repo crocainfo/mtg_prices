@@ -1,0 +1,19 @@
+{
+  "name": "All Is Dust",
+  "lang": "",
+  "price": {
+    "nm": "12.99",
+    "ex": "10.39",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/ultimate-masters/all-is-dust-59027-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/ultimate-masters/all-is-dust-59027-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/ultimate-masters/all-is-dust",
+    "foil": ""
+  }
+}

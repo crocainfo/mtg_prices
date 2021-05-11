@@ -1,0 +1,19 @@
+{
+  "name": "Thornwood Falls",
+  "lang": "",
+  "price": {
+    "nm": "0.25",
+    "ex": "0.20",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/core-set-2021/thornwood-falls-92903-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/core-set-2021/thornwood-falls-92903-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/core-set-2021/thornwood-falls",
+    "foil": ""
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "name": "Pirate Ship Not Tournament Legal",
+  "lang": "",
+  "price": {
+    "nm": "7.99",
+    "ex": "6.39",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/collectors-ed/pirate-ship-not-tournament-legal-27545-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/collectors-ed/pirate-ship-not-tournament-legal-27545-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/collectors-ed/pirate-ship-not-tournament-legal",
+    "foil": ""
+  }
+}

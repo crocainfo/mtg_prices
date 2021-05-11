@@ -1,0 +1,19 @@
+{
+  "name": "Crackdown",
+  "lang": "",
+  "price": {
+    "nm": "8.49",
+    "ex": "6.79",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/mercadian-masques/crackdown-24444-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/mercadian-masques/crackdown-24444-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/mercadian-masques/crackdown",
+    "foil": ""
+  }
+}

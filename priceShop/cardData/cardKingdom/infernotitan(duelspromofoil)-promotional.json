@@ -1,0 +1,19 @@
+{
+  "name": "Inferno Titan Duels Promo Foil",
+  "lang": "",
+  "price": {
+    "nm": "4.99",
+    "ex": "3.99",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/promotional/inferno-titan-duels-of-the-planeswalkers-ps3-promo-56773-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/promotional/inferno-titan-duels-of-the-planeswalkers-ps3-promo-56773-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/promotional/inferno-titan-duels-promo-foil",
+    "foil": ""
+  }
+}

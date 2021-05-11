@@ -1,0 +1,19 @@
+{
+  "name": "Ratcatcher",
+  "lang": "",
+  "price": {
+    "nm": "2.29",
+    "ex": "1.83",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/masters-25/ratcatcher-39045-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/masters-25/ratcatcher-39045-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/masters-25/ratcatcher",
+    "foil": ""
+  }
+}

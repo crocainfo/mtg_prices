@@ -1,0 +1,19 @@
+{
+  "name": "Oran-Rief, the Vastwood",
+  "lang": "",
+  "price": {
+    "nm": "0.99",
+    "ex": "0.79",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/commander-anthology/oran-rief-the-vastwood-79154-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/commander-anthology/oran-rief-the-vastwood-79154-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/commander-anthology/oran-rief-the-vastwood",
+    "foil": ""
+  }
+}

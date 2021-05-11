@@ -1,0 +1,19 @@
+{
+  "name": "Elspeth, Knight-Errant",
+  "lang": "",
+  "price": {
+    "nm": "15.99",
+    "ex": "13.59",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/modern-event-deck/elspeth-knight-errant-39903-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/modern-event-deck/elspeth-knight-errant-39903-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/modern-event-deck/elspeth-knight-errant",
+    "foil": ""
+  }
+}

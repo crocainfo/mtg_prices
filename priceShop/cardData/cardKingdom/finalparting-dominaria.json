@@ -1,0 +1,19 @@
+{
+  "name": "Final Parting",
+  "lang": "",
+  "price": {
+    "nm": "1.49 ",
+    "ex": "1.19",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/dominaria/final-parting-84618-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/dominaria/final-parting-84618-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/dominaria/final-parting",
+    "foil": ""
+  }
+}

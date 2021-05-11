@@ -1,0 +1,19 @@
+{
+  "name": "Bird Token Red Box Edition",
+  "lang": "",
+  "price": {
+    "nm": "0.25",
+    "ex": "0.20",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/card-kingdom-tokens/bird-token-red-box-edition-14087-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/card-kingdom-tokens/bird-token-red-box-edition-14087-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/card-kingdom-tokens/bird-token-red-box-edition",
+    "foil": ""
+  }
+}

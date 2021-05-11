@@ -1,0 +1,19 @@
+{
+  "name": "Hibernation Sliver",
+  "lang": "",
+  "price": {
+    "nm": "3.49",
+    "ex": "2.79",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/stronghold/hibernation-sliver-4441-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/stronghold/hibernation-sliver-4441-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/stronghold/hibernation-sliver",
+    "foil": ""
+  }
+}

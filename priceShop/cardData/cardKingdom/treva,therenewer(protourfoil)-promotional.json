@@ -1,0 +1,19 @@
+{
+  "name": "Treva, the Renewer Pro Tour Foil",
+  "lang": "",
+  "price": {
+    "nm": "34.99",
+    "ex": "29.74",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/promotional/treva-the-renewer-worlds-foil-25793-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/promotional/treva-the-renewer-worlds-foil-25793-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/promotional/treva-the-renewer-pro-tour-foil",
+    "foil": ""
+  }
+}

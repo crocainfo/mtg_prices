@@ -1,0 +1,19 @@
+{
+  "name": "Thryx, the Sudden Storm",
+  "lang": "",
+  "price": {
+    "nm": "0.99",
+    "ex": "0.79",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/theros-beyond-death/thryx-the-sudden-storm-70185-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/theros-beyond-death/thryx-the-sudden-storm-70185-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/theros-beyond-death/thryx-the-sudden-storm",
+    "foil": ""
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "name": "Gigantosaurus",
+  "lang": "",
+  "price": {
+    "nm": "3.99",
+    "ex": "3.19",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/core-set-2019/gigantosaurus-76728-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/core-set-2019/gigantosaurus-76728-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/core-set-2019/gigantosaurus",
+    "foil": ""
+  }
+}

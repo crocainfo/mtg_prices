@@ -1,0 +1,19 @@
+{
+  "name": "Kagemaro, First to Suffer",
+  "lang": "",
+  "price": {
+    "nm": "2.49",
+    "ex": "1.99",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/saviors-of-kamigawa/kagemaro-first-to-suffer-68293-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/saviors-of-kamigawa/kagemaro-first-to-suffer-68293-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/saviors-of-kamigawa/kagemaro-first-to-suffer",
+    "foil": ""
+  }
+}

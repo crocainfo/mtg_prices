@@ -1,0 +1,19 @@
+{
+  "name": "Brazen Wolves",
+  "lang": "",
+  "price": {
+    "nm": "0.25",
+    "ex": "0.20",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/eldritch-moon/brazen-wolves-42778-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/eldritch-moon/brazen-wolves-42778-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/eldritch-moon/brazen-wolves",
+    "foil": ""
+  }
+}

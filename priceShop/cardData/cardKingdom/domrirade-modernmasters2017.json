@@ -1,0 +1,19 @@
+{
+  "name": "Domri Rade",
+  "lang": "",
+  "price": {
+    "nm": "2.99",
+    "ex": "2.39",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/modern-masters-2017/domri-rade-59260-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/modern-masters-2017/domri-rade-59260-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/modern-masters-2017/domri-rade",
+    "foil": ""
+  }
+}

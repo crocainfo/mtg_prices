@@ -1,0 +1,19 @@
+{
+  "name": "Fork",
+  "lang": "",
+  "price": {
+    "nm": "79.99",
+    "ex": "67.99",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/3rd-edition/fork-62251-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/3rd-edition/fork-62251-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/3rd-edition/fork",
+    "foil": ""
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "name": "Jack-in-the-Mox",
+  "lang": "",
+  "price": {
+    "nm": "0.59",
+    "ex": "0.47",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/unsanctioned/jack-in-the-mox-90342-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/unsanctioned/jack-in-the-mox-90342-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/unsanctioned/jack-in-the-mox",
+    "foil": ""
+  }
+}

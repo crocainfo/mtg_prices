@@ -1,0 +1,19 @@
+{
+  "name": "Lightning Mare",
+  "lang": "",
+  "price": {
+    "nm": "0.25",
+    "ex": "0.20",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/core-set-2019/lightning-mare-47226-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/core-set-2019/lightning-mare-47226-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/core-set-2019/lightning-mare",
+    "foil": ""
+  }
+}

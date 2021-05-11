@@ -1,0 +1,19 @@
+{
+  "name": "Siren Stormtamer",
+  "lang": "",
+  "price": {
+    "nm": "0.29",
+    "ex": "0.23",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/ixalan/siren-stormtamer-61883-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/ixalan/siren-stormtamer-61883-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/ixalan/siren-stormtamer",
+    "foil": ""
+  }
+}

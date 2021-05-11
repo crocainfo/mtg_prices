@@ -1,0 +1,19 @@
+{
+  "name": "Meddling Kids",
+  "lang": "",
+  "price": {
+    "nm": "1.99",
+    "ex": "1.59",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/unhinged/meddling-kids-25596-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/unhinged/meddling-kids-25596-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/unhinged/meddling-kids",
+    "foil": ""
+  }
+}

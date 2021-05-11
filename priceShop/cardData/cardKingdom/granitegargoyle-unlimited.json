@@ -1,0 +1,19 @@
+{
+  "name": "Granite Gargoyle",
+  "lang": "",
+  "price": {
+    "nm": "94.99",
+    "ex": "75.99",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/unlimited/granite-gargoyle-10159-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/unlimited/granite-gargoyle-10159-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/unlimited/granite-gargoyle",
+    "foil": ""
+  }
+}

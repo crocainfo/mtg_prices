@@ -1,0 +1,19 @@
+{
+  "name": "Protean Hulk",
+  "lang": "",
+  "price": {
+    "nm": "10.99",
+    "ex": "8.79",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/dissension/protean-hulk-6998-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/dissension/protean-hulk-6998-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/dissension/protean-hulk",
+    "foil": ""
+  }
+}

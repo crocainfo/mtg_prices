@@ -1,0 +1,19 @@
+{
+  "name": "Gisa and Geralf Prerelease Foil",
+  "lang": "",
+  "price": {
+    "nm": "17.99",
+    "ex": "15.29",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/promotional/gisa-and-geralf-prerelease-foil-53638-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/promotional/gisa-and-geralf-prerelease-foil-53638-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/promotional/gisa-and-geralf-prerelease-foil",
+    "foil": ""
+  }
+}

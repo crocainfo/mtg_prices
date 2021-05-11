@@ -1,0 +1,19 @@
+{
+  "name": "Tower Above",
+  "lang": "",
+  "price": {
+    "nm": "0.29",
+    "ex": "0.23",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/shadowmoor/tower-above-27788-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/shadowmoor/tower-above-27788-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/shadowmoor/tower-above",
+    "foil": ""
+  }
+}

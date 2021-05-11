@@ -1,0 +1,19 @@
+{
+  "name": "Orcish Squatters",
+  "lang": "",
+  "price": {
+    "nm": "0.35",
+    "ex": "0.28",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/5th-edition/orcish-squatters-24077-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/5th-edition/orcish-squatters-24077-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/5th-edition/orcish-squatters",
+    "foil": ""
+  }
+}

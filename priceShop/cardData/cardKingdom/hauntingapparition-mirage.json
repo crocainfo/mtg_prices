@@ -1,0 +1,19 @@
+{
+  "name": "Haunting Apparition",
+  "lang": "",
+  "price": {
+    "nm": "0.25",
+    "ex": "0.20",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/mirage/haunting-apparition-11697-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/mirage/haunting-apparition-11697-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/mirage/haunting-apparition",
+    "foil": ""
+  }
+}

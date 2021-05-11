@@ -1,0 +1,19 @@
+{
+  "name": "Daggerdrome Imp",
+  "lang": "",
+  "price": {
+    "nm": "0.25",
+    "ex": "0.20",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/battlebond/daggerdrome-imp-10112-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/battlebond/daggerdrome-imp-10112-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/battlebond/daggerdrome-imp",
+    "foil": ""
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "name": "Sacred Foundry",
+  "lang": "",
+  "price": {
+    "nm": "19.99",
+    "ex": "16.99",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/gatecrash/sacred-foundry-32760-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/gatecrash/sacred-foundry-32760-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/gatecrash/sacred-foundry",
+    "foil": ""
+  }
+}

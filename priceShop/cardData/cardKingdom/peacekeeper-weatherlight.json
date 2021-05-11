@@ -1,0 +1,19 @@
+{
+  "name": "Peacekeeper",
+  "lang": "",
+  "price": {
+    "nm": "44.99",
+    "ex": "38.24",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/weatherlight/peacekeeper-1119-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/weatherlight/peacekeeper-1119-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/weatherlight/peacekeeper",
+    "foil": ""
+  }
+}

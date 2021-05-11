@@ -1,0 +1,19 @@
+{
+  "name": "Unholy Strength Divine vs Demonic",
+  "lang": "",
+  "price": {
+    "nm": "0.25",
+    "ex": "0.20",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/duel-decks-anthology/unholy-strength-divine-vs-demonic-43294-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/duel-decks-anthology/unholy-strength-divine-vs-demonic-43294-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/duel-decks-anthology/unholy-strength-divine-vs-demonic",
+    "foil": ""
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "name": "Havoc Festival",
+  "lang": "",
+  "price": {
+    "nm": "0.25",
+    "ex": "0.20",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/return-to-ravnica/havoc-festival-84220-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/return-to-ravnica/havoc-festival-84220-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/return-to-ravnica/havoc-festival",
+    "foil": ""
+  }
+}

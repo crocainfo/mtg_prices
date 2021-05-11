@@ -1,0 +1,19 @@
+{
+  "name": "Battle of Wits",
+  "lang": "",
+  "price": {
+    "nm": "0.39",
+    "ex": "0.31",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/9th-edition/battle-of-wits-1991-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/9th-edition/battle-of-wits-1991-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/9th-edition/battle-of-wits",
+    "foil": ""
+  }
+}

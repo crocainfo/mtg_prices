@@ -1,0 +1,19 @@
+{
+  "name": "Evra, Halcyon Witness",
+  "lang": "",
+  "price": {
+    "nm": "0.35",
+    "ex": "0.28",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/dominaria/evra-halcyon-witness-23369-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/dominaria/evra-halcyon-witness-23369-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/dominaria/evra-halcyon-witness",
+    "foil": ""
+  }
+}

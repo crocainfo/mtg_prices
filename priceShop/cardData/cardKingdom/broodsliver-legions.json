@@ -1,0 +1,19 @@
+{
+  "name": "Brood Sliver",
+  "lang": "",
+  "price": {
+    "nm": "21.99",
+    "ex": "18.69",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/legions/brood-sliver-21553-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/legions/brood-sliver-21553-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/legions/brood-sliver",
+    "foil": ""
+  }
+}

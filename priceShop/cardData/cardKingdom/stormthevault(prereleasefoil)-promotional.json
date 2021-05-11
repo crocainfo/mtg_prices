@@ -1,0 +1,19 @@
+{
+  "name": "Storm the Vault Prerelease Foil",
+  "lang": "",
+  "price": {
+    "nm": "15.99",
+    "ex": "13.59",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/promotional/storm-the-vault-prerelease-foil-44936-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/promotional/storm-the-vault-prerelease-foil-44936-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/promotional/storm-the-vault-prerelease-foil",
+    "foil": ""
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "name": "Giant Cockroach",
+  "lang": "",
+  "price": {
+    "nm": "0.25",
+    "ex": "0.20",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/urzas-legacy/giant-cockroach-17114-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/urzas-legacy/giant-cockroach-17114-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/urzas-legacy/giant-cockroach",
+    "foil": ""
+  }
+}

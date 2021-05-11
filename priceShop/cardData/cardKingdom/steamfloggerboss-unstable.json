@@ -1,0 +1,19 @@
+{
+  "name": "Steamflogger Boss",
+  "lang": "",
+  "price": {
+    "nm": "0.35",
+    "ex": "0.28",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/unstable/steamflogger-boss-57074-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/unstable/steamflogger-boss-57074-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/unstable/steamflogger-boss",
+    "foil": ""
+  }
+}

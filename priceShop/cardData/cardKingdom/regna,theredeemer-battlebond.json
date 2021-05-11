@@ -1,0 +1,19 @@
+{
+  "name": "Regna, the Redeemer",
+  "lang": "",
+  "price": {
+    "nm": "1.49",
+    "ex": "1.19",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/battlebond/regna-the-redeemer-71894-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/battlebond/regna-the-redeemer-71894-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/battlebond/regna-the-redeemer",
+    "foil": ""
+  }
+}

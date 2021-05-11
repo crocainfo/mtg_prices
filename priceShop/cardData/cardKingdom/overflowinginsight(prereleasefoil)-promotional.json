@@ -1,0 +1,19 @@
+{
+  "name": "Overflowing Insight Prerelease Foil",
+  "lang": "",
+  "price": {
+    "nm": "1.99",
+    "ex": "1.59",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/promotional/overflowing-insight-prerelease-foil-62234-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/promotional/overflowing-insight-prerelease-foil-62234-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/promotional/overflowing-insight-prerelease-foil",
+    "foil": ""
+  }
+}

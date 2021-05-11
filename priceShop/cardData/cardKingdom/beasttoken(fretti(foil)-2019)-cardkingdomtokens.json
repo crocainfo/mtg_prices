@@ -1,0 +1,19 @@
+{
+  "name": "Beast Token Fretti (Foil - 2019)",
+  "lang": "",
+  "price": {
+    "nm": "0.25",
+    "ex": "0.20",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/card-kingdom-tokens/beast-token-fretti-foil-2019-80447-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/card-kingdom-tokens/beast-token-fretti-foil-2019-80447-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/card-kingdom-tokens/beast-token-fretti-foil-2019",
+    "foil": ""
+  }
+}

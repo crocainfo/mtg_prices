@@ -1,0 +1,19 @@
+{
+  "name": "Chain of Smog",
+  "lang": "",
+  "price": {
+    "nm": "22.99",
+    "ex": "19.54",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/onslaught/chain-of-smog-52680-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/onslaught/chain-of-smog-52680-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/onslaught/chain-of-smog",
+    "foil": ""
+  }
+}

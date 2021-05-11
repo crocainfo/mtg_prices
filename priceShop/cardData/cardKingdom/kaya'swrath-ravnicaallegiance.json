@@ -1,0 +1,19 @@
+{
+  "name": "Kaya's Wrath",
+  "lang": "",
+  "price": {
+    "nm": "1.49",
+    "ex": "1.19",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/ravnica-allegiance/kayas-wrath-96881-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/ravnica-allegiance/kayas-wrath-96881-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/ravnica-allegiance/kayas-wrath",
+    "foil": ""
+  }
+}

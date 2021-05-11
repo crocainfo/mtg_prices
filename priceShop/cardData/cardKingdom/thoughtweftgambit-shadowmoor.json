@@ -1,0 +1,19 @@
+{
+  "name": "Thoughtweft Gambit",
+  "lang": "",
+  "price": {
+    "nm": "0.25",
+    "ex": "0.20",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/shadowmoor/thoughtweft-gambit-13587-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/shadowmoor/thoughtweft-gambit-13587-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/shadowmoor/thoughtweft-gambit",
+    "foil": ""
+  }
+}

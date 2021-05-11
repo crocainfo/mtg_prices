@@ -1,0 +1,19 @@
+{
+  "name": "Swamp 163 B",
+  "lang": "",
+  "price": {
+    "nm": "0.99",
+    "ex": "0.79",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/starter-1999/swamp-163-38474-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/starter-1999/swamp-163-38474-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/starter-1999/swamp-163-b",
+    "foil": ""
+  }
+}

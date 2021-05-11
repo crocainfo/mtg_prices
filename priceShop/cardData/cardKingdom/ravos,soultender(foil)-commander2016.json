@@ -1,0 +1,19 @@
+{
+  "name": "Ravos, Soultender Foil",
+  "lang": "",
+  "price": {
+    "nm": "7.99",
+    "ex": "6.39",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/commander-2016/ravos-soultender-foil-42640-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/commander-2016/ravos-soultender-foil-42640-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/commander-2016/ravos-soultender-foil",
+    "foil": ""
+  }
+}

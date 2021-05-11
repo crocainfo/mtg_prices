@@ -1,0 +1,19 @@
+{
+  "name": "Lightning Greaves KLD",
+  "lang": "",
+  "price": {
+    "nm": "149.99",
+    "ex": "134.99",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/masterpiece-series-inventions/lightning-greaves-56872-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/masterpiece-series-inventions/lightning-greaves-56872-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/masterpiece-series-inventions/lightning-greaves-kld",
+    "foil": ""
+  }
+}

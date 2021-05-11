@@ -1,0 +1,19 @@
+{
+  "name": "Master Apothecary",
+  "lang": "",
+  "price": {
+    "nm": "1.49",
+    "ex": "1.19",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/odyssey/master-apothecary-8651-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/odyssey/master-apothecary-8651-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/odyssey/master-apothecary",
+    "foil": ""
+  }
+}

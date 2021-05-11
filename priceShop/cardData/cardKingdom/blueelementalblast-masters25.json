@@ -1,0 +1,19 @@
+{
+  "name": "Blue Elemental Blast",
+  "lang": "",
+  "price": {
+    "nm": "0.25",
+    "ex": "0.20",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/masters-25/blue-elemental-blast-70857-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/masters-25/blue-elemental-blast-70857-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/masters-25/blue-elemental-blast",
+    "foil": ""
+  }
+}

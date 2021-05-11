@@ -1,0 +1,19 @@
+{
+  "name": "Life's Finale",
+  "lang": "",
+  "price": {
+    "nm": "3.49",
+    "ex": "2.79",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/new-phyrexia/lifes-finale-41593-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/new-phyrexia/lifes-finale-41593-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/new-phyrexia/lifes-finale",
+    "foil": ""
+  }
+}

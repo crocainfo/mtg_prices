@@ -1,0 +1,19 @@
+{
+  "name": "Curse Artifact",
+  "lang": "",
+  "price": {
+    "nm": "1.49",
+    "ex": "1.19",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/the-dark/curse-artifact-29285-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/the-dark/curse-artifact-29285-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/the-dark/curse-artifact",
+    "foil": ""
+  }
+}

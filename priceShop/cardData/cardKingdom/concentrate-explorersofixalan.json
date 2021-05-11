@@ -1,0 +1,19 @@
+{
+  "name": "Concentrate",
+  "lang": "",
+  "price": {
+    "nm": "0.25",
+    "ex": "0.20",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/explorers-of-ixalan/concentrate-27920-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/explorers-of-ixalan/concentrate-27920-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/explorers-of-ixalan/concentrate",
+    "foil": ""
+  }
+}

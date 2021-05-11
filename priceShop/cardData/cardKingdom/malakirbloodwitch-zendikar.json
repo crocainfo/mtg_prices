@@ -1,0 +1,19 @@
+{
+  "name": "Malakir Bloodwitch",
+  "lang": "",
+  "price": {
+    "nm": "2.29",
+    "ex": "1.83",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/zendikar/malakir-bloodwitch-21464-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/zendikar/malakir-bloodwitch-21464-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/zendikar/malakir-bloodwitch",
+    "foil": ""
+  }
+}

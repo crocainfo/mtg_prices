@@ -1,0 +1,19 @@
+{
+  "name": "Plains 176 A",
+  "lang": "",
+  "price": {
+    "nm": "0.25",
+    "ex": "0.20",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/fate-reforged/plains-176-42572-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/fate-reforged/plains-176-42572-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/fate-reforged/plains-176-a",
+    "foil": ""
+  }
+}

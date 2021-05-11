@@ -1,0 +1,19 @@
+{
+  "name": "Aladdin's Ring",
+  "lang": "",
+  "price": {
+    "nm": "0.35",
+    "ex": "0.28",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/8th-edition/aladdins-ring-16466-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/8th-edition/aladdins-ring-16466-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/8th-edition/aladdins-ring",
+    "foil": ""
+  }
+}

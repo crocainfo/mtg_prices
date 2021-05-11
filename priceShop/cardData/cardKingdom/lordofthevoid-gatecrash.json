@@ -1,0 +1,19 @@
+{
+  "name": "Lord of the Void",
+  "lang": "",
+  "price": {
+    "nm": "14.99",
+    "ex": "11.99",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/gatecrash/lord-of-the-void-32879-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/gatecrash/lord-of-the-void-32879-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/gatecrash/lord-of-the-void",
+    "foil": ""
+  }
+}

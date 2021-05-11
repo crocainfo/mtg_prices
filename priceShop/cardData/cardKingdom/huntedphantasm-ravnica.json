@@ -1,0 +1,19 @@
+{
+  "name": "Hunted Phantasm",
+  "lang": "",
+  "price": {
+    "nm": "2.49",
+    "ex": "1.99",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/ravnica/hunted-phantasm-10175-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/ravnica/hunted-phantasm-10175-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/ravnica/hunted-phantasm",
+    "foil": ""
+  }
+}

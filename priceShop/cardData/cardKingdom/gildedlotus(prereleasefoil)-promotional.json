@@ -1,0 +1,19 @@
+{
+  "name": "Gilded Lotus Prerelease Foil",
+  "lang": "",
+  "price": {
+    "nm": "14.99",
+    "ex": "11.99",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/promotional/gilded-lotus-prerelease-foil-21103-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/promotional/gilded-lotus-prerelease-foil-21103-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/promotional/gilded-lotus-prerelease-foil",
+    "foil": ""
+  }
+}

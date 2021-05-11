@@ -1,0 +1,19 @@
+{
+  "name": "Goblin Instigator",
+  "lang": "",
+  "price": {
+    "nm": "0.29",
+    "ex": "0.23",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/jumpstart/goblin-instigator-71966-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/jumpstart/goblin-instigator-71966-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/jumpstart/goblin-instigator",
+    "foil": ""
+  }
+}

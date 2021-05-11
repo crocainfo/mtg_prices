@@ -1,0 +1,19 @@
+{
+  "name": "Wall of Frost",
+  "lang": "",
+  "price": {
+    "nm": "0.25",
+    "ex": "0.20",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/2014-core-set/wall-of-frost-34717-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/2014-core-set/wall-of-frost-34717-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/2014-core-set/wall-of-frost",
+    "foil": ""
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "name": "Trokin High Guard",
+  "lang": "",
+  "price": {
+    "nm": "0.25",
+    "ex": "0.20",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/portal-ii/trokin-high-guard-28312-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/portal-ii/trokin-high-guard-28312-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/portal-ii/trokin-high-guard",
+    "foil": ""
+  }
+}

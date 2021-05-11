@@ -1,0 +1,19 @@
+{
+  "name": "Faerie Token Joe Vollan",
+  "lang": "",
+  "price": {
+    "nm": "0.25",
+    "ex": "0.20",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/card-kingdom-tokens/faerie-token-joe-vollan-22278-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/card-kingdom-tokens/faerie-token-joe-vollan-22278-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/card-kingdom-tokens/faerie-token-joe-vollan",
+    "foil": ""
+  }
+}

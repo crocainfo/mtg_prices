@@ -1,0 +1,19 @@
+{
+  "name": "Lightning Bolt Judge Foil",
+  "lang": "",
+  "price": {
+    "nm": "699.99",
+    "ex": "629.99",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/promotional/lightning-bolt-judge-foil-92000-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/promotional/lightning-bolt-judge-foil-92000-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/promotional/lightning-bolt-judge-foil",
+    "foil": ""
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "name": "Tobias Andrion",
+  "lang": "",
+  "price": {
+    "nm": "0.25",
+    "ex": "0.20",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/chronicles/tobias-andrion-7721-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/chronicles/tobias-andrion-7721-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/chronicles/tobias-andrion",
+    "foil": ""
+  }
+}

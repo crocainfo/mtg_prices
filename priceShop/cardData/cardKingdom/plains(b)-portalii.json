@@ -1,0 +1,19 @@
+{
+  "name": "Plains B",
+  "lang": "",
+  "price": {
+    "nm": "2.29 ",
+    "ex": "1.83",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/portal-ii/plains-b-32161-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/portal-ii/plains-b-32161-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/portal-ii/plains-b",
+    "foil": ""
+  }
+}

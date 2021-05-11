@@ -1,0 +1,19 @@
+{
+  "name": "Ruinous Ultimatum Extended Art",
+  "lang": "",
+  "price": {
+    "nm": "8.49",
+    "ex": "6.79",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/ikoria-lair-of-behemoths-variants/ruinous-ultimatum-extended-art-31369-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/ikoria-lair-of-behemoths-variants/ruinous-ultimatum-extended-art-31369-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/ikoria-lair-of-behemoths-variants/ruinous-ultimatum-extended-art",
+    "foil": ""
+  }
+}

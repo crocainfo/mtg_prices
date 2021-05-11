@@ -1,0 +1,19 @@
+{
+  "name": "Mahamoti Djinn",
+  "lang": "",
+  "price": {
+    "nm": "2299.99",
+    "ex": "1839.99",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/alpha/mahamoti-djinn-10374-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/alpha/mahamoti-djinn-10374-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/alpha/mahamoti-djinn",
+    "foil": ""
+  }
+}

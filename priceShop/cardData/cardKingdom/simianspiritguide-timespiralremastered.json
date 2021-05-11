@@ -1,0 +1,19 @@
+{
+  "name": "Simian Spirit Guide",
+  "lang": "",
+  "price": {
+    "nm": "0.25",
+    "ex": "0.20",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/time-spiral-remastered/simian-spirit-guide-73732-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/time-spiral-remastered/simian-spirit-guide-73732-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/time-spiral-remastered/simian-spirit-guide",
+    "foil": ""
+  }
+}

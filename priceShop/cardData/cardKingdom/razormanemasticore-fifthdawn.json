@@ -1,0 +1,19 @@
+{
+  "name": "Razormane Masticore",
+  "lang": "",
+  "price": {
+    "nm": "0.35",
+    "ex": "0.28",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/fifth-dawn/razormane-masticore-6899-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/fifth-dawn/razormane-masticore-6899-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/fifth-dawn/razormane-masticore",
+    "foil": ""
+  }
+}

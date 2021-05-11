@@ -1,0 +1,19 @@
+{
+  "name": "Thrilling Encore",
+  "lang": "",
+  "price": {
+    "nm": "4.49",
+    "ex": "3.59",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/battlebond/thrilling-encore-59434-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/battlebond/thrilling-encore-59434-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/battlebond/thrilling-encore",
+    "foil": ""
+  }
+}

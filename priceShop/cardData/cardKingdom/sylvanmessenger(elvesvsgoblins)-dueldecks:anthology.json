@@ -1,0 +1,19 @@
+{
+  "name": "Sylvan Messenger Elves vs Goblins",
+  "lang": "",
+  "price": {
+    "nm": "0.49",
+    "ex": "0.39",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/duel-decks-anthology/sylvan-messenger-elves-vs-goblins-43195-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/duel-decks-anthology/sylvan-messenger-elves-vs-goblins-43195-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/duel-decks-anthology/sylvan-messenger-elves-vs-goblins",
+    "foil": ""
+  }
+}

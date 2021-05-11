@@ -1,0 +1,19 @@
+{
+  "name": "Nature's Revolt",
+  "lang": "",
+  "price": {
+    "nm": "1.99",
+    "ex": "1.59",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/tempest/natures-revolt-8068-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/tempest/natures-revolt-8068-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/tempest/natures-revolt",
+    "foil": ""
+  }
+}

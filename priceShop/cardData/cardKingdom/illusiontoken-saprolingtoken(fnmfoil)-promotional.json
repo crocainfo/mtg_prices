@@ -1,0 +1,19 @@
+{
+  "name": "Illusion Token - Saproling Token FNM Foil",
+  "lang": "",
+  "price": {
+    "nm": "0.35",
+    "ex": "0.28",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/promotional/promotional-72609-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/promotional/promotional-72609-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/promotional/illusion-token-saproling-token-fnm-foil",
+    "foil": ""
+  }
+}

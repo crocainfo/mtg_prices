@@ -1,0 +1,19 @@
+{
+  "name": "Grindstone",
+  "lang": "",
+  "price": {
+    "nm": "27.99 ",
+    "ex": "23.79",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/tempest/grindstone-66324-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/tempest/grindstone-66324-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/tempest/grindstone",
+    "foil": ""
+  }
+}

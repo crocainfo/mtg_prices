@@ -1,0 +1,19 @@
+{
+  "name": "Glimmerpoint Stag",
+  "lang": "",
+  "price": {
+    "nm": "0.25",
+    "ex": "0.20",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/conspiracy/glimmerpoint-stag-40130-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/conspiracy/glimmerpoint-stag-40130-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/conspiracy/glimmerpoint-stag",
+    "foil": ""
+  }
+}

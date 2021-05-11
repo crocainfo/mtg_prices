@@ -1,0 +1,19 @@
+{
+  "name": "Forced Landing",
+  "lang": "",
+  "price": {
+    "nm": "0.25",
+    "ex": "0.20",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/war-of-the-spark/forced-landing-10167-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/war-of-the-spark/forced-landing-10167-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/war-of-the-spark/forced-landing",
+    "foil": ""
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "name": "Horobi, Death's Wail",
+  "lang": "",
+  "price": {
+    "nm": "2.29",
+    "ex": "1.83",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/champions-of-kamigawa/horobi-deaths-wail-24613-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/champions-of-kamigawa/horobi-deaths-wail-24613-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/champions-of-kamigawa/horobi-deaths-wail",
+    "foil": ""
+  }
+}

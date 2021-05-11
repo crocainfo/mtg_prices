@@ -1,0 +1,19 @@
+{
+  "name": "Demonic Tutor",
+  "lang": "",
+  "price": {
+    "nm": "1799.99",
+    "ex": "1439.99",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/beta/demonic-tutor-26851-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/beta/demonic-tutor-26851-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/beta/demonic-tutor",
+    "foil": ""
+  }
+}

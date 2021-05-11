@@ -1,0 +1,19 @@
+{
+  "name": "Taiga Not Tournament Legal",
+  "lang": "",
+  "price": {
+    "nm": "339.99",
+    "ex": "305.99",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/collectors-ed/taiga-not-tournament-legal-3552-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/collectors-ed/taiga-not-tournament-legal-3552-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/collectors-ed/taiga-not-tournament-legal",
+    "foil": ""
+  }
+}

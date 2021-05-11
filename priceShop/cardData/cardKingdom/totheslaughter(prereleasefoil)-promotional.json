@@ -1,0 +1,19 @@
+{
+  "name": "To the Slaughter Prerelease Foil",
+  "lang": "",
+  "price": {
+    "nm": "0.99",
+    "ex": "0.79",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/promotional/to-the-slaughter-prerelease-foil-96450-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/promotional/to-the-slaughter-prerelease-foil-96450-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/promotional/to-the-slaughter-prerelease-foil",
+    "foil": ""
+  }
+}

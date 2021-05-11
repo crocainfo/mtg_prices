@@ -1,0 +1,19 @@
+{
+  "name": "Map the Wastes",
+  "lang": "",
+  "price": {
+    "nm": "0.25",
+    "ex": "0.20",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/fate-reforged/map-the-wastes-83350-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/fate-reforged/map-the-wastes-83350-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/fate-reforged/map-the-wastes",
+    "foil": ""
+  }
+}

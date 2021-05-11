@@ -1,0 +1,19 @@
+{
+  "name": "Jwar Isle Refuge",
+  "lang": "",
+  "price": {
+    "nm": "0.49",
+    "ex": "0.39",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/planechase-2012/jwar-isle-refuge-31593-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/planechase-2012/jwar-isle-refuge-31593-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/planechase-2012/jwar-isle-refuge",
+    "foil": ""
+  }
+}

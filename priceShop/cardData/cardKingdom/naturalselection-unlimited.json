@@ -1,0 +1,19 @@
+{
+  "name": "Natural Selection",
+  "lang": "",
+  "price": {
+    "nm": "549.99",
+    "ex": "439.99",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/unlimited/natural-selection-55494-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/unlimited/natural-selection-55494-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/unlimited/natural-selection",
+    "foil": ""
+  }
+}

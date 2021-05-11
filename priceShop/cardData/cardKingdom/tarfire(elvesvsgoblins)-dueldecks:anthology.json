@@ -1,0 +1,19 @@
+{
+  "name": "Tarfire Elves vs Goblins",
+  "lang": "",
+  "price": {
+    "nm": "0.25",
+    "ex": "0.20",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/duel-decks-anthology/tarfire-elves-vs-goblins-43232-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/duel-decks-anthology/tarfire-elves-vs-goblins-43232-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/duel-decks-anthology/tarfire-elves-vs-goblins",
+    "foil": ""
+  }
+}

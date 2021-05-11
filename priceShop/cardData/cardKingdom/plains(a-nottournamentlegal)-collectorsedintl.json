@@ -1,0 +1,19 @@
+{
+  "name": "Plains A - Not Tournament Legal",
+  "lang": "",
+  "price": {
+    "nm": "8.49",
+    "ex": "6.79",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/collectors-ed-intl/plains-a-not-tournament-legal-39750-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/collectors-ed-intl/plains-a-not-tournament-legal-39750-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/collectors-ed-intl/plains-a-not-tournament-legal",
+    "foil": ""
+  }
+}

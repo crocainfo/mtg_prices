@@ -1,0 +1,19 @@
+{
+  "name": "Night Market Guard",
+  "lang": "",
+  "price": {
+    "nm": "0.25",
+    "ex": "0.20",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/aether-revolt/night-market-guard-38746-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/aether-revolt/night-market-guard-38746-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/aether-revolt/night-market-guard",
+    "foil": ""
+  }
+}

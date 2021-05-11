@@ -1,0 +1,19 @@
+{
+  "name": "Primal Clay",
+  "lang": "",
+  "price": {
+    "nm": "0.25",
+    "ex": "0.20",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/2013-core-set/primal-clay-31878-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/2013-core-set/primal-clay-31878-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/2013-core-set/primal-clay",
+    "foil": ""
+  }
+}

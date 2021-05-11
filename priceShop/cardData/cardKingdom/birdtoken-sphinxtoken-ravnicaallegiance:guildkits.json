@@ -1,0 +1,19 @@
+{
+  "name": "Bird Token - Sphinx Token",
+  "lang": "",
+  "price": {
+    "nm": "1.79",
+    "ex": "1.43",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/ravnica-allegiance-guild-kits/spirit-token-spirit-token-79427-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/ravnica-allegiance-guild-kits/spirit-token-spirit-token-79427-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/ravnica-allegiance-guild-kits/bird-token-sphinx-token",
+    "foil": ""
+  }
+}

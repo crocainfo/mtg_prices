@@ -1,0 +1,19 @@
+{
+  "name": "Dwarven Grunt",
+  "lang": "",
+  "price": {
+    "nm": "0.59",
+    "ex": "0.47",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/odyssey/dwarven-grunt-2964-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/odyssey/dwarven-grunt-2964-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/odyssey/dwarven-grunt",
+    "foil": ""
+  }
+}

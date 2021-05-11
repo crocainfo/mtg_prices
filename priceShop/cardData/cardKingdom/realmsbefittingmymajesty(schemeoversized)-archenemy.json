@@ -1,0 +1,19 @@
+{
+  "name": "Realms Befitting My Majesty Scheme Oversized",
+  "lang": "",
+  "price": {
+    "nm": "0.25",
+    "ex": "0.20",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/archenemy/realms-befitting-my-majesty-scheme-oversized-29654-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/archenemy/realms-befitting-my-majesty-scheme-oversized-29654-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/archenemy/realms-befitting-my-majesty-scheme-oversized",
+    "foil": ""
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "name": "Forest Arena 2005",
+  "lang": "",
+  "price": {
+    "nm": "3.49",
+    "ex": "2.79",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/promotional/forest-arena-2005-32663-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/promotional/forest-arena-2005-32663-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/promotional/forest-arena-2005",
+    "foil": ""
+  }
+}

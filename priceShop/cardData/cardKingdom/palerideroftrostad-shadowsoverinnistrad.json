@@ -1,0 +1,19 @@
+{
+  "name": "Pale Rider of Trostad",
+  "lang": "",
+  "price": {
+    "nm": "0.25",
+    "ex": "0.20",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/shadows-over-innistrad/pale-rider-of-trostad-48403-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/shadows-over-innistrad/pale-rider-of-trostad-48403-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/shadows-over-innistrad/pale-rider-of-trostad",
+    "foil": ""
+  }
+}

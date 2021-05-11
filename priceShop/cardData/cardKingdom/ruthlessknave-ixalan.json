@@ -1,0 +1,19 @@
+{
+  "name": "Ruthless Knave",
+  "lang": "",
+  "price": {
+    "nm": "0.25",
+    "ex": "0.20",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/ixalan/ruthless-knave-61961-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/ixalan/ruthless-knave-61961-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/ixalan/ruthless-knave",
+    "foil": ""
+  }
+}

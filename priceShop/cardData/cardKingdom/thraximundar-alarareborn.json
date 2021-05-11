@@ -1,0 +1,19 @@
+{
+  "name": "Thraximundar",
+  "lang": "",
+  "price": {
+    "nm": "2.79",
+    "ex": "2.23",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/alara-reborn/thraximundar-8419-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/alara-reborn/thraximundar-8419-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/alara-reborn/thraximundar",
+    "foil": ""
+  }
+}

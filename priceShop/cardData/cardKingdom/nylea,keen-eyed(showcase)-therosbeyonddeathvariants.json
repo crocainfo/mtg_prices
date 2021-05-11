@@ -1,0 +1,19 @@
+{
+  "name": "Nylea, Keen-Eyed Showcase",
+  "lang": "",
+  "price": {
+    "nm": "6.49",
+    "ex": "5.19",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/theros-beyond-death-variants/nylea-keen-eyed-showcase-60530-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/theros-beyond-death-variants/nylea-keen-eyed-showcase-60530-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/theros-beyond-death-variants/nylea-keen-eyed-showcase",
+    "foil": ""
+  }
+}

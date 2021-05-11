@@ -1,0 +1,19 @@
+{
+  "name": "Stronghold Zeppelin",
+  "lang": "",
+  "price": {
+    "nm": "0.25",
+    "ex": "0.20",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/nemesis/stronghold-zeppelin-6993-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/nemesis/stronghold-zeppelin-6993-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/nemesis/stronghold-zeppelin",
+    "foil": ""
+  }
+}

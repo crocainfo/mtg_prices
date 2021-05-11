@@ -1,0 +1,19 @@
+{
+  "name": "Syphon Soul",
+  "lang": "",
+  "price": {
+    "nm": "0.69",
+    "ex": "0.55",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/legends/syphon-soul-25657-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/legends/syphon-soul-25657-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/legends/syphon-soul",
+    "foil": ""
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "name": "Icy Manipulator",
+  "lang": "",
+  "price": {
+    "nm": "229.99",
+    "ex": "183.99",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/unlimited/icy-manipulator-81511-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/unlimited/icy-manipulator-81511-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/unlimited/icy-manipulator",
+    "foil": ""
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "name": "Jace's Sanctum",
+  "lang": "",
+  "price": {
+    "nm": "0.99",
+    "ex": "0.79",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/commander-2019/jaces-sanctum-83186-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/commander-2019/jaces-sanctum-83186-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/commander-2019/jaces-sanctum",
+    "foil": ""
+  }
+}

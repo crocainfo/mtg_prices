@@ -1,0 +1,19 @@
+{
+  "name": "Fungal Shambler",
+  "lang": "",
+  "price": {
+    "nm": "0.39",
+    "ex": "0.31",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/apocalypse/fungal-shambler-16278-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/apocalypse/fungal-shambler-16278-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/apocalypse/fungal-shambler",
+    "foil": ""
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "name": "Skyshroud Elite",
+  "lang": "",
+  "price": {
+    "nm": "0.25",
+    "ex": "0.20",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/exodus/skyshroud-elite-4609-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/exodus/skyshroud-elite-4609-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/exodus/skyshroud-elite",
+    "foil": ""
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "name": "Berserk",
+  "lang": "",
+  "price": {
+    "nm": "649.99",
+    "ex": "519.99",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/beta/berserk-8545-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/beta/berserk-8545-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/beta/berserk",
+    "foil": ""
+  }
+}

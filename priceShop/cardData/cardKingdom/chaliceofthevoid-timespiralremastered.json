@@ -1,0 +1,19 @@
+{
+  "name": "Chalice of the Void",
+  "lang": "",
+  "price": {
+    "nm": "42.99",
+    "ex": "36.54",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/time-spiral-remastered/chalice-of-the-void-90199-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/time-spiral-remastered/chalice-of-the-void-90199-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/time-spiral-remastered/chalice-of-the-void",
+    "foil": ""
+  }
+}

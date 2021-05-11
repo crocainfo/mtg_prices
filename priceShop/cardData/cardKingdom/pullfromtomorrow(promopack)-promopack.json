@@ -1,0 +1,19 @@
+{
+  "name": "Pull from Tomorrow Promo Pack",
+  "lang": "",
+  "price": {
+    "nm": "8.49 ",
+    "ex": "6.79",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/promo-pack/pull-from-tomorrow-promo-pack-64894-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/promo-pack/pull-from-tomorrow-promo-pack-64894-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/promo-pack/pull-from-tomorrow-promo-pack",
+    "foil": ""
+  }
+}

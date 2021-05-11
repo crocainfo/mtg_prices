@@ -1,0 +1,19 @@
+{
+  "name": "Huatli's Snubhorn Planeswalker Deck",
+  "lang": "",
+  "price": {
+    "nm": "0.35",
+    "ex": "0.28",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/ixalan/huatlis-snubhorn-61842-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/ixalan/huatlis-snubhorn-61842-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/ixalan/huatlis-snubhorn-planeswalker-deck",
+    "foil": ""
+  }
+}

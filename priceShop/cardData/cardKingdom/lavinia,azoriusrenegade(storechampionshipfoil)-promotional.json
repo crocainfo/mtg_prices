@@ -1,0 +1,19 @@
+{
+  "name": "Lavinia, Azorius Renegade Store Championship Foil",
+  "lang": "",
+  "price": {
+    "nm": "1.49",
+    "ex": "1.19",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/promotional/promotional-88146-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/promotional/promotional-88146-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/promotional/lavinia-azorius-renegade-store-championship-foil",
+    "foil": ""
+  }
+}

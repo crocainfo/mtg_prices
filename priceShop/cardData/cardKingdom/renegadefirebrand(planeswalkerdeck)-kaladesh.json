@@ -1,0 +1,19 @@
+{
+  "name": "Renegade Firebrand Planeswalker Deck",
+  "lang": "",
+  "price": {
+    "nm": "0.25",
+    "ex": "0.20",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/kaladesh/renegade-firebrand-56919-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/kaladesh/renegade-firebrand-56919-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/kaladesh/renegade-firebrand-planeswalker-deck",
+    "foil": ""
+  }
+}

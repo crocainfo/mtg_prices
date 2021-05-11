@@ -1,0 +1,19 @@
+{
+  "name": "Yavimaya Coast",
+  "lang": "",
+  "price": {
+    "nm": "1.99",
+    "ex": "1.59",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/magic-origins/yavimaya-coast-45233-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/magic-origins/yavimaya-coast-45233-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/magic-origins/yavimaya-coast",
+    "foil": ""
+  }
+}

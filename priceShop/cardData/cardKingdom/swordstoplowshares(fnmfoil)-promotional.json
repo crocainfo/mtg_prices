@@ -1,0 +1,19 @@
+{
+  "name": "Swords to Plowshares FNM Foil",
+  "lang": "",
+  "price": {
+    "nm": "229.99",
+    "ex": "206.99",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/promotional/swords-to-plowshares-fnm-foil-20163-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/promotional/swords-to-plowshares-fnm-foil-20163-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/promotional/swords-to-plowshares-fnm-foil",
+    "foil": ""
+  }
+}

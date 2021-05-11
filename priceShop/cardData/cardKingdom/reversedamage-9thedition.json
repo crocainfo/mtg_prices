@@ -1,0 +1,19 @@
+{
+  "name": "Reverse Damage",
+  "lang": "",
+  "price": {
+    "nm": "0.59",
+    "ex": "0.47",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/9th-edition/reverse-damage-1874-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/9th-edition/reverse-damage-1874-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/9th-edition/reverse-damage",
+    "foil": ""
+  }
+}

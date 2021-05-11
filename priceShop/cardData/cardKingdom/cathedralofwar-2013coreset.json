@@ -1,0 +1,19 @@
+{
+  "name": "Cathedral of War",
+  "lang": "",
+  "price": {
+    "nm": "1.49",
+    "ex": "1.19",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/2013-core-set/cathedral-of-war-91348-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/2013-core-set/cathedral-of-war-91348-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/2013-core-set/cathedral-of-war",
+    "foil": ""
+  }
+}

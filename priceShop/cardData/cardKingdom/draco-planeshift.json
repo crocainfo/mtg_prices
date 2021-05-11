@@ -1,0 +1,19 @@
+{
+  "name": "Draco",
+  "lang": "",
+  "price": {
+    "nm": "2.49",
+    "ex": "1.99",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/planeshift/draco-7271-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/planeshift/draco-7271-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/planeshift/draco",
+    "foil": ""
+  }
+}

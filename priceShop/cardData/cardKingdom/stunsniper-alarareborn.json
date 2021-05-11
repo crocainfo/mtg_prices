@@ -1,0 +1,19 @@
+{
+  "name": "Stun Sniper",
+  "lang": "",
+  "price": {
+    "nm": "0.25",
+    "ex": "0.20",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/alara-reborn/stun-sniper-420-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/alara-reborn/stun-sniper-420-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/alara-reborn/stun-sniper",
+    "foil": ""
+  }
+}

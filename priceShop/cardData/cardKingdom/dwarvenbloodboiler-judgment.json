@@ -1,0 +1,19 @@
+{
+  "name": "Dwarven Bloodboiler",
+  "lang": "",
+  "price": {
+    "nm": "19.99",
+    "ex": "16.99",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/judgment/dwarven-bloodboiler-4669-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/judgment/dwarven-bloodboiler-4669-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/judgment/dwarven-bloodboiler",
+    "foil": ""
+  }
+}

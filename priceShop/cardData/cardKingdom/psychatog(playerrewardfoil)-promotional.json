@@ -1,0 +1,19 @@
+{
+  "name": "Psychatog Player Reward Foil",
+  "lang": "",
+  "price": {
+    "nm": "4.99",
+    "ex": "3.99",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/promotional/psychatog-player-reward-foil-21176-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/promotional/psychatog-player-reward-foil-21176-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/promotional/psychatog-player-reward-foil",
+    "foil": ""
+  }
+}

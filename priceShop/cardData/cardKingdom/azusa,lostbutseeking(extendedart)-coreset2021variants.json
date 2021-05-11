@@ -1,0 +1,19 @@
+{
+  "name": "Azusa, Lost but Seeking Extended Art",
+  "lang": "",
+  "price": {
+    "nm": "13.99",
+    "ex": "11.19",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/core-set-2021-variants/azusa-lost-but-seeking-extended-art-26707-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/core-set-2021-variants/azusa-lost-but-seeking-extended-art-26707-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/core-set-2021-variants/azusa-lost-but-seeking-extended-art",
+    "foil": ""
+  }
+}

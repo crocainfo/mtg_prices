@@ -1,0 +1,19 @@
+{
+  "name": "Goblin Ringleader",
+  "lang": "",
+  "price": {
+    "nm": "0.49",
+    "ex": "0.39",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/core-set-2020/goblin-ringleader-17208-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/core-set-2020/goblin-ringleader-17208-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/core-set-2020/goblin-ringleader",
+    "foil": ""
+  }
+}

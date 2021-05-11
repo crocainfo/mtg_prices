@@ -1,0 +1,19 @@
+{
+  "name": "Cliff Threader",
+  "lang": "",
+  "price": {
+    "nm": "0.25",
+    "ex": "0.20",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/zendikar/cliff-threader-11072-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/zendikar/cliff-threader-11072-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/zendikar/cliff-threader",
+    "foil": ""
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "name": "Brainstorm",
+  "lang": "",
+  "price": {
+    "nm": "1.99",
+    "ex": "1.59",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/coldsnap-theme-decks/coldsnap-theme-decks-80929-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/coldsnap-theme-decks/coldsnap-theme-decks-80929-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/coldsnap-theme-decks/brainstorm",
+    "foil": ""
+  }
+}

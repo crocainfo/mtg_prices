@@ -1,0 +1,19 @@
+{
+  "name": "Swamp 258 A",
+  "lang": "",
+  "price": {
+    "nm": "0.39",
+    "ex": "0.31",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/dominaria/swamp-258-a-26153-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/dominaria/swamp-258-a-26153-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/dominaria/swamp-258-a",
+    "foil": ""
+  }
+}

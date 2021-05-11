@@ -1,0 +1,19 @@
+{
+  "name": "Heart Wolf",
+  "lang": "",
+  "price": {
+    "nm": "2.79",
+    "ex": "2.23",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/homelands/heart-wolf-27645-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/homelands/heart-wolf-27645-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/homelands/heart-wolf",
+    "foil": ""
+  }
+}

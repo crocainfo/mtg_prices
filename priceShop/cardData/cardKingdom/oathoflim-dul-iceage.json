@@ -1,0 +1,19 @@
+{
+  "name": "Oath of Lim-Dul",
+  "lang": "",
+  "price": {
+    "nm": "0.99",
+    "ex": "0.79",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/ice-age/oath-of-lim-dul-51065-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/ice-age/oath-of-lim-dul-51065-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/ice-age/oath-of-lim-dul",
+    "foil": ""
+  }
+}

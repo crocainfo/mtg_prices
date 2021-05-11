@@ -1,0 +1,19 @@
+{
+  "name": "Cat Dragon Token - Dragon Token Kovacs",
+  "lang": "",
+  "price": {
+    "nm": "1.29",
+    "ex": "1.03",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/commander-2017/cat-dragon-token-61737-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/commander-2017/cat-dragon-token-61737-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/commander-2017/cat-dragon-token-dragon-token-kovacs",
+    "foil": ""
+  }
+}

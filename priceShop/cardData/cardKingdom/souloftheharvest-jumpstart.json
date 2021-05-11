@@ -1,0 +1,19 @@
+{
+  "name": "Soul of the Harvest",
+  "lang": "",
+  "price": {
+    "nm": "2.29",
+    "ex": "1.83",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/jumpstart/soul-of-the-harvest-74347-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/jumpstart/soul-of-the-harvest-74347-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/jumpstart/soul-of-the-harvest",
+    "foil": ""
+  }
+}

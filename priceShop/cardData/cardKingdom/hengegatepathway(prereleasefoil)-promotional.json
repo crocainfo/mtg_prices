@@ -1,0 +1,19 @@
+{
+  "name": "Hengegate Pathway Prerelease Foil",
+  "lang": "",
+  "price": {
+    "nm": "7.99",
+    "ex": "6.39",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/promotional/hengegate-pathway-prerelease-foil-98471-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/promotional/hengegate-pathway-prerelease-foil-98471-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/promotional/hengegate-pathway-prerelease-foil",
+    "foil": ""
+  }
+}

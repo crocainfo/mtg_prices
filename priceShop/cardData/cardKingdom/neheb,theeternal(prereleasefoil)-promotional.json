@@ -1,0 +1,19 @@
+{
+  "name": "Neheb, the Eternal Prerelease Foil",
+  "lang": "",
+  "price": {
+    "nm": "39.99",
+    "ex": "33.99",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/promotional/neheb-the-eternal-prerelease-foil-61194-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/promotional/neheb-the-eternal-prerelease-foil-61194-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/promotional/neheb-the-eternal-prerelease-foil",
+    "foil": ""
+  }
+}

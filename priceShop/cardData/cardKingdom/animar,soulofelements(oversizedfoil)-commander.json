@@ -1,0 +1,19 @@
+{
+  "name": "Animar, Soul of Elements Oversized Foil",
+  "lang": "",
+  "price": {
+    "nm": "2.99",
+    "ex": "2.39",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/commander/animar-soul-of-elements-oversized-foil-55912-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/commander/animar-soul-of-elements-oversized-foil-55912-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/commander/animar-soul-of-elements-oversized-foil",
+    "foil": ""
+  }
+}

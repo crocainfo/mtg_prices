@@ -1,0 +1,19 @@
+{
+  "name": "Solemn Simulacrum",
+  "lang": "",
+  "price": {
+    "nm": "2.99",
+    "ex": "2.39",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/time-spiral-remastered/solemn-simulacrum-82490-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/time-spiral-remastered/solemn-simulacrum-82490-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/time-spiral-remastered/solemn-simulacrum",
+    "foil": ""
+  }
+}

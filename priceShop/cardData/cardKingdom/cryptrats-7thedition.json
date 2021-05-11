@@ -1,0 +1,19 @@
+{
+  "name": "Crypt Rats",
+  "lang": "",
+  "price": {
+    "nm": "0.59",
+    "ex": "0.47",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/7th-edition/crypt-rats-1395-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/7th-edition/crypt-rats-1395-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/7th-edition/crypt-rats",
+    "foil": ""
+  }
+}

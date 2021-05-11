@@ -1,0 +1,19 @@
+{
+  "name": "Titania, Protector of Argoth",
+  "lang": "",
+  "price": {
+    "nm": "27.99",
+    "ex": "23.79",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/commander-anthology/titania-protector-of-argoth-62911-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/commander-anthology/titania-protector-of-argoth-62911-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/commander-anthology/titania-protector-of-argoth",
+    "foil": ""
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "name": "Gloom",
+  "lang": "",
+  "price": {
+    "nm": "109.99",
+    "ex": "87.99",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/beta/gloom-25653-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/beta/gloom-25653-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/beta/gloom",
+    "foil": ""
+  }
+}

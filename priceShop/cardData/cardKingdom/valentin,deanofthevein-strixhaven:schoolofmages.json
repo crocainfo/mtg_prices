@@ -1,0 +1,19 @@
+{
+  "name": "Valentin, Dean of the Vein",
+  "lang": "",
+  "price": {
+    "nm": "1.99",
+    "ex": "1.59",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/strixhaven-school-of-mages/valentin-dean-of-the-vein-32522-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/strixhaven-school-of-mages/valentin-dean-of-the-vein-32522-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/strixhaven-school-of-mages/valentin-dean-of-the-vein",
+    "foil": ""
+  }
+}

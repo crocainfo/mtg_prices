@@ -1,0 +1,19 @@
+{
+  "name": "Languish Prerelease Foil",
+  "lang": "",
+  "price": {
+    "nm": "2.49",
+    "ex": "1.99",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/promotional/languish-prerelease-foil-59275-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/promotional/languish-prerelease-foil-59275-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/promotional/languish-prerelease-foil",
+    "foil": ""
+  }
+}

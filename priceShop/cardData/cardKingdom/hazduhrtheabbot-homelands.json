@@ -1,0 +1,19 @@
+{
+  "name": "Hazduhr the Abbot",
+  "lang": "",
+  "price": {
+    "nm": "1.99",
+    "ex": "1.59",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/homelands/hazduhr-the-abbot-3737-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/homelands/hazduhr-the-abbot-3737-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/homelands/hazduhr-the-abbot",
+    "foil": ""
+  }
+}

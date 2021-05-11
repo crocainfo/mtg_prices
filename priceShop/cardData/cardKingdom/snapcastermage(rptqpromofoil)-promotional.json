@@ -1,0 +1,19 @@
+{
+  "name": "Snapcaster Mage RPTQ Promo Foil",
+  "lang": "",
+  "price": {
+    "nm": "139.99",
+    "ex": "125.99",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/promotional/snapcaster-mage-rptq-promo-foil-67906-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/promotional/snapcaster-mage-rptq-promo-foil-67906-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/promotional/snapcaster-mage-rptq-promo-foil",
+    "foil": ""
+  }
+}

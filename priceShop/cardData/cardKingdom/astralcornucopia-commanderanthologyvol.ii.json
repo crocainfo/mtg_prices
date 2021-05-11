@@ -1,0 +1,19 @@
+{
+  "name": "Astral Cornucopia",
+  "lang": "",
+  "price": {
+    "nm": "2.29",
+    "ex": "1.83",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/commander-anthology-vol-ii/astral-cornucopia-11920-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/commander-anthology-vol-ii/astral-cornucopia-11920-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/commander-anthology-vol-ii/astral-cornucopia",
+    "foil": ""
+  }
+}

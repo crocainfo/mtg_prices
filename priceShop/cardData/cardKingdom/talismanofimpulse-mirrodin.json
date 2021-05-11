@@ -1,0 +1,19 @@
+{
+  "name": "Talisman of Impulse",
+  "lang": "",
+  "price": {
+    "nm": "1.29",
+    "ex": "1.03",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/mirrodin/talisman-of-impulse-15926-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/mirrodin/talisman-of-impulse-15926-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/mirrodin/talisman-of-impulse",
+    "foil": ""
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "name": "Moorland Haunt",
+  "lang": "",
+  "price": {
+    "nm": "0.49",
+    "ex": "0.39",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/innistrad/moorland-haunt-30416-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/innistrad/moorland-haunt-30416-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/innistrad/moorland-haunt",
+    "foil": ""
+  }
+}

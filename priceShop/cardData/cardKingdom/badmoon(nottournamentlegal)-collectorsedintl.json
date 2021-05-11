@@ -1,0 +1,19 @@
+{
+  "name": "Bad Moon Not Tournament Legal",
+  "lang": "",
+  "price": {
+    "nm": "32.99",
+    "ex": "28.04",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/collectors-ed-intl/bad-moon-not-tournament-legal-28819-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/collectors-ed-intl/bad-moon-not-tournament-legal-28819-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/collectors-ed-intl/bad-moon-not-tournament-legal",
+    "foil": ""
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "name": "Giant Growth",
+  "lang": "",
+  "price": {
+    "nm": "149.99",
+    "ex": "119.99",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/alpha/giant-growth-7548-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/alpha/giant-growth-7548-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/alpha/giant-growth",
+    "foil": ""
+  }
+}

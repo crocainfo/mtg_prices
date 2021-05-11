@@ -1,0 +1,19 @@
+{
+  "name": "Mountain 346 D",
+  "lang": "",
+  "price": {
+    "nm": "0.35",
+    "ex": "0.28",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/8th-edition/mountain-346-37344-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/8th-edition/mountain-346-37344-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/8th-edition/mountain-346-d",
+    "foil": ""
+  }
+}

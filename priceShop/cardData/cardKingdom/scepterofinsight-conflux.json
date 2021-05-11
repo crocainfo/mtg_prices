@@ -1,0 +1,19 @@
+{
+  "name": "Scepter of Insight",
+  "lang": "",
+  "price": {
+    "nm": "0.35",
+    "ex": "0.28",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/conflux/scepter-of-insight-19216-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/conflux/scepter-of-insight-19216-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/conflux/scepter-of-insight",
+    "foil": ""
+  }
+}

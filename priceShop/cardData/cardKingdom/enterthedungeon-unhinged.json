@@ -1,0 +1,19 @@
+{
+  "name": "Enter the Dungeon",
+  "lang": "",
+  "price": {
+    "nm": "2.29",
+    "ex": "1.83",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/unhinged/enter-the-dungeon-97232-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/unhinged/enter-the-dungeon-97232-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/unhinged/enter-the-dungeon",
+    "foil": ""
+  }
+}

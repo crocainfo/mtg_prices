@@ -1,0 +1,19 @@
+{
+  "name": "Glowering Rogon",
+  "lang": "",
+  "price": {
+    "nm": "0.25",
+    "ex": "0.20",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/legions/glowering-rogon-18330-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/legions/glowering-rogon-18330-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/legions/glowering-rogon",
+    "foil": ""
+  }
+}

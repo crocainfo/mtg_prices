@@ -1,0 +1,19 @@
+{
+  "name": "Chain Lightning",
+  "lang": "",
+  "price": {
+    "nm": "3.99",
+    "ex": "3.19",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/premium-deck-series-fire-lightning/chain-lightning-29019-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/premium-deck-series-fire-lightning/chain-lightning-29019-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/premium-deck-series-fire-lightning/chain-lightning",
+    "foil": ""
+  }
+}

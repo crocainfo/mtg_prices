@@ -1,0 +1,19 @@
+{
+  "name": "Lyra Dawnbringer Prerelease Foil",
+  "lang": "",
+  "price": {
+    "nm": "39.99",
+    "ex": "33.99",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/promotional/lyra-dawnbringer-prerelease-foil-37346-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/promotional/lyra-dawnbringer-prerelease-foil-37346-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/promotional/lyra-dawnbringer-prerelease-foil",
+    "foil": ""
+  }
+}

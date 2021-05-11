@@ -1,0 +1,19 @@
+{
+  "name": "Vine Dryad",
+  "lang": "",
+  "price": {
+    "nm": "0.99",
+    "ex": "0.79",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/mercadian-masques/vine-dryad-14410-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/mercadian-masques/vine-dryad-14410-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/mercadian-masques/vine-dryad",
+    "foil": ""
+  }
+}

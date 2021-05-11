@@ -1,0 +1,19 @@
+{
+  "name": "Turnabout IDW Comic Promo",
+  "lang": "",
+  "price": {
+    "nm": "27.99",
+    "ex": "23.79 ",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/promotional/turnabout-comic-promo-34959-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/promotional/turnabout-comic-promo-34959-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/promotional/turnabout-idw-comic-promo",
+    "foil": ""
+  }
+}

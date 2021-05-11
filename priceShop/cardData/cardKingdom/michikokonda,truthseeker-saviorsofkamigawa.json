@@ -1,0 +1,19 @@
+{
+  "name": "Michiko Konda, Truth Seeker",
+  "lang": "",
+  "price": {
+    "nm": "34.99",
+    "ex": "29.74 ",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/saviors-of-kamigawa/michiko-konda-truth-seeker-12268-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/saviors-of-kamigawa/michiko-konda-truth-seeker-12268-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/saviors-of-kamigawa/michiko-konda-truth-seeker",
+    "foil": ""
+  }
+}

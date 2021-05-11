@@ -1,0 +1,19 @@
+{
+  "name": "Hanna Oversized",
+  "lang": "",
+  "price": {
+    "nm": "11.99",
+    "ex": "9.59",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/vanguard/hanna-oversized-41071-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/vanguard/hanna-oversized-41071-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/vanguard/hanna-oversized",
+    "foil": ""
+  }
+}

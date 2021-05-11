@@ -1,0 +1,19 @@
+{
+  "name": "Healing Salve",
+  "lang": "",
+  "price": {
+    "nm": "44.99",
+    "ex": "35.99",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/alpha/healing-salve-3170-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/alpha/healing-salve-3170-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/alpha/healing-salve",
+    "foil": ""
+  }
+}

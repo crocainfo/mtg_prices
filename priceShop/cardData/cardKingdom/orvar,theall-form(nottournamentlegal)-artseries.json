@@ -1,0 +1,19 @@
+{
+  "name": "Orvar, the All-Form Not Tournament Legal",
+  "lang": "",
+  "price": {
+    "nm": "0.25",
+    "ex": "0.20",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/art-series/orvar-the-all-form-not-tournament-legal-23709-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/art-series/orvar-the-all-form-not-tournament-legal-23709-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/art-series/orvar-the-all-form-not-tournament-legal",
+    "foil": ""
+  }
+}

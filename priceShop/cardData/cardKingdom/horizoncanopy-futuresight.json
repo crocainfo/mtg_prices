@@ -1,0 +1,19 @@
+{
+  "name": "Horizon Canopy",
+  "lang": "",
+  "price": {
+    "nm": "37.99",
+    "ex": "32.29",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/future-sight/horizon-canopy-7768-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/future-sight/horizon-canopy-7768-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/future-sight/horizon-canopy",
+    "foil": ""
+  }
+}

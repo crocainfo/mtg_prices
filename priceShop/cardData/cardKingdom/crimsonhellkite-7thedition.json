@@ -1,0 +1,19 @@
+{
+  "name": "Crimson Hellkite",
+  "lang": "",
+  "price": {
+    "nm": "0.59",
+    "ex": "0.47",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/7th-edition/crimson-hellkite-26515-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/7th-edition/crimson-hellkite-26515-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/7th-edition/crimson-hellkite",
+    "foil": ""
+  }
+}

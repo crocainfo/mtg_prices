@@ -1,0 +1,19 @@
+{
+  "name": "Circle of Protection: Red FNM Foil",
+  "lang": "",
+  "price": {
+    "nm": "2.99",
+    "ex": "2.39",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/promotional/circle-of-protection-red-fnm-foil-15756-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/promotional/circle-of-protection-red-fnm-foil-15756-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/promotional/circle-of-protection-red-fnm-foil",
+    "foil": ""
+  }
+}

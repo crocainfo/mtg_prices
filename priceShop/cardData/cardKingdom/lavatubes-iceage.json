@@ -1,0 +1,19 @@
+{
+  "name": "Lava Tubes",
+  "lang": "",
+  "price": {
+    "nm": "3.49",
+    "ex": "2.79",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/ice-age/lava-tubes-49089-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/ice-age/lava-tubes-49089-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/ice-age/lava-tubes",
+    "foil": ""
+  }
+}

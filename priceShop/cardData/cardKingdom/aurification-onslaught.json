@@ -1,0 +1,19 @@
+{
+  "name": "Aurification",
+  "lang": "",
+  "price": {
+    "nm": "4.49",
+    "ex": "3.59",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/onslaught/aurification-23288-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/onslaught/aurification-23288-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/onslaught/aurification",
+    "foil": ""
+  }
+}

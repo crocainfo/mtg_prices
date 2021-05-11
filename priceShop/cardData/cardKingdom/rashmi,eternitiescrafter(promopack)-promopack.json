@@ -1,0 +1,19 @@
+{
+  "name": "Rashmi, Eternities Crafter Promo Pack",
+  "lang": "",
+  "price": {
+    "nm": "2.49",
+    "ex": "1.99",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/promo-pack/rashmi-eternities-crafter-promo-pack-72381-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/promo-pack/rashmi-eternities-crafter-promo-pack-72381-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/promo-pack/rashmi-eternities-crafter-promo-pack",
+    "foil": ""
+  }
+}

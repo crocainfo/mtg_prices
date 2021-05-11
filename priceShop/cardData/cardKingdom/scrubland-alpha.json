@@ -1,0 +1,19 @@
+{
+  "name": "Scrubland",
+  "lang": "",
+  "price": {
+    "nm": "6999.99",
+    "ex": "5599.99",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/alpha/scrubland-25656-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/alpha/scrubland-25656-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/alpha/scrubland",
+    "foil": ""
+  }
+}

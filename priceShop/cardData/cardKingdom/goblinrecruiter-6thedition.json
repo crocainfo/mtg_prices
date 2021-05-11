@@ -1,0 +1,19 @@
+{
+  "name": "Goblin Recruiter",
+  "lang": "",
+  "price": {
+    "nm": "7.99",
+    "ex": "6.39",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/6th-edition/goblin-recruiter-9233-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/6th-edition/goblin-recruiter-9233-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/6th-edition/goblin-recruiter",
+    "foil": ""
+  }
+}

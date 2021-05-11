@@ -1,0 +1,19 @@
+{
+  "name": "Ribbons of Night",
+  "lang": "",
+  "price": {
+    "nm": "0.25",
+    "ex": "0.20",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/guilds-of-ravnica-guild-kits/ribbons-of-night-73123-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/guilds-of-ravnica-guild-kits/ribbons-of-night-73123-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/guilds-of-ravnica-guild-kits/ribbons-of-night",
+    "foil": ""
+  }
+}

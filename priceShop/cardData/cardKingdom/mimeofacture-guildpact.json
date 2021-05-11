@@ -1,0 +1,19 @@
+{
+  "name": "Mimeofacture",
+  "lang": "",
+  "price": {
+    "nm": "0.35",
+    "ex": "0.28",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/guildpact/mimeofacture-60026-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/guildpact/mimeofacture-60026-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/guildpact/mimeofacture",
+    "foil": ""
+  }
+}

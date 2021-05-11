@@ -1,0 +1,19 @@
+{
+  "name": "Emblem Liliana, Waker of the Dead",
+  "lang": "",
+  "price": {
+    "nm": "1.99",
+    "ex": "1.59",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/core-set-2021/emblem-liliana-waker-of-the-dead-38193-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/core-set-2021/emblem-liliana-waker-of-the-dead-38193-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/core-set-2021/emblem-liliana-waker-of-the-dead",
+    "foil": ""
+  }
+}

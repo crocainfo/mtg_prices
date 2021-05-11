@@ -1,0 +1,19 @@
+{
+  "name": "Flying Men",
+  "lang": "",
+  "price": {
+    "nm": "27.99",
+    "ex": "23.79",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/arabian-nights/flying-men-26748-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/arabian-nights/flying-men-26748-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/arabian-nights/flying-men",
+    "foil": ""
+  }
+}

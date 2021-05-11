@@ -1,0 +1,19 @@
+{
+  "name": "Ignite the Beacon Prerelease Foil",
+  "lang": "",
+  "price": {
+    "nm": "1.49",
+    "ex": "1.19",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/war-of-the-spark/ignite-the-beacon-63047-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/war-of-the-spark/ignite-the-beacon-63047-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/promotional/ignite-the-beacon-prerelease-foil",
+    "foil": ""
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "name": "Powder Keg Player Reward Foil",
+  "lang": "",
+  "price": {
+    "nm": "19.99",
+    "ex": "16.99",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/promotional/powder-keg-player-reward-foil-39882-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/promotional/powder-keg-player-reward-foil-39882-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/promotional/powder-keg-player-reward-foil",
+    "foil": ""
+  }
+}

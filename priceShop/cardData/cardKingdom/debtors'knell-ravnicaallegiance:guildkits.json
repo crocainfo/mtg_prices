@@ -1,0 +1,19 @@
+{
+  "name": "Debtors' Knell",
+  "lang": "",
+  "price": {
+    "nm": "2.29",
+    "ex": "1.83",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/ravnica-allegiance-guild-kits/debtors-knell-96647-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/ravnica-allegiance-guild-kits/debtors-knell-96647-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/ravnica-allegiance-guild-kits/debtors-knell",
+    "foil": ""
+  }
+}

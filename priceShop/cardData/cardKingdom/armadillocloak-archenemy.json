@@ -1,0 +1,19 @@
+{
+  "name": "Armadillo Cloak",
+  "lang": "",
+  "price": {
+    "nm": "1.49 ",
+    "ex": "1.19",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/archenemy/armadillo-cloak-15930-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/archenemy/armadillo-cloak-15930-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/archenemy/armadillo-cloak",
+    "foil": ""
+  }
+}

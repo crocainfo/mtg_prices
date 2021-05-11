@@ -1,0 +1,19 @@
+{
+  "name": "Nightpack Ambusher",
+  "lang": "",
+  "price": {
+    "nm": "0.35",
+    "ex": "0.28",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/core-set-2020/nightpack-ambusher-25219-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/core-set-2020/nightpack-ambusher-25219-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/core-set-2020/nightpack-ambusher",
+    "foil": ""
+  }
+}

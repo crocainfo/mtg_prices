@@ -1,0 +1,19 @@
+{
+  "name": "Living Death",
+  "lang": "",
+  "price": {
+    "nm": "9.49",
+    "ex": "7.59",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/commander/living-death-16114-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/commander/living-death-16114-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/commander/living-death",
+    "foil": ""
+  }
+}

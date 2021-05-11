@@ -1,0 +1,19 @@
+{
+  "name": "El-Hajjaj",
+  "lang": "",
+  "price": {
+    "nm": "89.99",
+    "ex": "76.49",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/arabian-nights/el-hajjaj-30813-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/arabian-nights/el-hajjaj-30813-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/arabian-nights/el-hajjaj",
+    "foil": ""
+  }
+}

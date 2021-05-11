@@ -1,0 +1,19 @@
+{
+  "name": "Fleeting Memories",
+  "lang": "",
+  "price": {
+    "nm": "0.25",
+    "ex": "0.20",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/shadows-over-innistrad/fleeting-memories-12139-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/shadows-over-innistrad/fleeting-memories-12139-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/shadows-over-innistrad/fleeting-memories",
+    "foil": ""
+  }
+}

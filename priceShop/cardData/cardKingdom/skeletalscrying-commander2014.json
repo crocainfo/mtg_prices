@@ -1,0 +1,19 @@
+{
+  "name": "Skeletal Scrying",
+  "lang": "",
+  "price": {
+    "nm": "0.39",
+    "ex": "0.31",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/commander-2014/skeletal-scrying-10502-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/commander-2014/skeletal-scrying-10502-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/commander-2014/skeletal-scrying",
+    "foil": ""
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "name": "Omnath, Locus of Creation Promo Pack",
+  "lang": "",
+  "price": {
+    "nm": "7.49",
+    "ex": "5.99",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/promo-pack/omnath-locus-of-creation-promo-pack-58251-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/promo-pack/omnath-locus-of-creation-promo-pack-58251-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/promo-pack/omnath-locus-of-creation-promo-pack",
+    "foil": ""
+  }
+}

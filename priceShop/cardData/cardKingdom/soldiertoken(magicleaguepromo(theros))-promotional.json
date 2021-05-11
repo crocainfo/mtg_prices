@@ -1,0 +1,19 @@
+{
+  "name": "Soldier Token Magic League Promo (Theros)",
+  "lang": "",
+  "price": {
+    "nm": "15.99",
+    "ex": "13.59",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/promotional/soldier-token-gateway-to-core-promo-46812-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/promotional/soldier-token-gateway-to-core-promo-46812-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/promotional/soldier-token-magic-league-promo-theros",
+    "foil": ""
+  }
+}

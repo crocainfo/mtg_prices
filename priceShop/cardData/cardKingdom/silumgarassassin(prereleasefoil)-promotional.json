@@ -1,0 +1,19 @@
+{
+  "name": "Silumgar Assassin Prerelease Foil",
+  "lang": "",
+  "price": {
+    "nm": "0.79",
+    "ex": "0.63",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/promotional/silumgar-assassin-prerelease-foil-40098-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/promotional/silumgar-assassin-prerelease-foil-40098-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/promotional/silumgar-assassin-prerelease-foil",
+    "foil": ""
+  }
+}

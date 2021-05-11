@@ -1,0 +1,19 @@
+{
+  "name": "Leonin Battlemage",
+  "lang": "",
+  "price": {
+    "nm": "0.25",
+    "ex": "0.20",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/darksteel/leonin-battlemage-3169-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/darksteel/leonin-battlemage-3169-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/darksteel/leonin-battlemage",
+    "foil": ""
+  }
+}

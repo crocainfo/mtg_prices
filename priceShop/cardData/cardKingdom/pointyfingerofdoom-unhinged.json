@@ -1,0 +1,19 @@
+{
+  "name": "Pointy Finger of Doom",
+  "lang": "",
+  "price": {
+    "nm": "1.99",
+    "ex": "1.59",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/unhinged/pointy-finger-of-doom-12504-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/unhinged/pointy-finger-of-doom-12504-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/unhinged/pointy-finger-of-doom",
+    "foil": ""
+  }
+}

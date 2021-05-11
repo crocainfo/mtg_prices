@@ -1,0 +1,19 @@
+{
+  "name": "Savai Triome Prerelease Foil",
+  "lang": "",
+  "price": {
+    "nm": "11.99",
+    "ex": "9.59",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/promotional/savai-triome-prerelease-foil-85740-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/promotional/savai-triome-prerelease-foil-85740-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/promotional/savai-triome-prerelease-foil",
+    "foil": ""
+  }
+}

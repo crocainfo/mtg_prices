@@ -1,0 +1,19 @@
+{
+  "name": "Jace, Mirror Mage Borderless",
+  "lang": "",
+  "price": {
+    "nm": "1.79",
+    "ex": "1.43",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/zendikar-rising-variants/jace-mirror-mage-borderless-67042-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/zendikar-rising-variants/jace-mirror-mage-borderless-67042-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/zendikar-rising-variants/jace-mirror-mage-borderless",
+    "foil": ""
+  }
+}

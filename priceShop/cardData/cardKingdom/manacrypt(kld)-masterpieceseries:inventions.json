@@ -1,0 +1,19 @@
+{
+  "name": "Mana Crypt KLD",
+  "lang": "",
+  "price": {
+    "nm": "849.99",
+    "ex": "764.99",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/masterpiece-series-inventions/mana-crypt-kld-44667-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/masterpiece-series-inventions/mana-crypt-kld-44667-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/masterpiece-series-inventions/mana-crypt-kld",
+    "foil": ""
+  }
+}

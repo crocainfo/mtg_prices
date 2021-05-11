@@ -1,0 +1,19 @@
+{
+  "name": "Distant Melody",
+  "lang": "",
+  "price": {
+    "nm": "2.99",
+    "ex": "2.39",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/premium-deck-series-slivers/distant-melody-20582-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/premium-deck-series-slivers/distant-melody-20582-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/premium-deck-series-slivers/distant-melody",
+    "foil": ""
+  }
+}

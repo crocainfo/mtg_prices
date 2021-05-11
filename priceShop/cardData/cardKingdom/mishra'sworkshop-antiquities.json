@@ -1,0 +1,19 @@
+{
+  "name": "Mishra's Workshop",
+  "lang": "",
+  "price": {
+    "nm": "3999.99",
+    "ex": "3599.99",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/antiquities/mishras-workshop-34660-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/antiquities/mishras-workshop-34660-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/antiquities/mishras-workshop",
+    "foil": ""
+  }
+}

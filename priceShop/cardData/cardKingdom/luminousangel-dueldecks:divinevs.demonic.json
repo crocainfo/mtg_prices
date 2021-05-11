@@ -1,0 +1,19 @@
+{
+  "name": "Luminous Angel",
+  "lang": "",
+  "price": {
+    "nm": "1.49",
+    "ex": "1.19",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/duel-decks-divine-vs-demonic/luminous-angel-17709-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/duel-decks-divine-vs-demonic/luminous-angel-17709-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/duel-decks-divine-vs-demonic/luminous-angel",
+    "foil": ""
+  }
+}

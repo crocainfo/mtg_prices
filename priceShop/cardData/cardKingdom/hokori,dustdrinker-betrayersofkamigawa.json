@@ -1,0 +1,19 @@
+{
+  "name": "Hokori, Dust Drinker",
+  "lang": "",
+  "price": {
+    "nm": "7.99",
+    "ex": "6.39",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/betrayers-of-kamigawa/hokori-dust-drinker-77260-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/betrayers-of-kamigawa/hokori-dust-drinker-77260-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/betrayers-of-kamigawa/hokori-dust-drinker",
+    "foil": ""
+  }
+}

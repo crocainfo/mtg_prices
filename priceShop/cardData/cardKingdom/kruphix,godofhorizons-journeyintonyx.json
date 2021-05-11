@@ -1,0 +1,19 @@
+{
+  "name": "Kruphix, God of Horizons",
+  "lang": "",
+  "price": {
+    "nm": "10.99",
+    "ex": "8.79",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/journey-into-nyx/kruphix-god-of-horizons-39336-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/journey-into-nyx/kruphix-god-of-horizons-39336-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/journey-into-nyx/kruphix-god-of-horizons",
+    "foil": ""
+  }
+}

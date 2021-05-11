@@ -1,0 +1,19 @@
+{
+  "name": "Taborax, Hope's Demise Prerelease Foil",
+  "lang": "",
+  "price": {
+    "nm": "0.99",
+    "ex": "0.79",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/promotional/taborax-hopes-demise-prerelease-foil-23921-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/promotional/taborax-hopes-demise-prerelease-foil-23921-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/promotional/taborax-hopes-demise-prerelease-foil",
+    "foil": ""
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "name": "Shadowspear Extended Art",
+  "lang": "",
+  "price": {
+    "nm": "21.99",
+    "ex": "18.69",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/theros-beyond-death-variants/shadowspear-extended-art-89501-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/theros-beyond-death-variants/shadowspear-extended-art-89501-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/theros-beyond-death-variants/shadowspear-extended-art",
+    "foil": ""
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "name": "Bog Wraith",
+  "lang": "",
+  "price": {
+    "nm": "4.49",
+    "ex": "3.59",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/unlimited/bog-wraith-23317-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/unlimited/bog-wraith-23317-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/unlimited/bog-wraith",
+    "foil": ""
+  }
+}

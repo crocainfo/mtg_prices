@@ -1,0 +1,19 @@
+{
+  "name": "Mind Twist",
+  "lang": "",
+  "price": {
+    "nm": "219.99",
+    "ex": "175.99",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/unlimited/mind-twist-28256-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/unlimited/mind-twist-28256-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/unlimited/mind-twist",
+    "foil": ""
+  }
+}

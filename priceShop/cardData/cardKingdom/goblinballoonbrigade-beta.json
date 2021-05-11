@@ -1,0 +1,19 @@
+{
+  "name": "Goblin Balloon Brigade",
+  "lang": "",
+  "price": {
+    "nm": "94.99",
+    "ex": "75.99",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/beta/goblin-balloon-brigade-8030-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/beta/goblin-balloon-brigade-8030-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/beta/goblin-balloon-brigade",
+    "foil": ""
+  }
+}

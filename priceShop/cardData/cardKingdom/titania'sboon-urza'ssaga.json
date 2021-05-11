@@ -1,0 +1,19 @@
+{
+  "name": "Titania's Boon",
+  "lang": "",
+  "price": {
+    "nm": "0.25",
+    "ex": "0.20",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/urzas-saga/titanias-boon-27396-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/urzas-saga/titanias-boon-27396-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/urzas-saga/titanias-boon",
+    "foil": ""
+  }
+}

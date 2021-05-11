@@ -1,0 +1,19 @@
+{
+  "name": "Rockslide Ambush",
+  "lang": "",
+  "price": {
+    "nm": "9.99 ",
+    "ex": "7.99",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/portal-3k/rockslide-ambush-13460-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/portal-3k/rockslide-ambush-13460-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/portal-3k/rockslide-ambush",
+    "foil": ""
+  }
+}

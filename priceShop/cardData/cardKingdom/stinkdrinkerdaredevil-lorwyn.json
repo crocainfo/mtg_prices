@@ -1,0 +1,19 @@
+{
+  "name": "Stinkdrinker Daredevil",
+  "lang": "",
+  "price": {
+    "nm": "0.25",
+    "ex": "0.20",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/lorwyn/stinkdrinker-daredevil-3307-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/lorwyn/stinkdrinker-daredevil-3307-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/lorwyn/stinkdrinker-daredevil",
+    "foil": ""
+  }
+}

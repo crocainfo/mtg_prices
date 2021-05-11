@@ -1,0 +1,19 @@
+{
+  "name": "Essence Extraction Game Day Promo",
+  "lang": "",
+  "price": {
+    "nm": "0.25",
+    "ex": "0.20",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/promotional/essence-extraction-game-day-promo-58453-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/promotional/essence-extraction-game-day-promo-58453-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/promotional/essence-extraction-game-day-promo",
+    "foil": ""
+  }
+}

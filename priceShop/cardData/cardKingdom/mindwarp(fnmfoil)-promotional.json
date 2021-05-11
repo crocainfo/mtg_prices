@@ -1,0 +1,19 @@
+{
+  "name": "Mind Warp FNM Foil",
+  "lang": "",
+  "price": {
+    "nm": "1.99",
+    "ex": "1.59",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/promotional/mind-warp-fnm-foil-24100-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/promotional/mind-warp-fnm-foil-24100-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/promotional/mind-warp-fnm-foil",
+    "foil": ""
+  }
+}

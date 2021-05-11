@@ -1,0 +1,19 @@
+{
+  "name": "Rooftop Storm",
+  "lang": "",
+  "price": {
+    "nm": "7.99",
+    "ex": "6.39",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/innistrad/rooftop-storm-30285-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/innistrad/rooftop-storm-30285-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/innistrad/rooftop-storm",
+    "foil": ""
+  }
+}

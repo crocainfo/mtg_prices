@@ -1,0 +1,19 @@
+{
+  "name": "Pyroclasm",
+  "lang": "",
+  "price": {
+    "nm": "5.49",
+    "ex": "4.39",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/portal/pyroclasm-13146-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/portal/pyroclasm-13146-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/portal/pyroclasm",
+    "foil": ""
+  }
+}

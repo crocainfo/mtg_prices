@@ -1,0 +1,19 @@
+{
+  "name": "Ayli, Eternal Pilgrim",
+  "lang": "",
+  "price": {
+    "nm": "1.99",
+    "ex": "1.59",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/oath-of-the-gatewatch/ayli-eternal-pilgrim-47123-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/oath-of-the-gatewatch/ayli-eternal-pilgrim-47123-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/oath-of-the-gatewatch/ayli-eternal-pilgrim",
+    "foil": ""
+  }
+}

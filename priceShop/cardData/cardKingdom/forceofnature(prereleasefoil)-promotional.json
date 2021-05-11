@@ -1,0 +1,19 @@
+{
+  "name": "Force of Nature Prerelease Foil",
+  "lang": "",
+  "price": {
+    "nm": "0.79",
+    "ex": "0.63",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/promotional/force-of-nature-prerelease-foil-3024-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/promotional/force-of-nature-prerelease-foil-3024-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/promotional/force-of-nature-prerelease-foil",
+    "foil": ""
+  }
+}

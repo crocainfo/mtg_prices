@@ -1,0 +1,19 @@
+{
+  "name": "Sporecrown Thallid",
+  "lang": "",
+  "price": {
+    "nm": "0.35",
+    "ex": "0.28",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/dominaria/sporecrown-thallid-41818-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/dominaria/sporecrown-thallid-41818-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/dominaria/sporecrown-thallid",
+    "foil": ""
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "name": "Arcbound Ravager AER",
+  "lang": "",
+  "price": {
+    "nm": "79.99",
+    "ex": "67.99",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/masterpiece-series-inventions/arcbound-ravager-aer-77817-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/masterpiece-series-inventions/arcbound-ravager-aer-77817-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/masterpiece-series-inventions/arcbound-ravager-aer",
+    "foil": ""
+  }
+}

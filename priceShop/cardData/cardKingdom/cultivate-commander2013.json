@@ -1,0 +1,19 @@
+{
+  "name": "Cultivate",
+  "lang": "",
+  "price": {
+    "nm": "1.29",
+    "ex": "1.03",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/commander-2013/cultivate-95792-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/commander-2013/cultivate-95792-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/commander-2013/cultivate",
+    "foil": ""
+  }
+}

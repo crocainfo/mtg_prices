@@ -1,0 +1,19 @@
+{
+  "name": "Ihsan's Shade",
+  "lang": "",
+  "price": {
+    "nm": "0.25 ",
+    "ex": "0.20",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/masters-25/ihsans-shade-51984-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/masters-25/ihsans-shade-51984-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/masters-25/ihsans-shade",
+    "foil": ""
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "name": "Grim Backwoods",
+  "lang": "",
+  "price": {
+    "nm": "0.49",
+    "ex": "0.39",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/commander-2013/grim-backwoods-36510-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/commander-2013/grim-backwoods-36510-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/commander-2013/grim-backwoods",
+    "foil": ""
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "name": "Flood",
+  "lang": "",
+  "price": {
+    "nm": "2.29",
+    "ex": "1.83",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/the-dark/flood-6725-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/the-dark/flood-6725-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/the-dark/flood",
+    "foil": ""
+  }
+}

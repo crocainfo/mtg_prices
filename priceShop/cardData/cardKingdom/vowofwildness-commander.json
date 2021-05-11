@@ -1,0 +1,19 @@
+{
+  "name": "Vow of Wildness",
+  "lang": "",
+  "price": {
+    "nm": "0.25",
+    "ex": "0.20",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/commander/vow-of-wildness-29615-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/commander/vow-of-wildness-29615-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/commander/vow-of-wildness",
+    "foil": ""
+  }
+}

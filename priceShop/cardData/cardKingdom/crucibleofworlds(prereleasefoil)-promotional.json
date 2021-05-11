@@ -1,0 +1,19 @@
+{
+  "name": "Crucible of Worlds Prerelease Foil",
+  "lang": "",
+  "price": {
+    "nm": "79.99",
+    "ex": "67.99",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/promotional/crucible-of-worlds-prerelease-foil-32887-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/promotional/crucible-of-worlds-prerelease-foil-32887-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/promotional/crucible-of-worlds-prerelease-foil",
+    "foil": ""
+  }
+}

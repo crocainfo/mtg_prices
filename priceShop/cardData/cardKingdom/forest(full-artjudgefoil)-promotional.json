@@ -1,0 +1,19 @@
+{
+  "name": "Forest Full-art Judge Foil",
+  "lang": "",
+  "price": {
+    "nm": "129.99",
+    "ex": "116.99",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/promotional/forest-full-art-judge-foil-12712-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/promotional/forest-full-art-judge-foil-12712-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/promotional/forest-full-art-judge-foil",
+    "foil": ""
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "name": "Contract from Below",
+  "lang": "",
+  "price": {
+    "nm": "2299.99",
+    "ex": "1839.99",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/alpha/contract-from-below-2768-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/alpha/contract-from-below-2768-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/alpha/contract-from-below",
+    "foil": ""
+  }
+}

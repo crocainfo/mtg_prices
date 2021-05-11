@@ -1,0 +1,19 @@
+{
+  "name": "Arch of Orazca",
+  "lang": "",
+  "price": {
+    "nm": "1.29",
+    "ex": "1.03",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/rivals-of-ixalan/arch-of-orazca-89684-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/rivals-of-ixalan/arch-of-orazca-89684-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/rivals-of-ixalan/arch-of-orazca",
+    "foil": ""
+  }
+}

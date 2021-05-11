@@ -1,0 +1,19 @@
+{
+  "name": "Tember City DCI Promo Oversized Plane",
+  "lang": "",
+  "price": {
+    "nm": "0.59",
+    "ex": "0.47",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/promotional/tember-city-dci-promo-oversized-plane-96340-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/promotional/tember-city-dci-promo-oversized-plane-96340-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/promotional/tember-city-dci-promo-oversized-plane",
+    "foil": ""
+  }
+}

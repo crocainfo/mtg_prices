@@ -1,0 +1,19 @@
+{
+  "name": "Cleansing",
+  "lang": "",
+  "price": {
+    "nm": "34.99",
+    "ex": "29.74",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/the-dark/cleansing-8193-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/the-dark/cleansing-8193-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/the-dark/cleansing",
+    "foil": ""
+  }
+}

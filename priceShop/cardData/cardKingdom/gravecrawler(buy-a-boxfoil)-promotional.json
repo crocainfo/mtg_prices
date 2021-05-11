@@ -1,0 +1,19 @@
+{
+  "name": "Gravecrawler Buy-A-Box Foil",
+  "lang": "",
+  "price": {
+    "nm": "11.99",
+    "ex": "9.59",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/promotional/gravecrawler-buy-a-box-foil-42905-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/promotional/gravecrawler-buy-a-box-foil-42905-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/promotional/gravecrawler-buy-a-box-foil",
+    "foil": ""
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "name": "Manamorphose",
+  "lang": "",
+  "price": {
+    "nm": "4.49",
+    "ex": "3.59",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/double-masters/manamorphose-33496-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/double-masters/manamorphose-33496-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/double-masters/manamorphose",
+    "foil": ""
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "name": "Academy Ruins",
+  "lang": "",
+  "price": {
+    "nm": "9.99",
+    "ex": "7.99",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/double-masters/academy-ruins-71021-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/double-masters/academy-ruins-71021-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/double-masters/academy-ruins",
+    "foil": ""
+  }
+}

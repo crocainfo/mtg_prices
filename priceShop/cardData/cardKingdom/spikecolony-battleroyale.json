@@ -1,0 +1,19 @@
+{
+  "name": "Spike Colony",
+  "lang": "",
+  "price": {
+    "nm": "0.25",
+    "ex": "0.20",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/battle-royale/spike-colony-12828-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/battle-royale/spike-colony-12828-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/battle-royale/spike-colony",
+    "foil": ""
+  }
+}

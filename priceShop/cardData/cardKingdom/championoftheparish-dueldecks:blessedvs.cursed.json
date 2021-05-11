@@ -1,0 +1,19 @@
+{
+  "name": "Champion of the Parish",
+  "lang": "",
+  "price": {
+    "nm": "1.99",
+    "ex": "1.59",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/duel-decks-blessed-vs-cursed/champion-of-the-parish-47842-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/duel-decks-blessed-vs-cursed/champion-of-the-parish-47842-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/duel-decks-blessed-vs-cursed/champion-of-the-parish",
+    "foil": ""
+  }
+}

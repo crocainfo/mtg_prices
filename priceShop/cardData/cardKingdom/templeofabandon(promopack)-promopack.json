@@ -1,0 +1,19 @@
+{
+  "name": "Temple of Abandon Promo Pack",
+  "lang": "",
+  "price": {
+    "nm": "1.79",
+    "ex": "1.43",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/promo-pack/temple-of-abandon-promo-pack-20586-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/promo-pack/temple-of-abandon-promo-pack-20586-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/promo-pack/temple-of-abandon-promo-pack",
+    "foil": ""
+  }
+}

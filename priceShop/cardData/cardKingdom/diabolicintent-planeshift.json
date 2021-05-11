@@ -1,0 +1,19 @@
+{
+  "name": "Diabolic Intent",
+  "lang": "",
+  "price": {
+    "nm": "49.99",
+    "ex": "42.49",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/planeshift/diabolic-intent-27900-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/planeshift/diabolic-intent-27900-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/planeshift/diabolic-intent",
+    "foil": ""
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "name": "Terashi's Verdict",
+  "lang": "",
+  "price": {
+    "nm": "0.25",
+    "ex": "0.20",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/betrayers-of-kamigawa/terashis-verdict-21781-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/betrayers-of-kamigawa/terashis-verdict-21781-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/betrayers-of-kamigawa/terashis-verdict",
+    "foil": ""
+  }
+}

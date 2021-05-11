@@ -1,0 +1,19 @@
+{
+  "name": "Thought Prison",
+  "lang": "",
+  "price": {
+    "nm": "0.25",
+    "ex": "0.20",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/mirrodin/thought-prison-63425-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/mirrodin/thought-prison-63425-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/mirrodin/thought-prison",
+    "foil": ""
+  }
+}

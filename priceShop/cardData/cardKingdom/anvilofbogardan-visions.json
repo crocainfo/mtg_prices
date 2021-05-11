@@ -1,0 +1,19 @@
+{
+  "name": "Anvil of Bogardan",
+  "lang": "",
+  "price": {
+    "nm": "79.99",
+    "ex": "67.99",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/visions/anvil-of-bogardan-27465-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/visions/anvil-of-bogardan-27465-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/visions/anvil-of-bogardan",
+    "foil": ""
+  }
+}

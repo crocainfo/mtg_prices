@@ -1,0 +1,19 @@
+{
+  "name": "Screams of the Damned",
+  "lang": "",
+  "price": {
+    "nm": "0.25",
+    "ex": "0.20",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/odyssey/screams-of-the-damned-1921-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/odyssey/screams-of-the-damned-1921-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/odyssey/screams-of-the-damned",
+    "foil": ""
+  }
+}

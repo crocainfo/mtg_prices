@@ -1,0 +1,19 @@
+{
+  "name": "Reflecting Pool Judge Foil",
+  "lang": "",
+  "price": {
+    "nm": "44.99",
+    "ex": "38.24",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/promotional/reflecting-pool-judge-foil-28805-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/promotional/reflecting-pool-judge-foil-28805-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/promotional/reflecting-pool-judge-foil",
+    "foil": ""
+  }
+}

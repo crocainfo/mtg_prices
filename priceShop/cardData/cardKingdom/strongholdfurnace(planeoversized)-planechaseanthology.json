@@ -1,0 +1,19 @@
+{
+  "name": "Stronghold Furnace Plane Oversized",
+  "lang": "",
+  "price": {
+    "nm": "0.99",
+    "ex": "0.79",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/planechase-anthology/stronghold-furnace-plane-oversized-97736-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/planechase-anthology/stronghold-furnace-plane-oversized-97736-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/planechase-anthology/stronghold-furnace-plane-oversized",
+    "foil": ""
+  }
+}

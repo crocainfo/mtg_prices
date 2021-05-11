@@ -1,0 +1,19 @@
+{
+  "name": "Island 327 A",
+  "lang": "",
+  "price": {
+    "nm": "0.25",
+    "ex": "0.20",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/commander-2015/island-327-a-50211-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/commander-2015/island-327-a-50211-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/commander-2015/island-327-a",
+    "foil": ""
+  }
+}

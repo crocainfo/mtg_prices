@@ -1,0 +1,19 @@
+{
+  "name": "Magma Phoenix",
+  "lang": "",
+  "price": {
+    "nm": "0.35",
+    "ex": "0.28",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/2010-core-set/magma-phoenix-15433-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/2010-core-set/magma-phoenix-15433-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/2010-core-set/magma-phoenix",
+    "foil": ""
+  }
+}

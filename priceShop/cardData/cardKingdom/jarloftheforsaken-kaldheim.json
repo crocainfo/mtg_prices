@@ -1,0 +1,19 @@
+{
+  "name": "Jarl of the Forsaken",
+  "lang": "",
+  "price": {
+    "nm": "0.25",
+    "ex": "0.20",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/kaldheim/jarl-of-the-forsaken-45563-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/kaldheim/jarl-of-the-forsaken-45563-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/kaldheim/jarl-of-the-forsaken",
+    "foil": ""
+  }
+}

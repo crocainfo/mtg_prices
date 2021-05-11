@@ -1,0 +1,19 @@
+{
+  "name": "Kill Switch",
+  "lang": "",
+  "price": {
+    "nm": "0.79",
+    "ex": "0.63",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/nemesis/kill-switch-5831-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/nemesis/kill-switch-5831-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/nemesis/kill-switch",
+    "foil": ""
+  }
+}

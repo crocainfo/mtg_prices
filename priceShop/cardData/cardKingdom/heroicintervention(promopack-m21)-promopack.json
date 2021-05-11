@@ -1,0 +1,19 @@
+{
+  "name": "Heroic Intervention Promo Pack - M21",
+  "lang": "",
+  "price": {
+    "nm": "15.99",
+    "ex": "13.59",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/promo-pack/heroic-intervention-promo-pack-m21-12180-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/promo-pack/heroic-intervention-promo-pack-m21-12180-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/promo-pack/heroic-intervention-promo-pack-m21",
+    "foil": ""
+  }
+}

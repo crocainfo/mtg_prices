@@ -1,0 +1,19 @@
+{
+  "name": "Angrath, the Flame-Chained",
+  "lang": "",
+  "price": {
+    "nm": "9.99",
+    "ex": "7.99",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/rivals-of-ixalan/angrath-the-flame-chained-27140-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/rivals-of-ixalan/angrath-the-flame-chained-27140-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/rivals-of-ixalan/angrath-the-flame-chained",
+    "foil": ""
+  }
+}

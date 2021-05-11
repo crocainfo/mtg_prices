@@ -1,0 +1,19 @@
+{
+  "name": "Font of Agonies Prerelease Foil",
+  "lang": "",
+  "price": {
+    "nm": "1.49",
+    "ex": "1.19",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/promotional/prerelease-foil-67282-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/promotional/prerelease-foil-67282-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/promotional/font-of-agonies-prerelease-foil",
+    "foil": ""
+  }
+}

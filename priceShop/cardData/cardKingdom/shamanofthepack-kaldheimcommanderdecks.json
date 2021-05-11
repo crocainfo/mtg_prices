@@ -1,0 +1,19 @@
+{
+  "name": "Shaman of the Pack",
+  "lang": "",
+  "price": {
+    "nm": "0.25",
+    "ex": "0.20",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/kaldheim-commander-decks/shaman-of-the-pack-23991-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/kaldheim-commander-decks/shaman-of-the-pack-23991-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/kaldheim-commander-decks/shaman-of-the-pack",
+    "foil": ""
+  }
+}

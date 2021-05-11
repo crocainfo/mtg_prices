@@ -1,0 +1,19 @@
+{
+  "name": "All Hallow's Eve",
+  "lang": "",
+  "price": {
+    "nm": "799.99",
+    "ex": "719.99",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/legends/all-hallows-eve-62434-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/legends/all-hallows-eve-62434-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/legends/all-hallows-eve",
+    "foil": ""
+  }
+}

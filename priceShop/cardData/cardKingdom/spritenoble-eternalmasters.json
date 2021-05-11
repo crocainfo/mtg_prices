@@ -1,0 +1,19 @@
+{
+  "name": "Sprite Noble",
+  "lang": "",
+  "price": {
+    "nm": "0.49",
+    "ex": "0.39",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/eternal-masters/sprite-noble-49246-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/eternal-masters/sprite-noble-49246-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/eternal-masters/sprite-noble",
+    "foil": ""
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "name": "Winter's Chill",
+  "lang": "",
+  "price": {
+    "nm": "8.49",
+    "ex": "6.79",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/ice-age/winters-chill-5116-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/ice-age/winters-chill-5116-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/ice-age/winters-chill",
+    "foil": ""
+  }
+}

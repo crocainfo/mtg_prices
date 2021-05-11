@@ -1,0 +1,19 @@
+{
+  "name": "Mirrorworks",
+  "lang": "",
+  "price": {
+    "nm": "1.49",
+    "ex": "1.19",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/commander-2018/commander-2018-30696-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/commander-2018/commander-2018-30696-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/commander-2018/mirrorworks",
+    "foil": ""
+  }
+}

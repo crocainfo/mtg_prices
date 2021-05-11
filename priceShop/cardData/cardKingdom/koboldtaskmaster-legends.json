@@ -1,0 +1,19 @@
+{
+  "name": "Kobold Taskmaster",
+  "lang": "",
+  "price": {
+    "nm": "19.99",
+    "ex": "16.99",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/legends/kobold-taskmaster-18797-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/legends/kobold-taskmaster-18797-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/legends/kobold-taskmaster",
+    "foil": ""
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "name": "Cadaver Imp",
+  "lang": "",
+  "price": {
+    "nm": "0.29",
+    "ex": "0.23",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/duel-decks-zendikar-vs-eldrazi/cadaver-imp-45971-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/duel-decks-zendikar-vs-eldrazi/cadaver-imp-45971-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/duel-decks-zendikar-vs-eldrazi/cadaver-imp",
+    "foil": ""
+  }
+}

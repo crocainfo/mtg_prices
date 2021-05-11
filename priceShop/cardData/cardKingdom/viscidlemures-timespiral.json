@@ -1,0 +1,19 @@
+{
+  "name": "Viscid Lemures",
+  "lang": "",
+  "price": {
+    "nm": "0.25",
+    "ex": "0.20",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/time-spiral/viscid-lemures-17236-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/time-spiral/viscid-lemures-17236-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/time-spiral/viscid-lemures",
+    "foil": ""
+  }
+}

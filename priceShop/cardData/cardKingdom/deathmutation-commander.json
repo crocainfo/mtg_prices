@@ -1,0 +1,19 @@
+{
+  "name": "Death Mutation",
+  "lang": "",
+  "price": {
+    "nm": "0.29",
+    "ex": "0.23",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/commander/death-mutation-29706-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/commander/death-mutation-29706-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/commander/death-mutation",
+    "foil": ""
+  }
+}

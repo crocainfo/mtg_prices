@@ -1,0 +1,19 @@
+{
+  "name": "Mystic Compass",
+  "lang": "",
+  "price": {
+    "nm": "0.25",
+    "ex": "0.20",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/alliances/mystic-compass-13899-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/alliances/mystic-compass-13899-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/alliances/mystic-compass",
+    "foil": ""
+  }
+}

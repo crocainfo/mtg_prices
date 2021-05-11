@@ -1,0 +1,19 @@
+{
+  "name": "Chandra's Incinerator Prerelease Foil",
+  "lang": "",
+  "price": {
+    "nm": "1.99",
+    "ex": "1.59",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/promotional/chandras-incinerator-prerelease-foil-48652-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/promotional/chandras-incinerator-prerelease-foil-48652-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/promotional/chandras-incinerator-prerelease-foil",
+    "foil": ""
+  }
+}

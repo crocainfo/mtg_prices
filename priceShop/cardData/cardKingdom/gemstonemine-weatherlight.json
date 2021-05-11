@@ -1,0 +1,19 @@
+{
+  "name": "Gemstone Mine",
+  "lang": "",
+  "price": {
+    "nm": "11.99",
+    "ex": "9.59",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/weatherlight/gemstone-mine-73350-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/weatherlight/gemstone-mine-73350-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/weatherlight/gemstone-mine",
+    "foil": ""
+  }
+}

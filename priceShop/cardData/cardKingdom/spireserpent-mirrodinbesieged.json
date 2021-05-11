@@ -1,0 +1,19 @@
+{
+  "name": "Spire Serpent",
+  "lang": "",
+  "price": {
+    "nm": "0.25",
+    "ex": "0.20",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/mirrodin-besieged/spire-serpent-29045-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/mirrodin-besieged/spire-serpent-29045-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/mirrodin-besieged/spire-serpent",
+    "foil": ""
+  }
+}

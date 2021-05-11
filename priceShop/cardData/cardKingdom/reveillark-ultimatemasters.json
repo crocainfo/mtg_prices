@@ -1,0 +1,19 @@
+{
+  "name": "Reveillark",
+  "lang": "",
+  "price": {
+    "nm": "0.39",
+    "ex": "0.31",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/ultimate-masters/reveillark-35975-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/ultimate-masters/reveillark-35975-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/ultimate-masters/reveillark",
+    "foil": ""
+  }
+}

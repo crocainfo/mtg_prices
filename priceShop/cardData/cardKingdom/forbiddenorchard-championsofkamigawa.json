@@ -1,0 +1,19 @@
+{
+  "name": "Forbidden Orchard",
+  "lang": "",
+  "price": {
+    "nm": "27.99",
+    "ex": "23.79",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/champions-of-kamigawa/forbidden-orchard-22378-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/champions-of-kamigawa/forbidden-orchard-22378-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/champions-of-kamigawa/forbidden-orchard",
+    "foil": ""
+  }
+}

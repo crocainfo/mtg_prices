@@ -1,0 +1,19 @@
+{
+  "name": "Eat to Extinction Promo Pack",
+  "lang": "",
+  "price": {
+    "nm": "0.59",
+    "ex": "0.47",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/promo-pack/eat-to-extinction-promo-pack-20876-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/promo-pack/eat-to-extinction-promo-pack-20876-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/promo-pack/eat-to-extinction-promo-pack",
+    "foil": ""
+  }
+}

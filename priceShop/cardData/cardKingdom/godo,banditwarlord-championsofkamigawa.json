@@ -1,0 +1,19 @@
+{
+  "name": "Godo, Bandit Warlord",
+  "lang": "",
+  "price": {
+    "nm": "2.99",
+    "ex": "2.39",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/champions-of-kamigawa/godo-bandit-warlord-71734-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/champions-of-kamigawa/godo-bandit-warlord-71734-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/champions-of-kamigawa/godo-bandit-warlord",
+    "foil": ""
+  }
+}

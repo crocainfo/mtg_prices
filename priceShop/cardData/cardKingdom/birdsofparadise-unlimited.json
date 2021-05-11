@@ -1,0 +1,19 @@
+{
+  "name": "Birds of Paradise",
+  "lang": "",
+  "price": {
+    "nm": "559.99",
+    "ex": "447.99",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/unlimited/birds-of-paradise-17505-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/unlimited/birds-of-paradise-17505-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/unlimited/birds-of-paradise",
+    "foil": ""
+  }
+}

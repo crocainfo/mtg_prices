@@ -1,0 +1,19 @@
+{
+  "name": "Nimbus Swimmer",
+  "lang": "",
+  "price": {
+    "nm": "0.49",
+    "ex": "0.39",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/ravnica-allegiance-guild-kits/nimbus-swimmer-35284-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/ravnica-allegiance-guild-kits/nimbus-swimmer-35284-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/ravnica-allegiance-guild-kits/nimbus-swimmer",
+    "foil": ""
+  }
+}

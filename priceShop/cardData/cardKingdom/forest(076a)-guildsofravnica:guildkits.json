@@ -1,0 +1,19 @@
+{
+  "name": "Forest 076 A",
+  "lang": "",
+  "price": {
+    "nm": "1.49",
+    "ex": "1.19",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/guilds-of-ravnica-guild-kits/guilds-of-ravnica-guild-kits-56767-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/guilds-of-ravnica-guild-kits/guilds-of-ravnica-guild-kits-56767-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/guilds-of-ravnica-guild-kits/forest-076-a",
+    "foil": ""
+  }
+}

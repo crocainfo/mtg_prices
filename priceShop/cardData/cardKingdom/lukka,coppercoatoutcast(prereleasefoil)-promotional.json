@@ -1,0 +1,19 @@
+{
+  "name": "Lukka, Coppercoat Outcast Prerelease Foil",
+  "lang": "",
+  "price": {
+    "nm": "9.99",
+    "ex": "7.99",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/promotional/lukka-coppercoat-outcast-prerelease-foil-55875-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/promotional/lukka-coppercoat-outcast-prerelease-foil-55875-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/promotional/lukka-coppercoat-outcast-prerelease-foil",
+    "foil": ""
+  }
+}

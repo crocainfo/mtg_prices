@@ -1,0 +1,19 @@
+{
+  "name": "Eidolon of Obstruction Promo Pack",
+  "lang": "",
+  "price": {
+    "nm": "0.25",
+    "ex": "0.20",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/promo-pack/eidolon-of-obstruction-promo-pack-49716-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/promo-pack/eidolon-of-obstruction-promo-pack-49716-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/promo-pack/eidolon-of-obstruction-promo-pack",
+    "foil": ""
+  }
+}

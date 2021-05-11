@@ -1,0 +1,19 @@
+{
+  "name": "Lich",
+  "lang": "",
+  "price": {
+    "nm": "849.99",
+    "ex": "679.99",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/beta/lich-27364-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/beta/lich-27364-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/beta/lich",
+    "foil": ""
+  }
+}

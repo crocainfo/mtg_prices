@@ -1,0 +1,19 @@
+{
+  "name": "Symbiotic Wurm",
+  "lang": "",
+  "price": {
+    "nm": "1.49",
+    "ex": "1.19",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/onslaught/symbiotic-wurm-16019-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/onslaught/symbiotic-wurm-16019-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/onslaught/symbiotic-wurm",
+    "foil": ""
+  }
+}

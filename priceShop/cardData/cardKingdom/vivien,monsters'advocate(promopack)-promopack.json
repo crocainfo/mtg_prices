@@ -1,0 +1,19 @@
+{
+  "name": "Vivien, Monsters' Advocate Promo Pack",
+  "lang": "",
+  "price": {
+    "nm": "10.99",
+    "ex": "8.79",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/promo-pack/vivien-monsters-advocate-promo-pack-91811-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/promo-pack/vivien-monsters-advocate-promo-pack-91811-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/promo-pack/vivien-monsters-advocate-promo-pack",
+    "foil": ""
+  }
+}

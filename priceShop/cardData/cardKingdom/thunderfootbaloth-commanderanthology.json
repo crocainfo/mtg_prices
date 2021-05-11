@@ -1,0 +1,19 @@
+{
+  "name": "Thunderfoot Baloth",
+  "lang": "",
+  "price": {
+    "nm": "5.49",
+    "ex": "4.39",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/commander-anthology/thunderfoot-baloth-11873-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/commander-anthology/thunderfoot-baloth-11873-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/commander-anthology/thunderfoot-baloth",
+    "foil": ""
+  }
+}

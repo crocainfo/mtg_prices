@@ -1,0 +1,19 @@
+{
+  "name": "Emeria Shepherd Prerelease Foil",
+  "lang": "",
+  "price": {
+    "nm": "5.99",
+    "ex": "4.79",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/promotional/emeria-shepherd-prerelease-foil-51600-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/promotional/emeria-shepherd-prerelease-foil-51600-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/promotional/emeria-shepherd-prerelease-foil",
+    "foil": ""
+  }
+}

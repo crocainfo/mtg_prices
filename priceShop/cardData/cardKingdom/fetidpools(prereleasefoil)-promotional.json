@@ -1,0 +1,19 @@
+{
+  "name": "Fetid Pools Prerelease Foil",
+  "lang": "",
+  "price": {
+    "nm": "6.99",
+    "ex": "5.59",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/promotional/fetid-pools-prerelease-foil-60197-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/promotional/fetid-pools-prerelease-foil-60197-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/promotional/fetid-pools-prerelease-foil",
+    "foil": ""
+  }
+}

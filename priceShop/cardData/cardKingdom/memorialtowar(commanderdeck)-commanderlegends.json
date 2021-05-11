@@ -1,0 +1,19 @@
+{
+  "name": "Memorial to War Commander Deck",
+  "lang": "",
+  "price": {
+    "nm": "0.25",
+    "ex": "0.20",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/commander-legends/memorial-to-war-commander-deck-58131-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/commander-legends/memorial-to-war-commander-deck-58131-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/commander-legends/memorial-to-war-commander-deck",
+    "foil": ""
+  }
+}

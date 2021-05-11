@@ -1,0 +1,19 @@
+{
+  "name": "Goblin Token - Soldier Token RW",
+  "lang": "",
+  "price": {
+    "nm": "1.29",
+    "ex": "1.03",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/guilds-of-ravnica-guild-kits/goblin-token-soldier-token-rw-83974-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/guilds-of-ravnica-guild-kits/goblin-token-soldier-token-rw-83974-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/guilds-of-ravnica-guild-kits/goblin-token-soldier-token-rw",
+    "foil": ""
+  }
+}

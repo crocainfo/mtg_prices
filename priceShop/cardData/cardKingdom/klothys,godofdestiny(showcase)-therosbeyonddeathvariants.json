@@ -1,0 +1,19 @@
+{
+  "name": "Klothys, God of Destiny Showcase",
+  "lang": "",
+  "price": {
+    "nm": "14.99",
+    "ex": "11.99",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/theros-beyond-death-variants/klothys-god-of-destiny-showcase-23601-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/theros-beyond-death-variants/klothys-god-of-destiny-showcase-23601-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/theros-beyond-death-variants/klothys-god-of-destiny-showcase",
+    "foil": ""
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "name": "Storm World",
+  "lang": "",
+  "price": {
+    "nm": "119.99",
+    "ex": "107.99",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/legends/storm-world-69494-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/legends/storm-world-69494-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/legends/storm-world",
+    "foil": ""
+  }
+}

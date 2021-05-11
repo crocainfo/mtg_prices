@@ -1,0 +1,19 @@
+{
+  "name": "Derevi, Empyrial Tactician Foil",
+  "lang": "",
+  "price": {
+    "nm": "4.49",
+    "ex": "3.59",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/commander-anthology/derevi-empyrial-tactician-foil-56338-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/commander-anthology/derevi-empyrial-tactician-foil-56338-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/commander-anthology/derevi-empyrial-tactician-foil",
+    "foil": ""
+  }
+}

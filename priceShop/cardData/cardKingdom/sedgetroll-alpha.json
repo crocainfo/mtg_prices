@@ -1,0 +1,19 @@
+{
+  "name": "Sedge Troll",
+  "lang": "",
+  "price": {
+    "nm": "4499.99",
+    "ex": "3599.99",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/alpha/sedge-troll-32243-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/alpha/sedge-troll-32243-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/alpha/sedge-troll",
+    "foil": ""
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "name": "Serra's Embrace",
+  "lang": "",
+  "price": {
+    "nm": "0.25",
+    "ex": "0.20",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/7th-edition/serras-embrace-11464-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/7th-edition/serras-embrace-11464-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/7th-edition/serras-embrace",
+    "foil": ""
+  }
+}

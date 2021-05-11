@@ -1,0 +1,19 @@
+{
+  "name": "Collective Effort",
+  "lang": "",
+  "price": {
+    "nm": "0.59",
+    "ex": "0.47",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/eldritch-moon/collective-effort-39024-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/eldritch-moon/collective-effort-39024-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/eldritch-moon/collective-effort",
+    "foil": ""
+  }
+}

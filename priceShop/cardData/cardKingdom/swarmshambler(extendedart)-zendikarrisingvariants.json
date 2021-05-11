@@ -1,0 +1,19 @@
+{
+  "name": "Swarm Shambler Extended Art",
+  "lang": "",
+  "price": {
+    "nm": "0.29 ",
+    "ex": "0.23",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/zendikar-rising-variants/swarm-shambler-extended-art-41428-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/zendikar-rising-variants/swarm-shambler-extended-art-41428-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/zendikar-rising-variants/swarm-shambler-extended-art",
+    "foil": ""
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "name": "Root Snare",
+  "lang": "",
+  "price": {
+    "nm": "0.25",
+    "ex": "0.20",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/core-set-2019/core-set-2019-17108-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/core-set-2019/core-set-2019-17108-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/core-set-2019/root-snare",
+    "foil": ""
+  }
+}

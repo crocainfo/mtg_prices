@@ -1,0 +1,19 @@
+{
+  "name": "Isperia, Supreme Judge",
+  "lang": "",
+  "price": {
+    "nm": "0.49",
+    "ex": "0.39",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/return-to-ravnica/isperia-supreme-judge-98334-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/return-to-ravnica/isperia-supreme-judge-98334-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/return-to-ravnica/isperia-supreme-judge",
+    "foil": ""
+  }
+}

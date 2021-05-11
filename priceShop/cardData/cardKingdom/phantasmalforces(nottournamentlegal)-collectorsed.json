@@ -1,0 +1,19 @@
+{
+  "name": "Phantasmal Forces Not Tournament Legal",
+  "lang": "",
+  "price": {
+    "nm": "11.99",
+    "ex": "9.59",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/collectors-ed/phantasmal-forces-not-tournament-legal-23087-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/collectors-ed/phantasmal-forces-not-tournament-legal-23087-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/collectors-ed/phantasmal-forces-not-tournament-legal",
+    "foil": ""
+  }
+}

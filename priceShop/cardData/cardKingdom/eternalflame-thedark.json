@@ -1,0 +1,19 @@
+{
+  "name": "Eternal Flame",
+  "lang": "",
+  "price": {
+    "nm": "13.99",
+    "ex": "11.19",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/the-dark/eternal-flame-12108-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/the-dark/eternal-flame-12108-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/the-dark/eternal-flame",
+    "foil": ""
+  }
+}

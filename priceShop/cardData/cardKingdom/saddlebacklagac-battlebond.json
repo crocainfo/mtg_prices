@@ -1,0 +1,19 @@
+{
+  "name": "Saddleback Lagac",
+  "lang": "",
+  "price": {
+    "nm": "0.25",
+    "ex": "0.20",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/battlebond/saddleback-lagac-63066-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/battlebond/saddleback-lagac-63066-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/battlebond/saddleback-lagac",
+    "foil": ""
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "name": "Goblin Burrows",
+  "lang": "",
+  "price": {
+    "nm": "0.69",
+    "ex": "0.55",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/duel-decks-elves-vs-goblins/goblin-burrows-27277-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/duel-decks-elves-vs-goblins/goblin-burrows-27277-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/duel-decks-elves-vs-goblins/goblin-burrows",
+    "foil": ""
+  }
+}

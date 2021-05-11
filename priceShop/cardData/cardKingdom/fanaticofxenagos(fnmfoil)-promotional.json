@@ -1,0 +1,19 @@
+{
+  "name": "Fanatic of Xenagos FNM Foil",
+  "lang": "",
+  "price": {
+    "nm": "0.29",
+    "ex": "0.23",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/promotional/fanatic-of-xenagos-fnm-foil-44095-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/promotional/fanatic-of-xenagos-fnm-foil-44095-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/promotional/fanatic-of-xenagos-fnm-foil",
+    "foil": ""
+  }
+}

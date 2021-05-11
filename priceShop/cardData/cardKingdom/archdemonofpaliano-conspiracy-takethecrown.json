@@ -1,0 +1,19 @@
+{
+  "name": "Archdemon of Paliano",
+  "lang": "",
+  "price": {
+    "nm": "0.35",
+    "ex": "0.28",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/conspiracy-take-the-crown/archdemon-of-paliano-56025-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/conspiracy-take-the-crown/archdemon-of-paliano-56025-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/conspiracy-take-the-crown/archdemon-of-paliano",
+    "foil": ""
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "name": "Reality Shift Ugin's Fate",
+  "lang": "",
+  "price": {
+    "nm": "9.99",
+    "ex": "7.99",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/promotional/reality-shift-ugins-fate-42481-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/promotional/reality-shift-ugins-fate-42481-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/promotional/reality-shift-ugins-fate",
+    "foil": ""
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "name": "Starfield Mystic Prerelease Foil",
+  "lang": "",
+  "price": {
+    "nm": "3.99",
+    "ex": "3.19",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/promotional/starfield-mystic-prerelease-foil-79530-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/promotional/starfield-mystic-prerelease-foil-79530-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/promotional/starfield-mystic-prerelease-foil",
+    "foil": ""
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "name": "Baral's Expertise",
+  "lang": "",
+  "price": {
+    "nm": "0.99",
+    "ex": "0.79",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/aether-revolt/barals-expertise-30850-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/aether-revolt/barals-expertise-30850-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/aether-revolt/barals-expertise",
+    "foil": ""
+  }
+}

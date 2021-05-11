@@ -1,0 +1,19 @@
+{
+  "name": "B-I-N-G-O",
+  "lang": "",
+  "price": {
+    "nm": "0.59",
+    "ex": "0.47",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/unhinged/b-i-n-g-o-33131-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/unhinged/b-i-n-g-o-33131-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/unhinged/b-i-n-g-o",
+    "foil": ""
+  }
+}

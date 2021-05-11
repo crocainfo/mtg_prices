@@ -1,0 +1,19 @@
+{
+  "name": "Vedalken Shackles",
+  "lang": "",
+  "price": {
+    "nm": "9.49",
+    "ex": "7.59",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/fifth-dawn/vedalken-shackles-2363-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/fifth-dawn/vedalken-shackles-2363-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/fifth-dawn/vedalken-shackles",
+    "foil": ""
+  }
+}

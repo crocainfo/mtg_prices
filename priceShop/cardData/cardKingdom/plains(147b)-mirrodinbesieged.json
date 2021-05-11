@@ -1,0 +1,19 @@
+{
+  "name": "Plains 147 B",
+  "lang": "",
+  "price": {
+    "nm": "0.25",
+    "ex": "0.20",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/mirrodin-besieged/plains-147-37441-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/mirrodin-besieged/plains-147-37441-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/mirrodin-besieged/plains-147-b",
+    "foil": ""
+  }
+}

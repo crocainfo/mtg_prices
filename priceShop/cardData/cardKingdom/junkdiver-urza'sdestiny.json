@@ -1,0 +1,19 @@
+{
+  "name": "Junk Diver",
+  "lang": "",
+  "price": {
+    "nm": "4.99",
+    "ex": "3.99",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/urzas-destiny/junk-diver-5396-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/urzas-destiny/junk-diver-5396-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/urzas-destiny/junk-diver",
+    "foil": ""
+  }
+}

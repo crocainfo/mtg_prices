@@ -1,0 +1,19 @@
+{
+  "name": "Chandra, Flamecaller Prerelease Foil",
+  "lang": "",
+  "price": {
+    "nm": "9.99",
+    "ex": "7.99",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/promotional/chandra-flamecaller-prerelease-foil-56140-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/promotional/chandra-flamecaller-prerelease-foil-56140-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/promotional/chandra-flamecaller-prerelease-foil",
+    "foil": ""
+  }
+}

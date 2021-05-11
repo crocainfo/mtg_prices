@@ -1,0 +1,19 @@
+{
+  "name": "Royal Assassin",
+  "lang": "",
+  "price": {
+    "nm": "11.99",
+    "ex": "9.59",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/3rd-edition/royal-assassin-47227-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/3rd-edition/royal-assassin-47227-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/3rd-edition/royal-assassin",
+    "foil": ""
+  }
+}

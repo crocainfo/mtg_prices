@@ -1,0 +1,19 @@
+{
+  "name": "Professor Onyx Prerelease Foil",
+  "lang": "",
+  "price": {
+    "nm": "32.99",
+    "ex": "28.04",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/promotional/professor-onyx-prerelease-foil-51317-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/promotional/professor-onyx-prerelease-foil-51317-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/promotional/professor-onyx-prerelease-foil",
+    "foil": ""
+  }
+}

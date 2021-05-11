@@ -1,0 +1,19 @@
+{
+  "name": "Metathran Transport",
+  "lang": "",
+  "price": {
+    "nm": "0.25 ",
+    "ex": "0.20",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/invasion/metathran-transport-11428-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/invasion/metathran-transport-11428-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/invasion/metathran-transport",
+    "foil": ""
+  }
+}

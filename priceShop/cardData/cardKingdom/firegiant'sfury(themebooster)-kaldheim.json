@@ -1,0 +1,19 @@
+{
+  "name": "Fire Giant's Fury Theme Booster",
+  "lang": "",
+  "price": {
+    "nm": "0.25",
+    "ex": "0.20",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/kaldheim/fire-giants-fury-theme-booster-37148-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/kaldheim/fire-giants-fury-theme-booster-37148-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/kaldheim/fire-giants-fury-theme-booster",
+    "foil": ""
+  }
+}

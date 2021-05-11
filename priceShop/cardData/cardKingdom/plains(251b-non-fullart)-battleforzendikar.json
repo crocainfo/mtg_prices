@@ -1,0 +1,19 @@
+{
+  "name": "Plains 251 B - Non-Full Art",
+  "lang": "",
+  "price": {
+    "nm": "0.25",
+    "ex": "0.20",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/battle-for-zendikar/plains-251-b-non-full-art-44155-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/battle-for-zendikar/plains-251-b-non-full-art-44155-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/battle-for-zendikar/plains-251-b-non-full-art",
+    "foil": ""
+  }
+}

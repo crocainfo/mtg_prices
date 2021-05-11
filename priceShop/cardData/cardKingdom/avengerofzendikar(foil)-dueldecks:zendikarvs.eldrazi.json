@@ -1,0 +1,19 @@
+{
+  "name": "Avenger of Zendikar Foil",
+  "lang": "",
+  "price": {
+    "nm": "9.99",
+    "ex": "7.99",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/duel-decks-zendikar-vs-eldrazi/avenger-of-zendikar-foil-62460-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/duel-decks-zendikar-vs-eldrazi/avenger-of-zendikar-foil-62460-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/duel-decks-zendikar-vs-eldrazi/avenger-of-zendikar-foil",
+    "foil": ""
+  }
+}

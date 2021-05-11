@@ -1,0 +1,19 @@
+{
+  "name": "Altar Golem",
+  "lang": "",
+  "price": {
+    "nm": "0.79",
+    "ex": "0.63",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/eventide/altar-golem-4732-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/eventide/altar-golem-4732-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/eventide/altar-golem",
+    "foil": ""
+  }
+}

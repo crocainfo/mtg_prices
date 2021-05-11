@@ -1,0 +1,19 @@
+{
+  "name": "Indatha Triome Showcase",
+  "lang": "",
+  "price": {
+    "nm": "10.99",
+    "ex": "8.79",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/ikoria-lair-of-behemoths-variants/indatha-triome-showcase-34669-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/ikoria-lair-of-behemoths-variants/indatha-triome-showcase-34669-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/ikoria-lair-of-behemoths-variants/indatha-triome-showcase",
+    "foil": ""
+  }
+}

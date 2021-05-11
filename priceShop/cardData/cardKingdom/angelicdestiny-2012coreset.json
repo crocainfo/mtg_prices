@@ -1,0 +1,19 @@
+{
+  "name": "Angelic Destiny",
+  "lang": "",
+  "price": {
+    "nm": "5.99",
+    "ex": "4.79",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/2012-core-set/angelic-destiny-30116-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/2012-core-set/angelic-destiny-30116-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/2012-core-set/angelic-destiny",
+    "foil": ""
+  }
+}

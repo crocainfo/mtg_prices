@@ -1,0 +1,19 @@
+{
+  "name": "Orcish Librarian",
+  "lang": "",
+  "price": {
+    "nm": "0.25",
+    "ex": "0.20 ",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/timeshifted/orcish-librarian-11317-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/timeshifted/orcish-librarian-11317-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/timeshifted/orcish-librarian",
+    "foil": ""
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "name": "Luminous Broodmoth Extended Art",
+  "lang": "",
+  "price": {
+    "nm": "23.99",
+    "ex": "20.39",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/ikoria-lair-of-behemoths-variants/luminous-broodmoth-extended-art-66507-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/ikoria-lair-of-behemoths-variants/luminous-broodmoth-extended-art-66507-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/ikoria-lair-of-behemoths-variants/luminous-broodmoth-extended-art",
+    "foil": ""
+  }
+}

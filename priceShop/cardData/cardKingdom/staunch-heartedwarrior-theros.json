@@ -1,0 +1,19 @@
+{
+  "name": "Staunch-Hearted Warrior",
+  "lang": "",
+  "price": {
+    "nm": "0.25",
+    "ex": "0.20",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/theros/staunch-hearted-warrior-35656-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/theros/staunch-hearted-warrior-35656-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/theros/staunch-hearted-warrior",
+    "foil": ""
+  }
+}

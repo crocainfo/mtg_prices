@@ -1,0 +1,19 @@
+{
+  "name": "Dreg Mangler",
+  "lang": "",
+  "price": {
+    "nm": "0.25",
+    "ex": "0.20",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/return-to-ravnica/dreg-mangler-79991-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/return-to-ravnica/dreg-mangler-79991-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/return-to-ravnica/dreg-mangler",
+    "foil": ""
+  }
+}

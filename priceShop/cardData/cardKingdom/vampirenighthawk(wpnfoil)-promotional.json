@@ -1,0 +1,19 @@
+{
+  "name": "Vampire Nighthawk WPN Foil",
+  "lang": "",
+  "price": {
+    "nm": "2.99",
+    "ex": "2.39",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/promotional/vampire-nighthawk-dci-foil-6434-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/promotional/vampire-nighthawk-dci-foil-6434-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/promotional/vampire-nighthawk-wpn-foil",
+    "foil": ""
+  }
+}

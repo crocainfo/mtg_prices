@@ -1,0 +1,19 @@
+{
+  "name": "Hall of Triumph Hero's Path Foil",
+  "lang": "",
+  "price": {
+    "nm": "0.99",
+    "ex": "0.79",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/promotional/hall-of-triumph-heros-path-foil-75399-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/promotional/hall-of-triumph-heros-path-foil-75399-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/promotional/hall-of-triumph-heros-path-foil",
+    "foil": ""
+  }
+}

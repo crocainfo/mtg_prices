@@ -1,0 +1,19 @@
+{
+  "name": "Taste of Paradise Two People",
+  "lang": "",
+  "price": {
+    "nm": "0.25",
+    "ex": "0.20",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/alliances/taste-of-paradise-two-people-52761-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/alliances/taste-of-paradise-two-people-52761-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/alliances/taste-of-paradise-two-people",
+    "foil": ""
+  }
+}

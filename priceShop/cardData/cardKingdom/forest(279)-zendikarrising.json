@@ -1,0 +1,19 @@
+{
+  "name": "Forest 279",
+  "lang": "",
+  "price": {
+    "nm": "1.49",
+    "ex": "1.19",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/zendikar-rising/forest-279-25774-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/zendikar-rising/forest-279-25774-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/zendikar-rising/forest-279",
+    "foil": ""
+  }
+}

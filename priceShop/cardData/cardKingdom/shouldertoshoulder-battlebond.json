@@ -1,0 +1,19 @@
+{
+  "name": "Shoulder to Shoulder",
+  "lang": "",
+  "price": {
+    "nm": "0.25",
+    "ex": "0.20",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/battlebond/shoulder-to-shoulder-23306-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/battlebond/shoulder-to-shoulder-23306-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/battlebond/shoulder-to-shoulder",
+    "foil": ""
+  }
+}

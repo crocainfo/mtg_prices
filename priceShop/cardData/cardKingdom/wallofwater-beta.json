@@ -1,0 +1,19 @@
+{
+  "name": "Wall of Water",
+  "lang": "",
+  "price": {
+    "nm": "29.99",
+    "ex": "23.99",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/beta/wall-of-water-18651-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/beta/wall-of-water-18651-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/beta/wall-of-water",
+    "foil": ""
+  }
+}

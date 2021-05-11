@@ -1,0 +1,19 @@
+{
+  "name": "Kor Haven",
+  "lang": "",
+  "price": {
+    "nm": "12.99",
+    "ex": "10.39",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/nemesis/kor-haven-30194-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/nemesis/kor-haven-30194-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/nemesis/kor-haven",
+    "foil": ""
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "name": "Eldrazi Scion Token 003 C",
+  "lang": "",
+  "price": {
+    "nm": "0.25",
+    "ex": "0.20",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/oath-of-the-gatewatch/eldrazi-scion-token-003-47403-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/oath-of-the-gatewatch/eldrazi-scion-token-003-47403-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/oath-of-the-gatewatch/eldrazi-scion-token-003-c",
+    "foil": ""
+  }
+}

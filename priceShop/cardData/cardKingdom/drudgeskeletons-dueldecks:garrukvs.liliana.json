@@ -1,0 +1,19 @@
+{
+  "name": "Drudge Skeletons",
+  "lang": "",
+  "price": {
+    "nm": "0.25",
+    "ex": "0.20",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/duel-decks-garruk-vs-liliana/drudge-skeletons-14182-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/duel-decks-garruk-vs-liliana/drudge-skeletons-14182-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/duel-decks-garruk-vs-liliana/drudge-skeletons",
+    "foil": ""
+  }
+}

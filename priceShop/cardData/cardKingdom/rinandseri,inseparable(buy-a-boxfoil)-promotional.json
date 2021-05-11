@@ -1,0 +1,19 @@
+{
+  "name": "Rin and Seri, Inseparable Buy-a-Box Foil",
+  "lang": "",
+  "price": {
+    "nm": "9.99",
+    "ex": "7.99",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/promotional/rin-and-seri-inseparable-buy-a-box-foil-88146-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/promotional/rin-and-seri-inseparable-buy-a-box-foil-88146-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/promotional/rin-and-seri-inseparable-buy-a-box-foil",
+    "foil": ""
+  }
+}

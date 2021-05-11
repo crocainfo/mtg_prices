@@ -1,0 +1,19 @@
+{
+  "name": "Claws of Valakut",
+  "lang": "",
+  "price": {
+    "nm": "0.25",
+    "ex": "0.20",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/duel-decks-knights-vs-dragons/claws-of-valakut-29158-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/duel-decks-knights-vs-dragons/claws-of-valakut-29158-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/duel-decks-knights-vs-dragons/claws-of-valakut",
+    "foil": ""
+  }
+}

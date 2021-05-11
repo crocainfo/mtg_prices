@@ -1,0 +1,19 @@
+{
+  "name": "Mountain 265 A",
+  "lang": "",
+  "price": {
+    "nm": "0.25",
+    "ex": "0.20",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/magic-origins/mountain-265-45287-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/magic-origins/mountain-265-45287-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/magic-origins/mountain-265-a",
+    "foil": ""
+  }
+}

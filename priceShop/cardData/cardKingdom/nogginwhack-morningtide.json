@@ -1,0 +1,19 @@
+{
+  "name": "Noggin Whack",
+  "lang": "",
+  "price": {
+    "nm": "0.25",
+    "ex": "0.20",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/morningtide/noggin-whack-68741-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/morningtide/noggin-whack-68741-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/morningtide/noggin-whack",
+    "foil": ""
+  }
+}

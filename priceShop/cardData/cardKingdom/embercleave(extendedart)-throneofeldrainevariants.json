@@ -1,0 +1,19 @@
+{
+  "name": "Embercleave Extended Art",
+  "lang": "",
+  "price": {
+    "nm": "34.99",
+    "ex": "29.74",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/throne-of-eldraine-variants/embercleave-extended-art-19730-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/throne-of-eldraine-variants/embercleave-extended-art-19730-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/throne-of-eldraine-variants/embercleave-extended-art",
+    "foil": ""
+  }
+}

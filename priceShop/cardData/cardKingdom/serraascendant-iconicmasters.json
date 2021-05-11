@@ -1,0 +1,19 @@
+{
+  "name": "Serra Ascendant",
+  "lang": "",
+  "price": {
+    "nm": "23.99",
+    "ex": "20.39",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/iconic-masters/serra-ascendant-62583-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/iconic-masters/serra-ascendant-62583-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/iconic-masters/serra-ascendant",
+    "foil": ""
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "name": "Heart-Piercer Manticore Prerelease Foil",
+  "lang": "",
+  "price": {
+    "nm": "0.49",
+    "ex": "0.39",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/promotional/heart-piercer-manticore-prerelease-foil-60204-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/promotional/heart-piercer-manticore-prerelease-foil-60204-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/promotional/heart-piercer-manticore-prerelease-foil",
+    "foil": ""
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "name": "Vagrant Plowbeasts",
+  "lang": "",
+  "price": {
+    "nm": "0.25",
+    "ex": "0.20",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/conflux/vagrant-plowbeasts-21417-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/conflux/vagrant-plowbeasts-21417-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/conflux/vagrant-plowbeasts",
+    "foil": ""
+  }
+}

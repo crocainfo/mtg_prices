@@ -1,0 +1,19 @@
+{
+  "name": "Golem Foundry",
+  "lang": "",
+  "price": {
+    "nm": "0.49",
+    "ex": "0.39",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/scars-of-mirrodin/golem-foundry-1214-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/scars-of-mirrodin/golem-foundry-1214-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/scars-of-mirrodin/golem-foundry",
+    "foil": ""
+  }
+}

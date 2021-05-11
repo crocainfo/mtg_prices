@@ -1,0 +1,19 @@
+{
+  "name": "Ajani, the Greathearted Prerelease Foil",
+  "lang": "",
+  "price": {
+    "nm": "4.49",
+    "ex": "3.59",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/war-of-the-spark/ajani-the-greathearted-61787-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/war-of-the-spark/ajani-the-greathearted-61787-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/promotional/ajani-the-greathearted-prerelease-foil",
+    "foil": ""
+  }
+}

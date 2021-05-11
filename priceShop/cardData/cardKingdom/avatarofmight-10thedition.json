@@ -1,0 +1,19 @@
+{
+  "name": "Avatar of Might",
+  "lang": "",
+  "price": {
+    "nm": "0.99",
+    "ex": "0.79",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/10th-edition/avatar-of-might-28815-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/10th-edition/avatar-of-might-28815-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/10th-edition/avatar-of-might",
+    "foil": ""
+  }
+}

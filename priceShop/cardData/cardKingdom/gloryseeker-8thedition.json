@@ -1,0 +1,19 @@
+{
+  "name": "Glory Seeker",
+  "lang": "",
+  "price": {
+    "nm": "0.25",
+    "ex": "0.20",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/8th-edition/glory-seeker-16306-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/8th-edition/glory-seeker-16306-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/8th-edition/glory-seeker",
+    "foil": ""
+  }
+}

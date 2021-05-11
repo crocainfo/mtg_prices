@@ -1,0 +1,19 @@
+{
+  "name": "Manabarbs Not Tournament Legal",
+  "lang": "",
+  "price": {
+    "nm": "19.99",
+    "ex": "16.99",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/collectors-ed-intl/manabarbs-not-tournament-legal-8986-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/collectors-ed-intl/manabarbs-not-tournament-legal-8986-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/collectors-ed-intl/manabarbs-not-tournament-legal",
+    "foil": ""
+  }
+}

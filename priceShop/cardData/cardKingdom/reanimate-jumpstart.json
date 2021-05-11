@@ -1,0 +1,19 @@
+{
+  "name": "Reanimate",
+  "lang": "",
+  "price": {
+    "nm": "14.99",
+    "ex": "11.99",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/jumpstart/reanimate-45212-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/jumpstart/reanimate-45212-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/jumpstart/reanimate",
+    "foil": ""
+  }
+}

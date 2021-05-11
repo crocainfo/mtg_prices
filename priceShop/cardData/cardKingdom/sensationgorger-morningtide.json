@@ -1,0 +1,19 @@
+{
+  "name": "Sensation Gorger",
+  "lang": "",
+  "price": {
+    "nm": "3.99",
+    "ex": "3.19",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/morningtide/sensation-gorger-56223-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/morningtide/sensation-gorger-56223-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/morningtide/sensation-gorger",
+    "foil": ""
+  }
+}

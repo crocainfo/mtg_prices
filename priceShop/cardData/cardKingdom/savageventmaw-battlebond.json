@@ -1,0 +1,19 @@
+{
+  "name": "Savage Ventmaw",
+  "lang": "",
+  "price": {
+    "nm": "0.59",
+    "ex": "0.47 ",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/battlebond/savage-ventmaw-23518-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/battlebond/savage-ventmaw-23518-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/battlebond/savage-ventmaw",
+    "foil": ""
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "name": "Crusade",
+  "lang": "",
+  "price": {
+    "nm": "0.01",
+    "ex": "0.01",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/unlimited/crusade-59948-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/unlimited/crusade-59948-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/unlimited/crusade",
+    "foil": ""
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "name": "Planar Birth",
+  "lang": "",
+  "price": {
+    "nm": "4.49",
+    "ex": "3.59",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/urzas-saga/planar-birth-11308-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/urzas-saga/planar-birth-11308-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/urzas-saga/planar-birth",
+    "foil": ""
+  }
+}

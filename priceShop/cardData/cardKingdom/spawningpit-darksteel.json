@@ -1,0 +1,19 @@
+{
+  "name": "Spawning Pit",
+  "lang": "",
+  "price": {
+    "nm": "3.99",
+    "ex": "3.19",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/darksteel/spawning-pit-17690-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/darksteel/spawning-pit-17690-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/darksteel/spawning-pit",
+    "foil": ""
+  }
+}

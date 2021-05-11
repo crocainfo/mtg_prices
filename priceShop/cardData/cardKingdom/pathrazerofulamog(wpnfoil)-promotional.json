@@ -1,0 +1,19 @@
+{
+  "name": "Pathrazer of Ulamog WPN Foil",
+  "lang": "",
+  "price": {
+    "nm": "5.99",
+    "ex": "4.79",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/promotional/pathrazer-of-ulamog-wpn-foil-72946-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/promotional/pathrazer-of-ulamog-wpn-foil-72946-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/promotional/pathrazer-of-ulamog-wpn-foil",
+    "foil": ""
+  }
+}

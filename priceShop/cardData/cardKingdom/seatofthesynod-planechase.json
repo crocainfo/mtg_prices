@@ -1,0 +1,19 @@
+{
+  "name": "Seat of the Synod",
+  "lang": "",
+  "price": {
+    "nm": "2.49",
+    "ex": "1.99",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/planechase/seat-of-the-synod-4063-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/planechase/seat-of-the-synod-4063-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/planechase/seat-of-the-synod",
+    "foil": ""
+  }
+}

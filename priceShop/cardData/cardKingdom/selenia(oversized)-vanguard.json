@@ -1,0 +1,19 @@
+{
+  "name": "Selenia Oversized",
+  "lang": "",
+  "price": {
+    "nm": "15.99",
+    "ex": "13.59",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/vanguard/selenia-oversized-44114-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/vanguard/selenia-oversized-44114-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/vanguard/selenia-oversized",
+    "foil": ""
+  }
+}

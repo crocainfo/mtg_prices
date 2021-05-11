@@ -1,0 +1,19 @@
+{
+  "name": "Reap and Sow",
+  "lang": "",
+  "price": {
+    "nm": "0.39",
+    "ex": "0.31",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/darksteel/reap-and-sow-17939-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/darksteel/reap-and-sow-17939-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/darksteel/reap-and-sow",
+    "foil": ""
+  }
+}

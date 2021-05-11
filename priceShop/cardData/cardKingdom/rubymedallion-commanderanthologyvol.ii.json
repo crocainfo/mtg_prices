@@ -1,0 +1,19 @@
+{
+  "name": "Ruby Medallion",
+  "lang": "",
+  "price": {
+    "nm": "32.99",
+    "ex": "28.04",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/commander-anthology-vol-ii/ruby-medallion-97776-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/commander-anthology-vol-ii/ruby-medallion-97776-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/commander-anthology-vol-ii/ruby-medallion",
+    "foil": ""
+  }
+}

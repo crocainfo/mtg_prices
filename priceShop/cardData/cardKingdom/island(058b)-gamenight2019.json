@@ -1,0 +1,19 @@
+{
+  "name": "Island 058 B",
+  "lang": "",
+  "price": {
+    "nm": "0.25",
+    "ex": "0.20",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/game-night-2019/island-057-a-63022-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/game-night-2019/island-057-a-63022-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/game-night-2019/island-058-b",
+    "foil": ""
+  }
+}

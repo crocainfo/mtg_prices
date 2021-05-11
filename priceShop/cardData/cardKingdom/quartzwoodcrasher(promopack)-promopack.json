@@ -1,0 +1,19 @@
+{
+  "name": "Quartzwood Crasher Promo Pack",
+  "lang": "",
+  "price": {
+    "nm": "4.99",
+    "ex": "3.99",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/promo-pack/quartzwood-crasher-promo-pack-75338-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/promo-pack/quartzwood-crasher-promo-pack-75338-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/promo-pack/quartzwood-crasher-promo-pack",
+    "foil": ""
+  }
+}

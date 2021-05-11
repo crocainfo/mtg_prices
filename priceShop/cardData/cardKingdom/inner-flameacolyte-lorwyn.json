@@ -1,0 +1,19 @@
+{
+  "name": "Inner-Flame Acolyte",
+  "lang": "",
+  "price": {
+    "nm": "0.25",
+    "ex": "0.20",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/lorwyn/inner-flame-acolyte-24076-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/lorwyn/inner-flame-acolyte-24076-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/lorwyn/inner-flame-acolyte",
+    "foil": ""
+  }
+}

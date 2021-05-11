@@ -1,0 +1,19 @@
+{
+  "name": "Snow-Covered Plains",
+  "lang": "",
+  "price": {
+    "nm": "1.49",
+    "ex": "1.19",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/coldsnap/snow-covered-plains-26778-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/coldsnap/snow-covered-plains-26778-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/coldsnap/snow-covered-plains",
+    "foil": ""
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "name": "Angel of Mercy",
+  "lang": "",
+  "price": {
+    "nm": "0.25",
+    "ex": "0.20",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/iconic-masters/angel-of-mercy-62538-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/iconic-masters/angel-of-mercy-62538-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/iconic-masters/angel-of-mercy",
+    "foil": ""
+  }
+}

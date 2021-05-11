@@ -1,0 +1,19 @@
+{
+  "name": "Dying Wish",
+  "lang": "",
+  "price": {
+    "nm": "0.25",
+    "ex": "0.20",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/gatecrash/dying-wish-32963-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/gatecrash/dying-wish-32963-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/gatecrash/dying-wish",
+    "foil": ""
+  }
+}

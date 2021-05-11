@@ -1,0 +1,19 @@
+{
+  "name": "Scryb Sprites",
+  "lang": "",
+  "price": {
+    "nm": "99.99",
+    "ex": "79.99",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/alpha/scryb-sprites-17955-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/alpha/scryb-sprites-17955-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/alpha/scryb-sprites",
+    "foil": ""
+  }
+}

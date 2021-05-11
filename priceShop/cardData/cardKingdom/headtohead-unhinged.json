@@ -1,0 +1,19 @@
+{
+  "name": "Head to Head",
+  "lang": "",
+  "price": {
+    "nm": "0.25",
+    "ex": "0.20",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/unhinged/head-to-head-21851-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/unhinged/head-to-head-21851-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/unhinged/head-to-head",
+    "foil": ""
+  }
+}

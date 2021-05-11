@@ -1,0 +1,19 @@
+{
+  "name": "Plains 251 B",
+  "lang": "",
+  "price": {
+    "nm": "0.25",
+    "ex": "0.20",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/dragons-of-tarkir/plains-251-43645-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/dragons-of-tarkir/plains-251-43645-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/dragons-of-tarkir/plains-251-b",
+    "foil": ""
+  }
+}

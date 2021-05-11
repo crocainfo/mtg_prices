@@ -1,0 +1,19 @@
+{
+  "name": "Forced Fruition",
+  "lang": "",
+  "price": {
+    "nm": "15.99",
+    "ex": "13.59",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/lorwyn/forced-fruition-20484-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/lorwyn/forced-fruition-20484-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/lorwyn/forced-fruition",
+    "foil": ""
+  }
+}

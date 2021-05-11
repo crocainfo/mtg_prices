@@ -1,0 +1,19 @@
+{
+  "name": "Ertai, the Corrupted Alternate Art Foil",
+  "lang": "",
+  "price": {
+    "nm": "349.99",
+    "ex": "314.99",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/promotional/ertai-the-corrupted-alternate-art-foil-86070-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/promotional/ertai-the-corrupted-alternate-art-foil-86070-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/promotional/ertai-the-corrupted-alternate-art-foil",
+    "foil": ""
+  }
+}

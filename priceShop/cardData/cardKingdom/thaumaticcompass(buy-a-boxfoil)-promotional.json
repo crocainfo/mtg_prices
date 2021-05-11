@@ -1,0 +1,19 @@
+{
+  "name": "Thaumatic Compass Buy-a-Box Foil",
+  "lang": "",
+  "price": {
+    "nm": "11.99",
+    "ex": "9.59 ",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/promotional/thaumatic-compass-buy-a-box-31623-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/promotional/thaumatic-compass-buy-a-box-31623-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/promotional/thaumatic-compass-buy-a-box-foil",
+    "foil": ""
+  }
+}

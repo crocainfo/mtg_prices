@@ -1,0 +1,19 @@
+{
+  "name": "Goblin Guide",
+  "lang": "",
+  "price": {
+    "nm": "7.49",
+    "ex": "5.99",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/modern-masters-2017/goblin-guide-29990-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/modern-masters-2017/goblin-guide-29990-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/modern-masters-2017/goblin-guide",
+    "foil": ""
+  }
+}

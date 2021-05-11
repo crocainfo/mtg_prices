@@ -1,0 +1,19 @@
+{
+  "name": "Ineffable Blessing A - Flavorful/Bland",
+  "lang": "",
+  "price": {
+    "nm": "4.99",
+    "ex": "3.99",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/unstable/ineffable-blessing-39528-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/unstable/ineffable-blessing-39528-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/unstable/ineffable-blessing-a-flavorful-bland",
+    "foil": ""
+  }
+}

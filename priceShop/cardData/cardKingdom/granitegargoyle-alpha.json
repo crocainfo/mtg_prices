@@ -1,0 +1,19 @@
+{
+  "name": "Granite Gargoyle",
+  "lang": "",
+  "price": {
+    "nm": "2299.99",
+    "ex": "1839.99",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/alpha/granite-gargoyle-8258-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/alpha/granite-gargoyle-8258-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/alpha/granite-gargoyle",
+    "foil": ""
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "name": "Heart of Yavimaya",
+  "lang": "",
+  "price": {
+    "nm": "12.99",
+    "ex": "10.39",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/alliances/heart-of-yavimaya-23213-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/alliances/heart-of-yavimaya-23213-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/alliances/heart-of-yavimaya",
+    "foil": ""
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "name": "Darksteel Myr",
+  "lang": "",
+  "price": {
+    "nm": "0.59",
+    "ex": "0.47",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/scars-of-mirrodin/darksteel-myr-16869-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/scars-of-mirrodin/darksteel-myr-16869-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/scars-of-mirrodin/darksteel-myr",
+    "foil": ""
+  }
+}

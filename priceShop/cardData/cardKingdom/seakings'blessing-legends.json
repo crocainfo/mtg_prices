@@ -1,0 +1,19 @@
+{
+  "name": "Sea Kings' Blessing",
+  "lang": "",
+  "price": {
+    "nm": "12.99",
+    "ex": "10.39",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/legends/sea-kings-blessing-5479-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/legends/sea-kings-blessing-5479-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/legends/sea-kings-blessing",
+    "foil": ""
+  }
+}

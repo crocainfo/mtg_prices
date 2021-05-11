@@ -1,0 +1,19 @@
+{
+  "name": "Stone Haven Outfitter Prerelease Foil",
+  "lang": "",
+  "price": {
+    "nm": "1.99",
+    "ex": "1.59",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/promotional/stone-haven-outfitter-prerelease-foil-90253-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/promotional/stone-haven-outfitter-prerelease-foil-90253-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/promotional/stone-haven-outfitter-prerelease-foil",
+    "foil": ""
+  }
+}

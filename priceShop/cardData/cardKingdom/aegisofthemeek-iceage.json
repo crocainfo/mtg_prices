@@ -1,0 +1,19 @@
+{
+  "name": "Aegis of the Meek",
+  "lang": "",
+  "price": {
+    "nm": "1.99",
+    "ex": "1.59",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/ice-age/aegis-of-the-meek-169-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/ice-age/aegis-of-the-meek-169-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/ice-age/aegis-of-the-meek",
+    "foil": ""
+  }
+}

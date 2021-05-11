@@ -1,0 +1,19 @@
+{
+  "name": "Glissa, the Traitor Oversized Foil",
+  "lang": "",
+  "price": {
+    "nm": "2.49",
+    "ex": "1.99",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/commanders-arsenal/glissa-the-traitor-oversized-foil-38728-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/commanders-arsenal/glissa-the-traitor-oversized-foil-38728-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/commanders-arsenal/glissa-the-traitor-oversized-foil",
+    "foil": ""
+  }
+}

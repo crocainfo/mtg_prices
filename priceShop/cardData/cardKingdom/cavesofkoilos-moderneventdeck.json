@@ -1,0 +1,19 @@
+{
+  "name": "Caves of Koilos",
+  "lang": "",
+  "price": {
+    "nm": "0.79",
+    "ex": "0.63",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/modern-event-deck/caves-of-koilos-39884-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/modern-event-deck/caves-of-koilos-39884-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/modern-event-deck/caves-of-koilos",
+    "foil": ""
+  }
+}

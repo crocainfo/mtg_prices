@@ -1,0 +1,19 @@
+{
+  "name": "Fleetwheel Cruiser Prerelease Foil",
+  "lang": "",
+  "price": {
+    "nm": "1.49",
+    "ex": "1.19",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/promotional/fleetwheel-cruiser-prerelease-foil-57141-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/promotional/fleetwheel-cruiser-prerelease-foil-57141-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/promotional/fleetwheel-cruiser-prerelease-foil",
+    "foil": ""
+  }
+}

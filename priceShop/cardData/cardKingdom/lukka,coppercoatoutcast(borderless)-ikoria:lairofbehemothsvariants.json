@@ -1,0 +1,19 @@
+{
+  "name": "Lukka, Coppercoat Outcast Borderless",
+  "lang": "",
+  "price": {
+    "nm": "4.99",
+    "ex": "3.99",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/ikoria-lair-of-behemoths-variants/lukka-coppercoat-outcast-borderless-98489-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/ikoria-lair-of-behemoths-variants/lukka-coppercoat-outcast-borderless-98489-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/ikoria-lair-of-behemoths-variants/lukka-coppercoat-outcast-borderless",
+    "foil": ""
+  }
+}

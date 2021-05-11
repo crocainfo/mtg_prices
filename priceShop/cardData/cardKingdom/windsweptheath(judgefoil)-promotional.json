@@ -1,0 +1,19 @@
+{
+  "name": "Windswept Heath Judge Foil",
+  "lang": "",
+  "price": {
+    "nm": "129.99",
+    "ex": "116.99",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/promotional/windswept-heath-judge-foil-21990-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/promotional/windswept-heath-judge-foil-21990-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/promotional/windswept-heath-judge-foil",
+    "foil": ""
+  }
+}

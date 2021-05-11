@@ -1,0 +1,19 @@
+{
+  "name": "Pygmy Giant",
+  "lang": "",
+  "price": {
+    "nm": "0.25",
+    "ex": "0.20",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/unhinged/pygmy-giant-17078-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/unhinged/pygmy-giant-17078-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/unhinged/pygmy-giant",
+    "foil": ""
+  }
+}

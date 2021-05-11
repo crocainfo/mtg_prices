@@ -1,0 +1,19 @@
+{
+  "name": "Gaea's Liege",
+  "lang": "",
+  "price": {
+    "nm": "1199.99",
+    "ex": "959.99",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/alpha/gaeas-liege-19330-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/alpha/gaeas-liege-19330-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/alpha/gaeas-liege",
+    "foil": ""
+  }
+}

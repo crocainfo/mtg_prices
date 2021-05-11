@@ -1,0 +1,19 @@
+{
+  "name": "Grasp of Phantoms",
+  "lang": "",
+  "price": {
+    "nm": "0.25",
+    "ex": "0.20",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/innistrad/grasp-of-phantoms-30252-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/innistrad/grasp-of-phantoms-30252-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/innistrad/grasp-of-phantoms",
+    "foil": ""
+  }
+}

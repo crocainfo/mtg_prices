@@ -1,0 +1,19 @@
+{
+  "name": "Jace's Ruse Planeswalker Deck",
+  "lang": "",
+  "price": {
+    "nm": "0.35",
+    "ex": "0.28",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/war-of-the-spark/jaces-ruse-planeswalker-deck-71590-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/war-of-the-spark/jaces-ruse-planeswalker-deck-71590-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/war-of-the-spark/jaces-ruse-planeswalker-deck",
+    "foil": ""
+  }
+}

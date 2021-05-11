@@ -1,0 +1,19 @@
+{
+  "name": "Fervent Mastery Prerelease Foil",
+  "lang": "",
+  "price": {
+    "nm": "1.49",
+    "ex": "1.19",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/promotional/fervent-mastery-prerelease-foil-55934-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/promotional/fervent-mastery-prerelease-foil-55934-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/promotional/fervent-mastery-prerelease-foil",
+    "foil": ""
+  }
+}

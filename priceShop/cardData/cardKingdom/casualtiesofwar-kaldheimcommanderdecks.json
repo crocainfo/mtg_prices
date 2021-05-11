@@ -1,0 +1,19 @@
+{
+  "name": "Casualties of War",
+  "lang": "",
+  "price": {
+    "nm": "0.99",
+    "ex": "0.79",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/kaldheim-commander-decks/casualties-of-war-41967-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/kaldheim-commander-decks/casualties-of-war-41967-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/kaldheim-commander-decks/casualties-of-war",
+    "foil": ""
+  }
+}

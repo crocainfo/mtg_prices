@@ -1,0 +1,19 @@
+{
+  "name": "Forbidden Crypt",
+  "lang": "",
+  "price": {
+    "nm": "1.99",
+    "ex": "1.59",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/mirage/forbidden-crypt-24673-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/mirage/forbidden-crypt-24673-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/mirage/forbidden-crypt",
+    "foil": ""
+  }
+}

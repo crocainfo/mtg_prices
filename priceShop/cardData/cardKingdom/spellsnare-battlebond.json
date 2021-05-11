@@ -1,0 +1,19 @@
+{
+  "name": "Spell Snare",
+  "lang": "",
+  "price": {
+    "nm": "0.99",
+    "ex": "0.79",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/battlebond/spell-snare-61002-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/battlebond/spell-snare-61002-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/battlebond/spell-snare",
+    "foil": ""
+  }
+}

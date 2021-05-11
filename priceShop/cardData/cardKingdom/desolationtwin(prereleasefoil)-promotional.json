@@ -1,0 +1,19 @@
+{
+  "name": "Desolation Twin Prerelease Foil",
+  "lang": "",
+  "price": {
+    "nm": "4.49",
+    "ex": "3.59",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/promotional/desolation-twin-prerelease-foil-31824-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/promotional/desolation-twin-prerelease-foil-31824-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/promotional/desolation-twin-prerelease-foil",
+    "foil": ""
+  }
+}

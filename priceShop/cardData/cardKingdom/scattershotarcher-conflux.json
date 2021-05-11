@@ -1,0 +1,19 @@
+{
+  "name": "Scattershot Archer",
+  "lang": "",
+  "price": {
+    "nm": "0.39",
+    "ex": "0.31",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/conflux/scattershot-archer-11856-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/conflux/scattershot-archer-11856-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/conflux/scattershot-archer",
+    "foil": ""
+  }
+}

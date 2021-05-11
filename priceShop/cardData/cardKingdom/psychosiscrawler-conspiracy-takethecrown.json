@@ -1,0 +1,19 @@
+{
+  "name": "Psychosis Crawler",
+  "lang": "",
+  "price": {
+    "nm": "0.59",
+    "ex": "0.47",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/conspiracy-take-the-crown/psychosis-crawler-56234-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/conspiracy-take-the-crown/psychosis-crawler-56234-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/conspiracy-take-the-crown/psychosis-crawler",
+    "foil": ""
+  }
+}

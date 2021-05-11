@@ -1,0 +1,19 @@
+{
+  "name": "Lotus Cobra Grand Prix Foil",
+  "lang": "",
+  "price": {
+    "nm": "37.99",
+    "ex": "32.29 ",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/promotional/lotus-cobra-grand-prix-foil-84194-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/promotional/lotus-cobra-grand-prix-foil-84194-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/promotional/lotus-cobra-grand-prix-foil",
+    "foil": ""
+  }
+}

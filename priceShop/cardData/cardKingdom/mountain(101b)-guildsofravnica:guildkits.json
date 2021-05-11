@@ -1,0 +1,19 @@
+{
+  "name": "Mountain 101 B",
+  "lang": "",
+  "price": {
+    "nm": "0.35 ",
+    "ex": "0.28",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/guilds-of-ravnica-guild-kits/guilds-of-ravnica-guild-kits-39733-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/guilds-of-ravnica-guild-kits/guilds-of-ravnica-guild-kits-39733-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/guilds-of-ravnica-guild-kits/mountain-101-b",
+    "foil": ""
+  }
+}

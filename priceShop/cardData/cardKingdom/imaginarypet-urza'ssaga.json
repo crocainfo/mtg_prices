@@ -1,0 +1,19 @@
+{
+  "name": "Imaginary Pet",
+  "lang": "",
+  "price": {
+    "nm": "1.49",
+    "ex": "1.19",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/urzas-saga/imaginary-pet-15208-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/urzas-saga/imaginary-pet-15208-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/urzas-saga/imaginary-pet",
+    "foil": ""
+  }
+}

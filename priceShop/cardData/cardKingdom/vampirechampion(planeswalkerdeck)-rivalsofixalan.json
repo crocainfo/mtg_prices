@@ -1,0 +1,19 @@
+{
+  "name": "Vampire Champion Planeswalker Deck",
+  "lang": "",
+  "price": {
+    "nm": "0.25",
+    "ex": "0.20",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/rivals-of-ixalan/vampire-champion-planeswalker-deck-30517-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/rivals-of-ixalan/vampire-champion-planeswalker-deck-30517-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/rivals-of-ixalan/vampire-champion-planeswalker-deck",
+    "foil": ""
+  }
+}

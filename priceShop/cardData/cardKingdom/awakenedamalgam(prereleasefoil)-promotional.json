@@ -1,0 +1,19 @@
+{
+  "name": "Awakened Amalgam Prerelease Foil",
+  "lang": "",
+  "price": {
+    "nm": "0.49",
+    "ex": "0.39",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/promotional/awakened-amalgam-prerelease-foil-49086-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/promotional/awakened-amalgam-prerelease-foil-49086-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/promotional/awakened-amalgam-prerelease-foil",
+    "foil": ""
+  }
+}

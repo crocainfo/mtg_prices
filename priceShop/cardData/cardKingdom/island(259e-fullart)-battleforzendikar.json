@@ -1,0 +1,19 @@
+{
+  "name": "Island 259 E - Full Art",
+  "lang": "",
+  "price": {
+    "nm": "0.59",
+    "ex": "0.47",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/battle-for-zendikar/island-259-e-full-art-55402-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/battle-for-zendikar/island-259-e-full-art-55402-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/battle-for-zendikar/island-259-e-full-art",
+    "foil": ""
+  }
+}

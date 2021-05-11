@@ -1,0 +1,19 @@
+{
+  "name": "Leovold, Emissary of Trest",
+  "lang": "",
+  "price": {
+    "nm": "64.99",
+    "ex": "55.24",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/ultimate-box-topper/leovold-emissary-of-trest-61507-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/ultimate-box-topper/leovold-emissary-of-trest-61507-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/ultimate-box-topper/leovold-emissary-of-trest",
+    "foil": ""
+  }
+}

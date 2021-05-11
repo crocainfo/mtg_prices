@@ -1,0 +1,19 @@
+{
+  "name": "Essence Warden",
+  "lang": "",
+  "price": {
+    "nm": "4.49",
+    "ex": "3.59",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/commander-2014/essence-warden-41908-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/commander-2014/essence-warden-41908-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/commander-2014/essence-warden",
+    "foil": ""
+  }
+}

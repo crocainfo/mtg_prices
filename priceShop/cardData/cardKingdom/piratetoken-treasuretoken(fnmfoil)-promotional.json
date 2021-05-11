@@ -1,0 +1,19 @@
+{
+  "name": "Pirate Token - Treasure Token FNM Foil",
+  "lang": "",
+  "price": {
+    "nm": "0.79",
+    "ex": "0.63",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/promotional/pirate-token-treasure-token-fnm-promo-22912-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/promotional/pirate-token-treasure-token-fnm-promo-22912-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/promotional/pirate-token-treasure-token-fnm-foil",
+    "foil": ""
+  }
+}

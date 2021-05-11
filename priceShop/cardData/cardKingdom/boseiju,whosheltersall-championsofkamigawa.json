@@ -1,0 +1,19 @@
+{
+  "name": "Boseiju, Who Shelters All",
+  "lang": "",
+  "price": {
+    "nm": "32.99",
+    "ex": "28.04",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/champions-of-kamigawa/boseiju-who-shelters-all-52331-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/champions-of-kamigawa/boseiju-who-shelters-all-52331-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/champions-of-kamigawa/boseiju-who-shelters-all",
+    "foil": ""
+  }
+}

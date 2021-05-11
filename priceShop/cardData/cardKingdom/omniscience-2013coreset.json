@@ -1,0 +1,19 @@
+{
+  "name": "Omniscience",
+  "lang": "",
+  "price": {
+    "nm": "25.99",
+    "ex": "22.09",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/2013-core-set/omniscience-31715-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/2013-core-set/omniscience-31715-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/2013-core-set/omniscience",
+    "foil": ""
+  }
+}

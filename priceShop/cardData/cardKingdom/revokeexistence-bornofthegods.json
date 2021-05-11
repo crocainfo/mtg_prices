@@ -1,0 +1,19 @@
+{
+  "name": "Revoke Existence",
+  "lang": "",
+  "price": {
+    "nm": "0.25",
+    "ex": "0.20",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/born-of-the-gods/revoke-existence-38716-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/born-of-the-gods/revoke-existence-38716-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/born-of-the-gods/revoke-existence",
+    "foil": ""
+  }
+}

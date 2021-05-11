@@ -1,0 +1,19 @@
+{
+  "name": "Archon of Emeria Prerelease Foil",
+  "lang": "",
+  "price": {
+    "nm": "4.99",
+    "ex": "3.99",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/promotional/archon-of-emeria-prerelease-foil-37882-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/promotional/archon-of-emeria-prerelease-foil-37882-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/promotional/archon-of-emeria-prerelease-foil",
+    "foil": ""
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "name": "Vivien, Arkbow Ranger Promo Pack",
+  "lang": "",
+  "price": {
+    "nm": "4.99",
+    "ex": "3.99",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/promo-pack/vivien-arkbow-ranger-promo-pack-69038-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/promo-pack/vivien-arkbow-ranger-promo-pack-69038-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/promo-pack/vivien-arkbow-ranger-promo-pack",
+    "foil": ""
+  }
+}

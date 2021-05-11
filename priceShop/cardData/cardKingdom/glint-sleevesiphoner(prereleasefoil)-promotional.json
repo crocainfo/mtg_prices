@@ -1,0 +1,19 @@
+{
+  "name": "Glint-Sleeve Siphoner Prerelease Foil",
+  "lang": "",
+  "price": {
+    "nm": "1.99",
+    "ex": "1.59",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/promotional/glint-sleeve-siphoner-prerelease-foil-59131-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/promotional/glint-sleeve-siphoner-prerelease-foil-59131-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/promotional/glint-sleeve-siphoner-prerelease-foil",
+    "foil": ""
+  }
+}

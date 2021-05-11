@@ -1,0 +1,19 @@
+{
+  "name": "Lazav, Dimir Mastermind",
+  "lang": "",
+  "price": {
+    "nm": "0.49",
+    "ex": "0.39",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/zendikar-rising-commander-decks/lazav-dimir-mastermind-66300-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/zendikar-rising-commander-decks/lazav-dimir-mastermind-66300-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/zendikar-rising-commander-decks/lazav-dimir-mastermind",
+    "foil": ""
+  }
+}

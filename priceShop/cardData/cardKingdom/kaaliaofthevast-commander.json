@@ -1,0 +1,19 @@
+{
+  "name": "Kaalia of the Vast",
+  "lang": "",
+  "price": {
+    "nm": "23.99",
+    "ex": "20.39",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/commander/kaalia-of-the-vast-78715-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/commander/kaalia-of-the-vast-78715-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/commander/kaalia-of-the-vast",
+    "foil": ""
+  }
+}

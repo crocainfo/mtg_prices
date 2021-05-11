@@ -1,0 +1,19 @@
+{
+  "name": "Sword of Sinew and Steel Not Tournament Legal",
+  "lang": "",
+  "price": {
+    "nm": "0.25",
+    "ex": "0.20",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/art-series/sword-of-sinew-and-steel-not-tournament-legal-45631-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/art-series/sword-of-sinew-and-steel-not-tournament-legal-45631-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/art-series/sword-of-sinew-and-steel-not-tournament-legal",
+    "foil": ""
+  }
+}

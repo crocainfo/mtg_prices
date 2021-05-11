@@ -1,0 +1,19 @@
+{
+  "name": "Hallowed Healer",
+  "lang": "",
+  "price": {
+    "nm": "0.25",
+    "ex": "0.20",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/odyssey/hallowed-healer-11282-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/odyssey/hallowed-healer-11282-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/odyssey/hallowed-healer",
+    "foil": ""
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "name": "Forest Elves vs Goblins 28 A",
+  "lang": "",
+  "price": {
+    "nm": "0.25",
+    "ex": "0.20",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/duel-decks-anthology/forest-elves-vs-goblins-28-a-53180-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/duel-decks-anthology/forest-elves-vs-goblins-28-a-53180-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/duel-decks-anthology/forest-elves-vs-goblins-28-a",
+    "foil": ""
+  }
+}

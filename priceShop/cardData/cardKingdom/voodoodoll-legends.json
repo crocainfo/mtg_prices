@@ -1,0 +1,19 @@
+{
+  "name": "Voodoo Doll",
+  "lang": "",
+  "price": {
+    "nm": "19.99",
+    "ex": "16.99",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/legends/voodoo-doll-10626-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/legends/voodoo-doll-10626-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/legends/voodoo-doll",
+    "foil": ""
+  }
+}

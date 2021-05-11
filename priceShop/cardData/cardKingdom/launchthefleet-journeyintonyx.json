@@ -1,0 +1,19 @@
+{
+  "name": "Launch the Fleet",
+  "lang": "",
+  "price": {
+    "nm": "0.39",
+    "ex": "0.31",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/journey-into-nyx/launch-the-fleet-39358-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/journey-into-nyx/launch-the-fleet-39358-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/journey-into-nyx/launch-the-fleet",
+    "foil": ""
+  }
+}

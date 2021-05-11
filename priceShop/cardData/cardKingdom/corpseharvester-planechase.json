@@ -1,0 +1,19 @@
+{
+  "name": "Corpse Harvester",
+  "lang": "",
+  "price": {
+    "nm": "3.49",
+    "ex": "2.79",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/planechase/corpse-harvester-18097-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/planechase/corpse-harvester-18097-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/planechase/corpse-harvester",
+    "foil": ""
+  }
+}

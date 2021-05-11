@@ -1,0 +1,19 @@
+{
+  "name": "Sleight of Mind",
+  "lang": "",
+  "price": {
+    "nm": "1199.99",
+    "ex": "959.99",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/alpha/sleight-of-mind-1582-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/alpha/sleight-of-mind-1582-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/alpha/sleight-of-mind",
+    "foil": ""
+  }
+}

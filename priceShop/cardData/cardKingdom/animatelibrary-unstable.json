@@ -1,0 +1,19 @@
+{
+  "name": "Animate Library",
+  "lang": "",
+  "price": {
+    "nm": "0.39",
+    "ex": "0.31",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/unstable/animate-library-35985-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/unstable/animate-library-35985-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/unstable/animate-library",
+    "foil": ""
+  }
+}

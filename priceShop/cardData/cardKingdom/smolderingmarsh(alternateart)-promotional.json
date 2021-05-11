@@ -1,0 +1,19 @@
+{
+  "name": "Smoldering Marsh Alternate Art",
+  "lang": "",
+  "price": {
+    "nm": "7.99",
+    "ex": "6.39",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/promotional/smoldering-marsh-alternate-art-53731-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/promotional/smoldering-marsh-alternate-art-53731-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/promotional/smoldering-marsh-alternate-art",
+    "foil": ""
+  }
+}

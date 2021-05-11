@@ -1,0 +1,19 @@
+{
+  "name": "Cliffhaven Sell-Sword Not Tournament Legal",
+  "lang": "",
+  "price": {
+    "nm": "0.25",
+    "ex": "0.20",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/art-series/cliffhaven-sell-sword-not-tournament-legal-72240-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/art-series/cliffhaven-sell-sword-not-tournament-legal-72240-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/art-series/cliffhaven-sell-sword-not-tournament-legal",
+    "foil": ""
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "name": "Lovestruck Beast Promo Pack",
+  "lang": "",
+  "price": {
+    "nm": "0.59",
+    "ex": "0.47",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/promo-pack/lovestruck-beast-promo-pack-73556-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/promo-pack/lovestruck-beast-promo-pack-73556-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/promo-pack/lovestruck-beast-promo-pack",
+    "foil": ""
+  }
+}

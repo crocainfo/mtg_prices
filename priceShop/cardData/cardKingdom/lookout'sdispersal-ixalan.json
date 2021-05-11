@@ -1,0 +1,19 @@
+{
+  "name": "Lookout's Dispersal",
+  "lang": "",
+  "price": {
+    "nm": "0.29",
+    "ex": "0.23",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/ixalan/lookouts-dispersal-61921-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/ixalan/lookouts-dispersal-61921-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/ixalan/lookouts-dispersal",
+    "foil": ""
+  }
+}

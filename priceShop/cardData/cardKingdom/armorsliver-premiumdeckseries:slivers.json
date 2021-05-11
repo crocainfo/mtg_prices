@@ -1,0 +1,19 @@
+{
+  "name": "Armor Sliver",
+  "lang": "",
+  "price": {
+    "nm": "0.49",
+    "ex": "0.39",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/premium-deck-series-slivers/armor-sliver-14176-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/premium-deck-series-slivers/armor-sliver-14176-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/premium-deck-series-slivers/armor-sliver",
+    "foil": ""
+  }
+}

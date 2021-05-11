@@ -1,0 +1,19 @@
+{
+  "name": "Hammer of Purphoros",
+  "lang": "",
+  "price": {
+    "nm": "1.79",
+    "ex": "1.43",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/theros/hammer-of-purphoros-35171-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/theros/hammer-of-purphoros-35171-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/theros/hammer-of-purphoros",
+    "foil": ""
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "name": "Blaring Captain",
+  "lang": "",
+  "price": {
+    "nm": "0.25",
+    "ex": "0.20",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/battlebond/blaring-captain-36022-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/battlebond/blaring-captain-36022-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/battlebond/blaring-captain",
+    "foil": ""
+  }
+}

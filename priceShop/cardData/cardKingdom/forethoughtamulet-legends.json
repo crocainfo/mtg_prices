@@ -1,0 +1,19 @@
+{
+  "name": "Forethought Amulet",
+  "lang": "",
+  "price": {
+    "nm": "54.99",
+    "ex": "46.74",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/legends/forethought-amulet-10243-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/legends/forethought-amulet-10243-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/legends/forethought-amulet",
+    "foil": ""
+  }
+}

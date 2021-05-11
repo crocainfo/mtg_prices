@@ -1,0 +1,19 @@
+{
+  "name": "Sundering Vitae",
+  "lang": "",
+  "price": {
+    "nm": "0.25",
+    "ex": "0.20",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/ravnica/sundering-vitae-4827-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/ravnica/sundering-vitae-4827-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/ravnica/sundering-vitae",
+    "foil": ""
+  }
+}

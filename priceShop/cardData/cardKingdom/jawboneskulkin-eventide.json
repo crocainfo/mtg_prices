@@ -1,0 +1,19 @@
+{
+  "name": "Jawbone Skulkin",
+  "lang": "",
+  "price": {
+    "nm": "0.29",
+    "ex": "0.23",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/eventide/jawbone-skulkin-10232-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/eventide/jawbone-skulkin-10232-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/eventide/jawbone-skulkin",
+    "foil": ""
+  }
+}

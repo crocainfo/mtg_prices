@@ -1,0 +1,19 @@
+{
+  "name": "Emblem Sorin, Lord of Innistrad",
+  "lang": "",
+  "price": {
+    "nm": "5.49",
+    "ex": "4.39",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/dark-ascension/emblem-sorin-lord-of-innistrad-30956-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/dark-ascension/emblem-sorin-lord-of-innistrad-30956-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/dark-ascension/emblem-sorin-lord-of-innistrad",
+    "foil": ""
+  }
+}

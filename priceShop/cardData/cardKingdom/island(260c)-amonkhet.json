@@ -1,0 +1,19 @@
+{
+  "name": "Island 260 C",
+  "lang": "",
+  "price": {
+    "nm": "0.25",
+    "ex": "0.20",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/amonkhet/island-260-c-63261-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/amonkhet/island-260-c-63261-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/amonkhet/island-260-c",
+    "foil": ""
+  }
+}

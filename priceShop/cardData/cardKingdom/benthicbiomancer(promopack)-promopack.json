@@ -1,0 +1,19 @@
+{
+  "name": "Benthic Biomancer Promo Pack",
+  "lang": "",
+  "price": {
+    "nm": "1.49",
+    "ex": "1.19",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/promotional/promo-pack-72205-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/promotional/promo-pack-72205-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/promo-pack/benthic-biomancer-promo-pack",
+    "foil": ""
+  }
+}

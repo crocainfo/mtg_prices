@@ -1,0 +1,19 @@
+{
+  "name": "Brothers Yamazaki 160 B",
+  "lang": "",
+  "price": {
+    "nm": "0.35",
+    "ex": "0.28",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/champions-of-kamigawa/brothers-yamazaki-160-b-68032-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/champions-of-kamigawa/brothers-yamazaki-160-b-68032-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/champions-of-kamigawa/brothers-yamazaki-160-b",
+    "foil": ""
+  }
+}

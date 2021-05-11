@@ -1,0 +1,19 @@
+{
+  "name": "Lightning Dragon Prerelease Foil",
+  "lang": "",
+  "price": {
+    "nm": "139.99",
+    "ex": "125.99",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/promotional/lightning-dragon-prerelease-foil-12399-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/promotional/lightning-dragon-prerelease-foil-12399-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/promotional/lightning-dragon-prerelease-foil",
+    "foil": ""
+  }
+}

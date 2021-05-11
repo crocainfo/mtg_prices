@@ -1,0 +1,19 @@
+{
+  "name": "Patron Wizard",
+  "lang": "",
+  "price": {
+    "nm": "14.99",
+    "ex": "11.99",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/odyssey/patron-wizard-23624-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/odyssey/patron-wizard-23624-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/odyssey/patron-wizard",
+    "foil": ""
+  }
+}

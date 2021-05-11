@@ -1,0 +1,19 @@
+{
+  "name": "Sunbeam Spellbomb",
+  "lang": "",
+  "price": {
+    "nm": "0.25",
+    "ex": "0.20",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/mirrodin/sunbeam-spellbomb-28469-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/mirrodin/sunbeam-spellbomb-28469-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/mirrodin/sunbeam-spellbomb",
+    "foil": ""
+  }
+}

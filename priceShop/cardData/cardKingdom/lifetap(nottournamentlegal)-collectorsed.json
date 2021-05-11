@@ -1,0 +1,19 @@
+{
+  "name": "Lifetap Not Tournament Legal",
+  "lang": "",
+  "price": {
+    "nm": "3.99",
+    "ex": "3.19",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/collectors-ed/lifetap-not-tournament-legal-2858-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/collectors-ed/lifetap-not-tournament-legal-2858-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/collectors-ed/lifetap-not-tournament-legal",
+    "foil": ""
+  }
+}

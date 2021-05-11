@@ -1,0 +1,19 @@
+{
+  "name": "Crash the Ramparts",
+  "lang": "",
+  "price": {
+    "nm": "0.25",
+    "ex": "0.20",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/ixalan/crash-the-ramparts-62006-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/ixalan/crash-the-ramparts-62006-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/ixalan/crash-the-ramparts",
+    "foil": ""
+  }
+}

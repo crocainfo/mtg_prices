@@ -1,0 +1,19 @@
+{
+  "name": "Balance Not Tournament Legal",
+  "lang": "",
+  "price": {
+    "nm": "64.99",
+    "ex": "55.24",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/collectors-ed/balance-not-tournament-legal-56925-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/collectors-ed/balance-not-tournament-legal-56925-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/collectors-ed/balance-not-tournament-legal",
+    "foil": ""
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "name": "Skirk Fire Marshal",
+  "lang": "",
+  "price": {
+    "nm": "4.49",
+    "ex": "3.59",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/duel-decks-elves-vs-goblins/skirk-fire-marshal-9099-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/duel-decks-elves-vs-goblins/skirk-fire-marshal-9099-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/duel-decks-elves-vs-goblins/skirk-fire-marshal",
+    "foil": ""
+  }
+}

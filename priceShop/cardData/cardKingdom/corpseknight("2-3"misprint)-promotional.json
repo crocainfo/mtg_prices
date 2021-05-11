@@ -1,0 +1,19 @@
+{
+  "name": "Corpse Knight \"2/3\" Misprint",
+  "lang": "",
+  "price": {
+    "nm": "1.49",
+    "ex": "1.19",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/promotional/corpse-knight-2-3-misprint-74699-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/promotional/corpse-knight-2-3-misprint-74699-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/promotional/corpse-knight-2-3-misprint",
+    "foil": ""
+  }
+}

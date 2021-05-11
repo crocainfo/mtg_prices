@@ -1,0 +1,19 @@
+{
+  "name": "Snow-Covered Swamp",
+  "lang": "",
+  "price": {
+    "nm": "2.49",
+    "ex": "1.99",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/ice-age/snow-covered-swamp-64416-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/ice-age/snow-covered-swamp-64416-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/ice-age/snow-covered-swamp",
+    "foil": ""
+  }
+}

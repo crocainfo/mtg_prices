@@ -1,0 +1,19 @@
+{
+  "name": "Dreamcaller Siren Prerelease Foil",
+  "lang": "",
+  "price": {
+    "nm": "0.49",
+    "ex": "0.39",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/promotional/dreamcaller-siren-prerelease-foil-62211-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/promotional/dreamcaller-siren-prerelease-foil-62211-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/promotional/dreamcaller-siren-prerelease-foil",
+    "foil": ""
+  }
+}

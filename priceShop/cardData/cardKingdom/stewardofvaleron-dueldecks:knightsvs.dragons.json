@@ -1,0 +1,19 @@
+{
+  "name": "Steward of Valeron",
+  "lang": "",
+  "price": {
+    "nm": "0.29 ",
+    "ex": "0.23",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/duel-decks-knights-vs-dragons/steward-of-valeron-29221-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/duel-decks-knights-vs-dragons/steward-of-valeron-29221-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/duel-decks-knights-vs-dragons/steward-of-valeron",
+    "foil": ""
+  }
+}

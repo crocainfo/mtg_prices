@@ -1,0 +1,19 @@
+{
+  "name": "Natural Order Foil-Etched",
+  "lang": "",
+  "price": {
+    "nm": "29.99",
+    "ex": "25.49",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/strixhaven-mystical-archive/natural-order-foil-etched-75200-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/strixhaven-mystical-archive/natural-order-foil-etched-75200-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/strixhaven-mystical-archive/natural-order-foil-etched",
+    "foil": ""
+  }
+}

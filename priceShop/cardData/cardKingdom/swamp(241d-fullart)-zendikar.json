@@ -1,0 +1,19 @@
+{
+  "name": "Swamp 241 D - Full Art",
+  "lang": "",
+  "price": {
+    "nm": "0.79",
+    "ex": "0.63",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/zendikar/swamp-241-d-full-art-64337-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/zendikar/swamp-241-d-full-art-64337-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/zendikar/swamp-241-d-full-art",
+    "foil": ""
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "name": "Archpriest of Iona Promo Pack",
+  "lang": "",
+  "price": {
+    "nm": "0.25",
+    "ex": "0.20",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/promo-pack/archpriest-of-iona-promo-pack-70983-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/promo-pack/archpriest-of-iona-promo-pack-70983-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/promo-pack/archpriest-of-iona-promo-pack",
+    "foil": ""
+  }
+}

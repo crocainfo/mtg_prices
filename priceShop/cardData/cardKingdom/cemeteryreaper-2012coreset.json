@@ -1,0 +1,19 @@
+{
+  "name": "Cemetery Reaper",
+  "lang": "",
+  "price": {
+    "nm": "6.49",
+    "ex": "5.19",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/2012-core-set/cemetery-reaper-30131-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/2012-core-set/cemetery-reaper-30131-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/2012-core-set/cemetery-reaper",
+    "foil": ""
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "name": "Sword of Dungeons &amp; Dragons",
+  "lang": "",
+  "price": {
+    "nm": "2.49",
+    "ex": "1.99",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/unstable/sword-of-dungeons-dragons-19838-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/unstable/sword-of-dungeons-dragons-19838-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/unstable/sword-of-dungeons-dragons",
+    "foil": ""
+  }
+}

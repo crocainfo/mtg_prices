@@ -1,0 +1,19 @@
+{
+  "name": "Retreat to Kazandu Commander Deck",
+  "lang": "",
+  "price": {
+    "nm": "0.25",
+    "ex": "0.20",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/commander-legends/retreat-to-kazandu-commander-deck-19855-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/commander-legends/retreat-to-kazandu-commander-deck-19855-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/commander-legends/retreat-to-kazandu-commander-deck",
+    "foil": ""
+  }
+}

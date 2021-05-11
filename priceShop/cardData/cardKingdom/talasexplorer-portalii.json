@@ -1,0 +1,19 @@
+{
+  "name": "Talas Explorer",
+  "lang": "",
+  "price": {
+    "nm": "0.35",
+    "ex": "0.28",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/portal-ii/talas-explorer-11624-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/portal-ii/talas-explorer-11624-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/portal-ii/talas-explorer",
+    "foil": ""
+  }
+}

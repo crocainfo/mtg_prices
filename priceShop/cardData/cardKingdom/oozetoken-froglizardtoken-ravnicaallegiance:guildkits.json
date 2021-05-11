@@ -1,0 +1,19 @@
+{
+  "name": "Ooze Token - Frog Lizard Token",
+  "lang": "",
+  "price": {
+    "nm": "0.25",
+    "ex": "0.20",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/ravnica-allegiance-guild-kits/ravnica-allegiance-guild-kits-93901-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/ravnica-allegiance-guild-kits/ravnica-allegiance-guild-kits-93901-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/ravnica-allegiance-guild-kits/ooze-token-frog-lizard-token",
+    "foil": ""
+  }
+}

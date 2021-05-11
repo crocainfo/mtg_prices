@@ -1,0 +1,19 @@
+{
+  "name": "Night Soil",
+  "lang": "",
+  "price": {
+    "nm": "1.49",
+    "ex": "1.19",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/commander-2013/night-soil-36264-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/commander-2013/night-soil-36264-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/commander-2013/night-soil",
+    "foil": ""
+  }
+}

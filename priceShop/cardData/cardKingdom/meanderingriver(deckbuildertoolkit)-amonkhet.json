@@ -1,0 +1,19 @@
+{
+  "name": "Meandering River Deckbuilder Toolkit",
+  "lang": "",
+  "price": {
+    "nm": "0.25",
+    "ex": "0.20",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/amonkhet/meandering-river-deckbuilder-toolkit-91362-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/amonkhet/meandering-river-deckbuilder-toolkit-91362-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/amonkhet/meandering-river-deckbuilder-toolkit",
+    "foil": ""
+  }
+}

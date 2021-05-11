@@ -1,0 +1,19 @@
+{
+  "name": "Dark Depths",
+  "lang": "",
+  "price": {
+    "nm": "84.99",
+    "ex": "72.24",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/ultimate-box-topper/dark-depths-47270-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/ultimate-box-topper/dark-depths-47270-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/ultimate-box-topper/dark-depths",
+    "foil": ""
+  }
+}

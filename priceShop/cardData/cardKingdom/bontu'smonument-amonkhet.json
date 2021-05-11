@@ -1,0 +1,19 @@
+{
+  "name": "Bontu's Monument",
+  "lang": "",
+  "price": {
+    "nm": "5.49",
+    "ex": "4.39",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/amonkhet/bontus-monument-51112-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/amonkhet/bontus-monument-51112-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/amonkhet/bontus-monument",
+    "foil": ""
+  }
+}

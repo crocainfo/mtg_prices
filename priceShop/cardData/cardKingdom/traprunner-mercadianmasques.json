@@ -1,0 +1,19 @@
+{
+  "name": "Trap Runner",
+  "lang": "",
+  "price": {
+    "nm": "0.25",
+    "ex": "0.20",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/mercadian-masques/trap-runner-26474-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/mercadian-masques/trap-runner-26474-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/mercadian-masques/trap-runner",
+    "foil": ""
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "name": "Martyrdom Alive",
+  "lang": "",
+  "price": {
+    "nm": "0.25",
+    "ex": "0.20",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/alliances/martyrdom-35322-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/alliances/martyrdom-35322-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/alliances/martyrdom-alive",
+    "foil": ""
+  }
+}

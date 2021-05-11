@@ -1,0 +1,19 @@
+{
+  "name": "Ambuscade",
+  "lang": "",
+  "price": {
+    "nm": "0.25",
+    "ex": "0.20",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/hour-of-devastation/ambuscade-61051-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/hour-of-devastation/ambuscade-61051-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/hour-of-devastation/ambuscade",
+    "foil": ""
+  }
+}

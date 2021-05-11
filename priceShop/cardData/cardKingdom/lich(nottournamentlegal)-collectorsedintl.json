@@ -1,0 +1,19 @@
+{
+  "name": "Lich Not Tournament Legal",
+  "lang": "",
+  "price": {
+    "nm": "89.99",
+    "ex": "76.49",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/collectors-ed-intl/lich-not-tournament-legal-6030-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/collectors-ed-intl/lich-not-tournament-legal-6030-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/collectors-ed-intl/lich-not-tournament-legal",
+    "foil": ""
+  }
+}

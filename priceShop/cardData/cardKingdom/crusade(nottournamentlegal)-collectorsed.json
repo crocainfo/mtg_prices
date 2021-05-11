@@ -1,0 +1,19 @@
+{
+  "name": "Crusade Not Tournament Legal",
+  "lang": "",
+  "price": {
+    "nm": "0.01",
+    "ex": "0.01",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/collectors-ed/crusade-not-tournament-legal-30764-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/collectors-ed/crusade-not-tournament-legal-30764-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/collectors-ed/crusade-not-tournament-legal",
+    "foil": ""
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "name": "Sanctum Gargoyle",
+  "lang": "",
+  "price": {
+    "nm": "0.25",
+    "ex": "0.20",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/modern-masters/sanctum-gargoyle-33901-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/modern-masters/sanctum-gargoyle-33901-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/modern-masters/sanctum-gargoyle",
+    "foil": ""
+  }
+}

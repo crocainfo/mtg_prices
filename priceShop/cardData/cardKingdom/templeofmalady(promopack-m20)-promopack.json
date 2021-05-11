@@ -1,0 +1,19 @@
+{
+  "name": "Temple of Malady Promo Pack - M20",
+  "lang": "",
+  "price": {
+    "nm": "1.99",
+    "ex": "1.59",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/promo-pack/temple-of-malady-promo-pack-m20-69946-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/promo-pack/temple-of-malady-promo-pack-m20-69946-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/promo-pack/temple-of-malady-promo-pack-m20",
+    "foil": ""
+  }
+}

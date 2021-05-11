@@ -1,0 +1,19 @@
+{
+  "name": "Path to Exile",
+  "lang": "",
+  "price": {
+    "nm": "8.49",
+    "ex": "6.79",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/archenemy/path-to-exile-59027-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/archenemy/path-to-exile-59027-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/archenemy/path-to-exile",
+    "foil": ""
+  }
+}

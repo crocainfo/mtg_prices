@@ -1,0 +1,19 @@
+{
+  "name": "Morgue Thrull",
+  "lang": "",
+  "price": {
+    "nm": "0.25",
+    "ex": "0.20",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/stronghold/morgue-thrull-69726-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/stronghold/morgue-thrull-69726-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/stronghold/morgue-thrull",
+    "foil": ""
+  }
+}

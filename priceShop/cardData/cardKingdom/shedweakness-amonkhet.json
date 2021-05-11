@@ -1,0 +1,19 @@
+{
+  "name": "Shed Weakness",
+  "lang": "",
+  "price": {
+    "nm": "0.25",
+    "ex": "0.20",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/amonkhet/shed-weakness-20492-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/amonkhet/shed-weakness-20492-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/amonkhet/shed-weakness",
+    "foil": ""
+  }
+}

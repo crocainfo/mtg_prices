@@ -1,0 +1,19 @@
+{
+  "name": "Nim Abomination",
+  "lang": "",
+  "price": {
+    "nm": "0.25",
+    "ex": "0.20",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/darksteel/nim-abomination-14160-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/darksteel/nim-abomination-14160-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/darksteel/nim-abomination",
+    "foil": ""
+  }
+}

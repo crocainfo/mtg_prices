@@ -1,0 +1,19 @@
+{
+  "name": "Graven Cairns",
+  "lang": "",
+  "price": {
+    "nm": "5.49",
+    "ex": "4.39",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/iconic-masters/graven-cairns-65802-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/iconic-masters/graven-cairns-65802-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/iconic-masters/graven-cairns",
+    "foil": ""
+  }
+}

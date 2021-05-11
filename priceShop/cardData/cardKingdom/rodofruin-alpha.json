@@ -1,0 +1,19 @@
+{
+  "name": "Rod of Ruin",
+  "lang": "",
+  "price": {
+    "nm": "299.99",
+    "ex": "239.99",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/alpha/rod-of-ruin-16535-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/alpha/rod-of-ruin-16535-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/alpha/rod-of-ruin",
+    "foil": ""
+  }
+}

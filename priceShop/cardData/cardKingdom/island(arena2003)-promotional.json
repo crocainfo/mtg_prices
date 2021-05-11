@@ -1,0 +1,19 @@
+{
+  "name": "Island Arena 2003",
+  "lang": "",
+  "price": {
+    "nm": "29.99",
+    "ex": "25.49",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/promotional/island-arena-2003-41423-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/promotional/island-arena-2003-41423-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/promotional/island-arena-2003",
+    "foil": ""
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "name": "Managorger Hydra",
+  "lang": "",
+  "price": {
+    "nm": "4.99",
+    "ex": "3.99",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/magic-origins/managorger-hydra-45220-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/magic-origins/managorger-hydra-45220-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/magic-origins/managorger-hydra",
+    "foil": ""
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "name": "Eldrazi Spawn Token Aleksi Briclot",
+  "lang": "",
+  "price": {
+    "nm": "0.49",
+    "ex": "0.39",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/modern-masters-2015/eldrazi-spawn-token-aleksi-briclot-45003-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/modern-masters-2015/eldrazi-spawn-token-aleksi-briclot-45003-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/modern-masters-2015/eldrazi-spawn-token-aleksi-briclot",
+    "foil": ""
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "name": "Hand of Death",
+  "lang": "",
+  "price": {
+    "nm": "0.25",
+    "ex": "0.20",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/portal-ii/hand-of-death-11161-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/portal-ii/hand-of-death-11161-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/portal-ii/hand-of-death",
+    "foil": ""
+  }
+}

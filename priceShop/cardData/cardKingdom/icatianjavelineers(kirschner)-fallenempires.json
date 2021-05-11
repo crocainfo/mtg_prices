@@ -1,0 +1,19 @@
+{
+  "name": "Icatian Javelineers Kirschner",
+  "lang": "",
+  "price": {
+    "nm": "0.25",
+    "ex": "0.20",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/fallen-empires/icatian-javelineers-beard-jr-67433-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/fallen-empires/icatian-javelineers-beard-jr-67433-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/fallen-empires/icatian-javelineers-kirschner",
+    "foil": ""
+  }
+}

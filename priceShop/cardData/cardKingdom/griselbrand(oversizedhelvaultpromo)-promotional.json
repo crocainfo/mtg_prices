@@ -1,0 +1,19 @@
+{
+  "name": "Griselbrand Oversized Helvault Promo",
+  "lang": "",
+  "price": {
+    "nm": "1.79",
+    "ex": "1.43",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/promotional/griselbrand-oversized-helvault-promo-32917-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/promotional/griselbrand-oversized-helvault-promo-32917-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/promotional/griselbrand-oversized-helvault-promo",
+    "foil": ""
+  }
+}

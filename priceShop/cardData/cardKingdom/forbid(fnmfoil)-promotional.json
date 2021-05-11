@@ -1,0 +1,19 @@
+{
+  "name": "Forbid FNM Foil",
+  "lang": "",
+  "price": {
+    "nm": "21.99",
+    "ex": "18.69",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/promotional/forbid-fnm-foil-3852-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/promotional/forbid-fnm-foil-3852-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/promotional/forbid-fnm-foil",
+    "foil": ""
+  }
+}

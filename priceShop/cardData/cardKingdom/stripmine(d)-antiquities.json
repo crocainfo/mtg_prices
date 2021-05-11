@@ -1,0 +1,19 @@
+{
+  "name": "Strip Mine D",
+  "lang": "",
+  "price": {
+    "nm": "99.99",
+    "ex": "84.99",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/antiquities/strip-mine-d-85139-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/antiquities/strip-mine-d-85139-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/antiquities/strip-mine-d",
+    "foil": ""
+  }
+}

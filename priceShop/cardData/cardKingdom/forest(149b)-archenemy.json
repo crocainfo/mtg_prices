@@ -1,0 +1,19 @@
+{
+  "name": "Forest 149 B",
+  "lang": "",
+  "price": {
+    "nm": "0.99",
+    "ex": "0.79",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/archenemy/forest-149-b-28004-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/archenemy/forest-149-b-28004-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/archenemy/forest-149-b",
+    "foil": ""
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "name": "Wall of Swords Not Tournament Legal",
+  "lang": "",
+  "price": {
+    "nm": "5.49",
+    "ex": "4.39",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/collectors-ed-intl/wall-of-swords-not-tournament-legal-5151-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/collectors-ed-intl/wall-of-swords-not-tournament-legal-5151-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/collectors-ed-intl/wall-of-swords-not-tournament-legal",
+    "foil": ""
+  }
+}

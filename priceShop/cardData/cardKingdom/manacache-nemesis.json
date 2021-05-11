@@ -1,0 +1,19 @@
+{
+  "name": "Mana Cache",
+  "lang": "",
+  "price": {
+    "nm": "1.29",
+    "ex": "1.03",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/nemesis/mana-cache-89219-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/nemesis/mana-cache-89219-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/nemesis/mana-cache",
+    "foil": ""
+  }
+}

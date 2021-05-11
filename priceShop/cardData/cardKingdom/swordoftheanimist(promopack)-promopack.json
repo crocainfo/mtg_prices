@@ -1,0 +1,19 @@
+{
+  "name": "Sword of the Animist Promo Pack",
+  "lang": "",
+  "price": {
+    "nm": "21.99",
+    "ex": "18.69",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/promo-pack/sword-of-the-animist-promo-pack-41148-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/promo-pack/sword-of-the-animist-promo-pack-41148-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/promo-pack/sword-of-the-animist-promo-pack",
+    "foil": ""
+  }
+}

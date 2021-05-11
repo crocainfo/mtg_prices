@@ -1,0 +1,19 @@
+{
+  "name": "Golgari Germination",
+  "lang": "",
+  "price": {
+    "nm": "0.59",
+    "ex": "0.47",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/modern-masters-2017/golgari-germination-59409-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/modern-masters-2017/golgari-germination-59409-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/modern-masters-2017/golgari-germination",
+    "foil": ""
+  }
+}

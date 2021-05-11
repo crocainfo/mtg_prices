@@ -1,0 +1,19 @@
+{
+  "name": "Copper Tablet Not Tournament Legal",
+  "lang": "",
+  "price": {
+    "nm": "28.99",
+    "ex": "24.64",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/collectors-ed/copper-tablet-not-tournament-legal-17160-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/collectors-ed/copper-tablet-not-tournament-legal-17160-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/collectors-ed/copper-tablet-not-tournament-legal",
+    "foil": ""
+  }
+}

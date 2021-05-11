@@ -1,0 +1,19 @@
+{
+  "name": "Alpine Moon Prerelease Foil",
+  "lang": "",
+  "price": {
+    "nm": "2.49",
+    "ex": "1.99",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/promotional/alpine-moon-prerelease-foil-37428-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/promotional/alpine-moon-prerelease-foil-37428-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/promotional/alpine-moon-prerelease-foil",
+    "foil": ""
+  }
+}

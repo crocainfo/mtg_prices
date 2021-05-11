@@ -1,0 +1,19 @@
+{
+  "name": "Questing Beast Extended Art",
+  "lang": "",
+  "price": {
+    "nm": "29.99",
+    "ex": "25.49",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/throne-of-eldraine-variants/questing-beast-extended-art-13870-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/throne-of-eldraine-variants/questing-beast-extended-art-13870-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/throne-of-eldraine-variants/questing-beast-extended-art",
+    "foil": ""
+  }
+}

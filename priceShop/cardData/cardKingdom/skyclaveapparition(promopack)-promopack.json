@@ -1,0 +1,19 @@
+{
+  "name": "Skyclave Apparition Promo Pack",
+  "lang": "",
+  "price": {
+    "nm": "11.99",
+    "ex": "9.59",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/promo-pack/skyclave-apparition-promo-pack-22708-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/promo-pack/skyclave-apparition-promo-pack-22708-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/promo-pack/skyclave-apparition-promo-pack",
+    "foil": ""
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "name": "Mahamoti Djinn",
+  "lang": "",
+  "price": {
+    "nm": "129.99",
+    "ex": "103.99",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/unlimited/mahamoti-djinn-21192-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/unlimited/mahamoti-djinn-21192-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/unlimited/mahamoti-djinn",
+    "foil": ""
+  }
+}

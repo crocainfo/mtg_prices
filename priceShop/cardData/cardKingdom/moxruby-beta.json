@@ -1,0 +1,19 @@
+{
+  "name": "Mox Ruby",
+  "lang": "",
+  "price": {
+    "nm": "17999.99",
+    "ex": "14399.99",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/beta/mox-ruby-14034-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/beta/mox-ruby-14034-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/beta/mox-ruby",
+    "foil": ""
+  }
+}

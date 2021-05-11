@@ -1,0 +1,19 @@
+{
+  "name": "Birds of Paradise",
+  "lang": "",
+  "price": {
+    "nm": "17.99",
+    "ex": "15.29",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/4th-edition/birds-of-paradise-72340-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/4th-edition/birds-of-paradise-72340-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/4th-edition/birds-of-paradise",
+    "foil": ""
+  }
+}

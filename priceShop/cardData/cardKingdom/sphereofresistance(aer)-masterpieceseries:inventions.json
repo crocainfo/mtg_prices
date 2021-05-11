@@ -1,0 +1,19 @@
+{
+  "name": "Sphere of Resistance AER",
+  "lang": "",
+  "price": {
+    "nm": "119.99",
+    "ex": "107.99",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/masterpiece-series-inventions/sphere-of-resistance-aer-86268-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/masterpiece-series-inventions/sphere-of-resistance-aer-86268-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/masterpiece-series-inventions/sphere-of-resistance-aer",
+    "foil": ""
+  }
+}

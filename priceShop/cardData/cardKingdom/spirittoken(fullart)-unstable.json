@@ -1,0 +1,19 @@
+{
+  "name": "Spirit Token Full Art",
+  "lang": "",
+  "price": {
+    "nm": "0.35",
+    "ex": "0.28",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/unstable/spirit-token-full-art-66618-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/unstable/spirit-token-full-art-66618-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/unstable/spirit-token-full-art",
+    "foil": ""
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "name": "Hibernation's End",
+  "lang": "",
+  "price": {
+    "nm": "2.29",
+    "ex": "1.83",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/coldsnap/hibernations-end-23378-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/coldsnap/hibernations-end-23378-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/coldsnap/hibernations-end",
+    "foil": ""
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "name": "Tower of the Magistrate",
+  "lang": "",
+  "price": {
+    "nm": "5.49 ",
+    "ex": "4.39",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/mercadian-masques/tower-of-the-magistrate-35153-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/mercadian-masques/tower-of-the-magistrate-35153-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/mercadian-masques/tower-of-the-magistrate",
+    "foil": ""
+  }
+}

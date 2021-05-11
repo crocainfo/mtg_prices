@@ -1,0 +1,19 @@
+{
+  "name": "Pestilence",
+  "lang": "",
+  "price": {
+    "nm": "119.99",
+    "ex": "95.99",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/alpha/pestilence-3348-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/alpha/pestilence-3348-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/alpha/pestilence",
+    "foil": ""
+  }
+}

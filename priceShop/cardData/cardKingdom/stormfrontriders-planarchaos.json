@@ -1,0 +1,19 @@
+{
+  "name": "Stormfront Riders",
+  "lang": "",
+  "price": {
+    "nm": "0.25",
+    "ex": "0.20",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/planar-chaos/stormfront-riders-2310-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/planar-chaos/stormfront-riders-2310-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/planar-chaos/stormfront-riders",
+    "foil": ""
+  }
+}

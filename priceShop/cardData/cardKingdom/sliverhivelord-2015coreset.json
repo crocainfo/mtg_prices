@@ -1,0 +1,19 @@
+{
+  "name": "Sliver Hivelord",
+  "lang": "",
+  "price": {
+    "nm": "34.99",
+    "ex": "29.74",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/2015-core-set/sliver-hivelord-29954-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/2015-core-set/sliver-hivelord-29954-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/2015-core-set/sliver-hivelord",
+    "foil": ""
+  }
+}

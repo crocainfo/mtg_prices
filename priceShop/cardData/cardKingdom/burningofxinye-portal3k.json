@@ -1,0 +1,19 @@
+{
+  "name": "Burning of Xinye",
+  "lang": "",
+  "price": {
+    "nm": "89.99",
+    "ex": "76.49",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/portal-3k/burning-of-xinye-38464-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/portal-3k/burning-of-xinye-38464-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/portal-3k/burning-of-xinye",
+    "foil": ""
+  }
+}

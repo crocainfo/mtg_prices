@@ -1,0 +1,19 @@
+{
+  "name": "Treasure Mage Game Day Extended Art",
+  "lang": "",
+  "price": {
+    "nm": "1.29",
+    "ex": "1.03",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/promotional/treasure-mage-game-day-extended-art-30636-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/promotional/treasure-mage-game-day-extended-art-30636-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/promotional/treasure-mage-game-day-extended-art",
+    "foil": ""
+  }
+}

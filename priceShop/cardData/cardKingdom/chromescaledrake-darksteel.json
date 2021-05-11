@@ -1,0 +1,19 @@
+{
+  "name": "Chromescale Drake",
+  "lang": "",
+  "price": {
+    "nm": "0.35",
+    "ex": "0.28",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/darksteel/chromescale-drake-2796-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/darksteel/chromescale-drake-2796-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/darksteel/chromescale-drake",
+    "foil": ""
+  }
+}

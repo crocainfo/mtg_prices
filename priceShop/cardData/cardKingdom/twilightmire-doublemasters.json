@@ -1,0 +1,19 @@
+{
+  "name": "Twilight Mire",
+  "lang": "",
+  "price": {
+    "nm": "9.49",
+    "ex": "7.59",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/double-masters/twilight-mire-56036-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/double-masters/twilight-mire-56036-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/double-masters/twilight-mire",
+    "foil": ""
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "name": "Reach of Branches",
+  "lang": "",
+  "price": {
+    "nm": "0.35",
+    "ex": "0.28",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/morningtide/reach-of-branches-7595-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/morningtide/reach-of-branches-7595-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/morningtide/reach-of-branches",
+    "foil": ""
+  }
+}

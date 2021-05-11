@@ -1,0 +1,19 @@
+{
+  "name": "Augur of Skulls",
+  "lang": "",
+  "price": {
+    "nm": "0.25",
+    "ex": "0.20",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/future-sight/augur-of-skulls-16148-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/future-sight/augur-of-skulls-16148-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/future-sight/augur-of-skulls",
+    "foil": ""
+  }
+}

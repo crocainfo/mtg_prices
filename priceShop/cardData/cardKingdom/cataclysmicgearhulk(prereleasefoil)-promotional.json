@@ -1,0 +1,19 @@
+{
+  "name": "Cataclysmic Gearhulk Prerelease Foil",
+  "lang": "",
+  "price": {
+    "nm": "3.99",
+    "ex": "3.19",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/promotional/cataclysmic-gearhulk-prerelease-foil-36476-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/promotional/cataclysmic-gearhulk-prerelease-foil-36476-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/promotional/cataclysmic-gearhulk-prerelease-foil",
+    "foil": ""
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "name": "Gravebreaker Lamia Promo Pack",
+  "lang": "",
+  "price": {
+    "nm": "2.29",
+    "ex": "1.83",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/promo-pack/gravebreaker-lamia-promo-pack-73291-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/promo-pack/gravebreaker-lamia-promo-pack-73291-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/promo-pack/gravebreaker-lamia-promo-pack",
+    "foil": ""
+  }
+}

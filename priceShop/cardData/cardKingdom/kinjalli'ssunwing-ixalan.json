@@ -1,0 +1,19 @@
+{
+  "name": "Kinjalli's Sunwing",
+  "lang": "",
+  "price": {
+    "nm": "2.29",
+    "ex": "1.83",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/ixalan/kinjallis-sunwing-61790-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/ixalan/kinjallis-sunwing-61790-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/ixalan/kinjallis-sunwing",
+    "foil": ""
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "name": "Monologue Tax Extended Art",
+  "lang": "",
+  "price": {
+    "nm": "34.99",
+    "ex": "29.74",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/commander-2021-variants/monologue-tax-extended-art-76862-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/commander-2021-variants/monologue-tax-extended-art-76862-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/commander-2021-variants/monologue-tax-extended-art",
+    "foil": ""
+  }
+}

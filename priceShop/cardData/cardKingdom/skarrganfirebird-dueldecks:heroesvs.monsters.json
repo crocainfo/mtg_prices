@@ -1,0 +1,19 @@
+{
+  "name": "Skarrgan Firebird",
+  "lang": "",
+  "price": {
+    "nm": "0.35",
+    "ex": "0.28",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/duel-decks-heroes-vs-monsters/skarrgan-firebird-35774-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/duel-decks-heroes-vs-monsters/skarrgan-firebird-35774-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/duel-decks-heroes-vs-monsters/skarrgan-firebird",
+    "foil": ""
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "name": "Pawn of Ulamog",
+  "lang": "",
+  "price": {
+    "nm": "3.49",
+    "ex": "2.79",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/duel-decks-zendikar-vs-eldrazi/pawn-of-ulamog-46002-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/duel-decks-zendikar-vs-eldrazi/pawn-of-ulamog-46002-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/duel-decks-zendikar-vs-eldrazi/pawn-of-ulamog",
+    "foil": ""
+  }
+}

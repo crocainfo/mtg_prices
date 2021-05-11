@@ -1,0 +1,19 @@
+{
+  "name": "Phantasmal Fiend No Doorway",
+  "lang": "",
+  "price": {
+    "nm": "0.25",
+    "ex": "0.20",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/alliances/phantasmal-fiend-doorway-31024-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/alliances/phantasmal-fiend-doorway-31024-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/alliances/phantasmal-fiend-no-doorway",
+    "foil": ""
+  }
+}

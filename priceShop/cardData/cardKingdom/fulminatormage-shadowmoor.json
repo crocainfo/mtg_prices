@@ -1,0 +1,19 @@
+{
+  "name": "Fulminator Mage",
+  "lang": "",
+  "price": {
+    "nm": "3.49",
+    "ex": "2.79 ",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/shadowmoor/fulminator-mage-96614-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/shadowmoor/fulminator-mage-96614-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/shadowmoor/fulminator-mage",
+    "foil": ""
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "name": "Jungle Shrine",
+  "lang": "",
+  "price": {
+    "nm": "1.29",
+    "ex": "1.03",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/commander-2013/jungle-shrine-36526-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/commander-2013/jungle-shrine-36526-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/commander-2013/jungle-shrine",
+    "foil": ""
+  }
+}

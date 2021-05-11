@@ -1,0 +1,19 @@
+{
+  "name": "Aether Snap",
+  "lang": "",
+  "price": {
+    "nm": "0.99",
+    "ex": "0.79",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/darksteel/aether-snap-12000-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/darksteel/aether-snap-12000-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/darksteel/aether-snap",
+    "foil": ""
+  }
+}

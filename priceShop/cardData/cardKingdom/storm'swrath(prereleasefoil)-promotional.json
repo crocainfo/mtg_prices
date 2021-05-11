@@ -1,0 +1,19 @@
+{
+  "name": "Storm's Wrath Prerelease Foil",
+  "lang": "",
+  "price": {
+    "nm": "2.99",
+    "ex": "2.39",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/promotional/storms-wrath-prerelease-foil-89251-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/promotional/storms-wrath-prerelease-foil-89251-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/promotional/storms-wrath-prerelease-foil",
+    "foil": ""
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "name": "Armageddon Not Tournament Legal",
+  "lang": "",
+  "price": {
+    "nm": "59.99",
+    "ex": "50.99",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/collectors-ed-intl/armageddon-not-tournament-legal-6479-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/collectors-ed-intl/armageddon-not-tournament-legal-6479-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/collectors-ed-intl/armageddon-not-tournament-legal",
+    "foil": ""
+  }
+}

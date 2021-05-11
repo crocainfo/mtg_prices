@@ -1,0 +1,19 @@
+{
+  "name": "Rofellos, Llanowar Emissary",
+  "lang": "",
+  "price": {
+    "nm": "64.99",
+    "ex": "55.24",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/urzas-destiny/rofellos-llanowar-emissary-94756-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/urzas-destiny/rofellos-llanowar-emissary-94756-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/urzas-destiny/rofellos-llanowar-emissary",
+    "foil": ""
+  }
+}

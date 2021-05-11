@@ -1,0 +1,19 @@
+{
+  "name": "Mind Twist AKH",
+  "lang": "",
+  "price": {
+    "nm": "89.99",
+    "ex": "76.49",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/masterpiece-series-invocations/mind-twist-akh-42458-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/masterpiece-series-invocations/mind-twist-akh-42458-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/masterpiece-series-invocations/mind-twist-akh",
+    "foil": ""
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "name": "Lutri, the Spellchaser",
+  "lang": "",
+  "price": {
+    "nm": "0.35",
+    "ex": "0.28",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/ikoria-lair-of-behemoths/lutri-the-spellchaser-18449-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/ikoria-lair-of-behemoths/lutri-the-spellchaser-18449-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/ikoria-lair-of-behemoths/lutri-the-spellchaser",
+    "foil": ""
+  }
+}

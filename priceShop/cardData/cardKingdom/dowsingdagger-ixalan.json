@@ -1,0 +1,19 @@
+{
+  "name": "Dowsing Dagger",
+  "lang": "",
+  "price": {
+    "nm": "5.49",
+    "ex": "4.39",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/ixalan/dowsing-dagger-61941-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/ixalan/dowsing-dagger-61941-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/ixalan/dowsing-dagger",
+    "foil": ""
+  }
+}

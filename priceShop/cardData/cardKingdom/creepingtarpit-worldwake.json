@@ -1,0 +1,19 @@
+{
+  "name": "Creeping Tar Pit",
+  "lang": "",
+  "price": {
+    "nm": "4.49",
+    "ex": "3.59",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/worldwake/creeping-tar-pit-16666-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/worldwake/creeping-tar-pit-16666-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/worldwake/creeping-tar-pit",
+    "foil": ""
+  }
+}

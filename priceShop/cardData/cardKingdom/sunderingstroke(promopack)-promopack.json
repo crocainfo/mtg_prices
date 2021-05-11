@@ -1,0 +1,19 @@
+{
+  "name": "Sundering Stroke Promo Pack",
+  "lang": "",
+  "price": {
+    "nm": "0.25",
+    "ex": "0.20 ",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/promo-pack-throne-of-eldraine/sundering-stroke-promo-pack-10180-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/promo-pack-throne-of-eldraine/sundering-stroke-promo-pack-10180-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/promo-pack/sundering-stroke-promo-pack",
+    "foil": ""
+  }
+}

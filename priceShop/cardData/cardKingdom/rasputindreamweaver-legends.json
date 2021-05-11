@@ -1,0 +1,19 @@
+{
+  "name": "Rasputin Dreamweaver",
+  "lang": "",
+  "price": {
+    "nm": "479.99",
+    "ex": "431.99",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/legends/rasputin-dreamweaver-12309-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/legends/rasputin-dreamweaver-12309-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/legends/rasputin-dreamweaver",
+    "foil": ""
+  }
+}

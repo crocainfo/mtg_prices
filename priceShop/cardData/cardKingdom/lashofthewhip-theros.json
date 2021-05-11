@@ -1,0 +1,19 @@
+{
+  "name": "Lash of the Whip",
+  "lang": "",
+  "price": {
+    "nm": "0.25",
+    "ex": "0.20",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/theros/lash-of-the-whip-35568-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/theros/lash-of-the-whip-35568-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/theros/lash-of-the-whip",
+    "foil": ""
+  }
+}

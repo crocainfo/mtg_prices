@@ -1,0 +1,19 @@
+{
+  "name": "Inkmoth Nexus WMC Qualifier",
+  "lang": "",
+  "price": {
+    "nm": "29.99",
+    "ex": "25.49",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/promotional/inkmoth-nexus-wmc-qualifier-86712-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/promotional/inkmoth-nexus-wmc-qualifier-86712-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/promotional/inkmoth-nexus-wmc-qualifier",
+    "foil": ""
+  }
+}

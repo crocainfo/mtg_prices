@@ -1,0 +1,19 @@
+{
+  "name": "Grand Abolisher",
+  "lang": "",
+  "price": {
+    "nm": "29.99",
+    "ex": "25.49",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/2012-core-set/grand-abolisher-30157-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/2012-core-set/grand-abolisher-30157-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/2012-core-set/grand-abolisher",
+    "foil": ""
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "name": "Ogre Menial",
+  "lang": "",
+  "price": {
+    "nm": "0.25",
+    "ex": "0.20",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/new-phyrexia/ogre-menial-29503-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/new-phyrexia/ogre-menial-29503-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/new-phyrexia/ogre-menial",
+    "foil": ""
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "name": "Maddening Cacophony Promo Pack",
+  "lang": "",
+  "price": {
+    "nm": "2.49",
+    "ex": "1.99",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/promo-pack/maddening-cacophony-promo-pack-83007-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/promo-pack/maddening-cacophony-promo-pack-83007-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/promo-pack/maddening-cacophony-promo-pack",
+    "foil": ""
+  }
+}

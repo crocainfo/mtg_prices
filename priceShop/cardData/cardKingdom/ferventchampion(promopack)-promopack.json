@@ -1,0 +1,19 @@
+{
+  "name": "Fervent Champion Promo Pack",
+  "lang": "",
+  "price": {
+    "nm": "0.99",
+    "ex": "0.79",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/promo-pack-throne-of-eldraine/fervent-champion-promo-pack-24363-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/promo-pack-throne-of-eldraine/fervent-champion-promo-pack-24363-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/promo-pack/fervent-champion-promo-pack",
+    "foil": ""
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "name": "Glittering Lynx",
+  "lang": "",
+  "price": {
+    "nm": "0.25",
+    "ex": "0.20",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/prophecy/glittering-lynx-4860-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/prophecy/glittering-lynx-4860-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/prophecy/glittering-lynx",
+    "foil": ""
+  }
+}

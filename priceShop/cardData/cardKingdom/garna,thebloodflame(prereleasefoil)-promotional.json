@@ -1,0 +1,19 @@
+{
+  "name": "Garna, the Bloodflame Prerelease Foil",
+  "lang": "",
+  "price": {
+    "nm": "0.99",
+    "ex": "0.79",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/promotional/garna-the-bloodflame-prerelease-foil-23021-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/promotional/garna-the-bloodflame-prerelease-foil-23021-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/promotional/garna-the-bloodflame-prerelease-foil",
+    "foil": ""
+  }
+}

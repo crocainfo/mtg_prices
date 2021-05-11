@@ -1,0 +1,19 @@
+{
+  "name": "Lightning Angel",
+  "lang": "",
+  "price": {
+    "nm": "0.59",
+    "ex": "0.47",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/timeshifted/lightning-angel-6925-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/timeshifted/lightning-angel-6925-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/timeshifted/lightning-angel",
+    "foil": ""
+  }
+}

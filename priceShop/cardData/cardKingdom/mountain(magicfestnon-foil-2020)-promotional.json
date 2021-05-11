@@ -1,0 +1,19 @@
+{
+  "name": "Mountain MagicFest Non-Foil - 2020",
+  "lang": "",
+  "price": {
+    "nm": "7.49",
+    "ex": "5.99",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/promotional/mountain-magicfest-non-foil-2020-54822-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/promotional/mountain-magicfest-non-foil-2020-54822-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/promotional/mountain-magicfest-non-foil-2020",
+    "foil": ""
+  }
+}

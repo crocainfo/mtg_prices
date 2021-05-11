@@ -1,0 +1,19 @@
+{
+  "name": "Godsire",
+  "lang": "",
+  "price": {
+    "nm": "11.99",
+    "ex": "9.59",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/shards-of-alara/godsire-69535-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/shards-of-alara/godsire-69535-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/shards-of-alara/godsire",
+    "foil": ""
+  }
+}

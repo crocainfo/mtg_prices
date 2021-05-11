@@ -1,0 +1,19 @@
+{
+  "name": "Kyoki, Sanity's Eclipse",
+  "lang": "",
+  "price": {
+    "nm": "1.49",
+    "ex": "1.19",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/betrayers-of-kamigawa/kyoki-sanitys-eclipse-35179-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/betrayers-of-kamigawa/kyoki-sanitys-eclipse-35179-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/betrayers-of-kamigawa/kyoki-sanitys-eclipse",
+    "foil": ""
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "name": "Raise Dead",
+  "lang": "",
+  "price": {
+    "nm": "1.49",
+    "ex": "1.19",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/unlimited/raise-dead-27397-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/unlimited/raise-dead-27397-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/unlimited/raise-dead",
+    "foil": ""
+  }
+}

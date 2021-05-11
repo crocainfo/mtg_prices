@@ -1,0 +1,19 @@
+{
+  "name": "Plains 333 C",
+  "lang": "",
+  "price": {
+    "nm": "1.99",
+    "ex": "1.59",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/odyssey/plains-333-37458-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/odyssey/plains-333-37458-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/odyssey/plains-333-c",
+    "foil": ""
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "name": "Holy Strength",
+  "lang": "",
+  "price": {
+    "nm": "0.25",
+    "ex": "0.20",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/5th-edition/holy-strength-13677-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/5th-edition/holy-strength-13677-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/5th-edition/holy-strength",
+    "foil": ""
+  }
+}

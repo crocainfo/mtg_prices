@@ -1,0 +1,19 @@
+{
+  "name": "Mastery of the Unseen Ugin's Fate",
+  "lang": "",
+  "price": {
+    "nm": "2.99",
+    "ex": "2.39",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/promotional/mastery-of-the-unseen-ugins-fate-promo-42843-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/promotional/mastery-of-the-unseen-ugins-fate-promo-42843-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/promotional/mastery-of-the-unseen-ugins-fate",
+    "foil": ""
+  }
+}

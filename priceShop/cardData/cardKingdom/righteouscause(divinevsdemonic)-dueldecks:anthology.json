@@ -1,0 +1,19 @@
+{
+  "name": "Righteous Cause Divine vs Demonic",
+  "lang": "",
+  "price": {
+    "nm": "0.39",
+    "ex": "0.31",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/duel-decks-anthology/righteous-cause-divine-vs-demonic-43249-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/duel-decks-anthology/righteous-cause-divine-vs-demonic-43249-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/duel-decks-anthology/righteous-cause-divine-vs-demonic",
+    "foil": ""
+  }
+}

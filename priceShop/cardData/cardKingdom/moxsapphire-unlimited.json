@@ -1,0 +1,19 @@
+{
+  "name": "Mox Sapphire",
+  "lang": "",
+  "price": {
+    "nm": "9999.99",
+    "ex": "7999.99",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/unlimited/mox-sapphire-59937-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/unlimited/mox-sapphire-59937-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/unlimited/mox-sapphire",
+    "foil": ""
+  }
+}

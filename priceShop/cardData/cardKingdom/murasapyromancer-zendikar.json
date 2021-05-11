@@ -1,0 +1,19 @@
+{
+  "name": "Murasa Pyromancer",
+  "lang": "",
+  "price": {
+    "nm": "0.25",
+    "ex": "0.20",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/zendikar/murasa-pyromancer-15238-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/zendikar/murasa-pyromancer-15238-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/zendikar/murasa-pyromancer",
+    "foil": ""
+  }
+}

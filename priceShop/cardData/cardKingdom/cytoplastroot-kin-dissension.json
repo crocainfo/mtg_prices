@@ -1,0 +1,19 @@
+{
+  "name": "Cytoplast Root-Kin",
+  "lang": "",
+  "price": {
+    "nm": "0.49",
+    "ex": "0.39",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/dissension/cytoplast-root-kin-42288-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/dissension/cytoplast-root-kin-42288-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/dissension/cytoplast-root-kin",
+    "foil": ""
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "name": "Vulturous Zombie",
+  "lang": "",
+  "price": {
+    "nm": "0.49",
+    "ex": "0.39",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/ravnica/vulturous-zombie-20502-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/ravnica/vulturous-zombie-20502-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/ravnica/vulturous-zombie",
+    "foil": ""
+  }
+}

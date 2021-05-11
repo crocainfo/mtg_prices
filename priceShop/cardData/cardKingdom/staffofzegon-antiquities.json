@@ -1,0 +1,19 @@
+{
+  "name": "Staff of Zegon",
+  "lang": "",
+  "price": {
+    "nm": "1.49",
+    "ex": "1.19",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/antiquities/staff-of-zegon-26619-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/antiquities/staff-of-zegon-26619-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/antiquities/staff-of-zegon",
+    "foil": ""
+  }
+}

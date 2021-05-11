@@ -1,0 +1,19 @@
+{
+  "name": "Gonti, Lord of Luxury Promo Pack",
+  "lang": "",
+  "price": {
+    "nm": "0.99",
+    "ex": "0.79",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/promo-pack/gonti-lord-of-luxury-promo-pack-54594-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/promo-pack/gonti-lord-of-luxury-promo-pack-54594-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/promo-pack/gonti-lord-of-luxury-promo-pack",
+    "foil": ""
+  }
+}

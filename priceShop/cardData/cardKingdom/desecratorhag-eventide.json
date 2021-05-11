@@ -1,0 +1,19 @@
+{
+  "name": "Desecrator Hag",
+  "lang": "",
+  "price": {
+    "nm": "0.25",
+    "ex": "0.20",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/eventide/desecrator-hag-7803-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/eventide/desecrator-hag-7803-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/eventide/desecrator-hag",
+    "foil": ""
+  }
+}

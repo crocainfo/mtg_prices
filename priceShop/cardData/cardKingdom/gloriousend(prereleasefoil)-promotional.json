@@ -1,0 +1,19 @@
+{
+  "name": "Glorious End Prerelease Foil",
+  "lang": "",
+  "price": {
+    "nm": "4.99",
+    "ex": "3.99",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/promotional/glorious-end-prerelease-foil-24459-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/promotional/glorious-end-prerelease-foil-24459-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/promotional/glorious-end-prerelease-foil",
+    "foil": ""
+  }
+}

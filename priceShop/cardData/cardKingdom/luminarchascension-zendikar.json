@@ -1,0 +1,19 @@
+{
+  "name": "Luminarch Ascension",
+  "lang": "",
+  "price": {
+    "nm": "12.99",
+    "ex": "10.39",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/zendikar/luminarch-ascension-9094-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/zendikar/luminarch-ascension-9094-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/zendikar/luminarch-ascension",
+    "foil": ""
+  }
+}

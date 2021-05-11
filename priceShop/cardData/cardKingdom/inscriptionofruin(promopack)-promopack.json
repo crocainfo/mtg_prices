@@ -1,0 +1,19 @@
+{
+  "name": "Inscription of Ruin Promo Pack",
+  "lang": "",
+  "price": {
+    "nm": "0.25",
+    "ex": "0.20",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/promo-pack/inscription-of-ruin-promo-pack-14068-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/promo-pack/inscription-of-ruin-promo-pack-14068-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/promo-pack/inscription-of-ruin-promo-pack",
+    "foil": ""
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "name": "Akiri, Fearless Voyager Promo Pack",
+  "lang": "",
+  "price": {
+    "nm": "0.29",
+    "ex": "0.23",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/promo-pack/akiri-fearless-voyager-promo-pack-42387-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/promo-pack/akiri-fearless-voyager-promo-pack-42387-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/promo-pack/akiri-fearless-voyager-promo-pack",
+    "foil": ""
+  }
+}

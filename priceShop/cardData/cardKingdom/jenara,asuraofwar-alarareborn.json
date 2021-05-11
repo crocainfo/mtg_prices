@@ -1,0 +1,19 @@
+{
+  "name": "Jenara, Asura of War",
+  "lang": "",
+  "price": {
+    "nm": "3.99",
+    "ex": "3.19",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/alara-reborn/jenara-asura-of-war-22931-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/alara-reborn/jenara-asura-of-war-22931-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/alara-reborn/jenara-asura-of-war",
+    "foil": ""
+  }
+}

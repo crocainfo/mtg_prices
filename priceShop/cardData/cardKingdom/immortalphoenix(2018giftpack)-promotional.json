@@ -1,0 +1,19 @@
+{
+  "name": "Immortal Phoenix 2018 Gift Pack",
+  "lang": "",
+  "price": {
+    "nm": "0.49",
+    "ex": "0.39",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/promotional/immortal-phoenix-2018-gift-pack-71485-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/promotional/immortal-phoenix-2018-gift-pack-71485-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/promotional/immortal-phoenix-2018-gift-pack",
+    "foil": ""
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "name": "Extus, Oriq Overlord Extended Art",
+  "lang": "",
+  "price": {
+    "nm": "11.99",
+    "ex": "9.59",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/strixhaven-school-of-mages-variants/extus-oriq-overlord-extended-art-64969-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/strixhaven-school-of-mages-variants/extus-oriq-overlord-extended-art-64969-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/strixhaven-school-of-mages-variants/extus-oriq-overlord-extended-art",
+    "foil": ""
+  }
+}

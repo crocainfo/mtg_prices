@@ -1,0 +1,19 @@
+{
+  "name": "Sage of Hours",
+  "lang": "",
+  "price": {
+    "nm": "4.49",
+    "ex": "3.59",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/journey-into-nyx/sage-of-hours-39326-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/journey-into-nyx/sage-of-hours-39326-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/journey-into-nyx/sage-of-hours",
+    "foil": ""
+  }
+}

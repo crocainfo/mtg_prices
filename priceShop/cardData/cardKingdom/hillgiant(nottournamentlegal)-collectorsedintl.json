@@ -1,0 +1,19 @@
+{
+  "name": "Hill Giant Not Tournament Legal",
+  "lang": "",
+  "price": {
+    "nm": "2.99",
+    "ex": "2.39",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/collectors-ed-intl/hill-giant-not-tournament-legal-13145-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/collectors-ed-intl/hill-giant-not-tournament-legal-13145-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/collectors-ed-intl/hill-giant-not-tournament-legal",
+    "foil": ""
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "name": "Dragonskull Summit Prerelease Foil",
+  "lang": "",
+  "price": {
+    "nm": "12.99",
+    "ex": "10.39",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/promotional/dragonskull-summit-prerelease-foil-62210-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/promotional/dragonskull-summit-prerelease-foil-62210-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/promotional/dragonskull-summit-prerelease-foil",
+    "foil": ""
+  }
+}

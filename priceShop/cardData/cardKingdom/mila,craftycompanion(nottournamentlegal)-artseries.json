@@ -1,0 +1,19 @@
+{
+  "name": "Mila, Crafty Companion Not Tournament Legal",
+  "lang": "",
+  "price": {
+    "nm": "0.25",
+    "ex": "0.20",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/art-series/mila-crafty-companion-not-tournament-legal-29173-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/art-series/mila-crafty-companion-not-tournament-legal-29173-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/art-series/mila-crafty-companion-not-tournament-legal",
+    "foil": ""
+  }
+}

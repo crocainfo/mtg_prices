@@ -1,0 +1,19 @@
+{
+  "name": "Avacyn, Angel of Hope Judge Foil",
+  "lang": "",
+  "price": {
+    "nm": "149.99",
+    "ex": "134.99",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/promotional/avacyn-angel-of-hope-judge-foil-61679-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/promotional/avacyn-angel-of-hope-judge-foil-61679-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/promotional/avacyn-angel-of-hope-judge-foil",
+    "foil": ""
+  }
+}

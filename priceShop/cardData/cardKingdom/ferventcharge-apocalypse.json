@@ -1,0 +1,19 @@
+{
+  "name": "Fervent Charge",
+  "lang": "",
+  "price": {
+    "nm": "0.99",
+    "ex": "0.79",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/apocalypse/fervent-charge-20332-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/apocalypse/fervent-charge-20332-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/apocalypse/fervent-charge",
+    "foil": ""
+  }
+}

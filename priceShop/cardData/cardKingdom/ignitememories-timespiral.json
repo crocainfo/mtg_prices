@@ -1,0 +1,19 @@
+{
+  "name": "Ignite Memories",
+  "lang": "",
+  "price": {
+    "nm": "0.49",
+    "ex": "0.39",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/time-spiral/ignite-memories-60851-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/time-spiral/ignite-memories-60851-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/time-spiral/ignite-memories",
+    "foil": ""
+  }
+}

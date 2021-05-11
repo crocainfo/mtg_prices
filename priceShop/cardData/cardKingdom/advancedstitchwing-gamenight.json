@@ -1,0 +1,19 @@
+{
+  "name": "Advanced Stitchwing",
+  "lang": "",
+  "price": {
+    "nm": "0.29",
+    "ex": "0.23",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/game-night/game-night-31473-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/game-night/game-night-31473-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/game-night/advanced-stitchwing",
+    "foil": ""
+  }
+}

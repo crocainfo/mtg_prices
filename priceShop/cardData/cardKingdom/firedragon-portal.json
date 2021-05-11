@@ -1,0 +1,19 @@
+{
+  "name": "Fire Dragon",
+  "lang": "",
+  "price": {
+    "nm": "6.49",
+    "ex": "5.19",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/portal/fire-dragon-15031-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/portal/fire-dragon-15031-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/portal/fire-dragon",
+    "foil": ""
+  }
+}

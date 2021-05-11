@@ -1,0 +1,19 @@
+{
+  "name": "Razor Pendulum",
+  "lang": "",
+  "price": {
+    "nm": "1.79",
+    "ex": "1.43",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/mirage/razor-pendulum-9286-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/mirage/razor-pendulum-9286-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/mirage/razor-pendulum",
+    "foil": ""
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "name": "Staff of Domination",
+  "lang": "",
+  "price": {
+    "nm": "14.99",
+    "ex": "11.99",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/fifth-dawn/staff-of-domination-58382-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/fifth-dawn/staff-of-domination-58382-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/fifth-dawn/staff-of-domination",
+    "foil": ""
+  }
+}

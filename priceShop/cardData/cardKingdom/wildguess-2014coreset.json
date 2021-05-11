@@ -1,0 +1,19 @@
+{
+  "name": "Wild Guess",
+  "lang": "",
+  "price": {
+    "nm": "0.25",
+    "ex": "0.20",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/2014-core-set/wild-guess-34827-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/2014-core-set/wild-guess-34827-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/2014-core-set/wild-guess",
+    "foil": ""
+  }
+}

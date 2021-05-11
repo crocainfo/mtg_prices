@@ -1,0 +1,19 @@
+{
+  "name": "Hurloon Minotaur",
+  "lang": "",
+  "price": {
+    "nm": "79.99 ",
+    "ex": "63.99",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/alpha/hurloon-minotaur-4801-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/alpha/hurloon-minotaur-4801-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/alpha/hurloon-minotaur",
+    "foil": ""
+  }
+}

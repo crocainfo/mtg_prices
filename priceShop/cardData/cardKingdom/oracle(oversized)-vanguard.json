@@ -1,0 +1,19 @@
+{
+  "name": "Oracle Oversized",
+  "lang": "",
+  "price": {
+    "nm": "39.99",
+    "ex": "33.99",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/vanguard/oracle-oversized-65731-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/vanguard/oracle-oversized-65731-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/vanguard/oracle-oversized",
+    "foil": ""
+  }
+}

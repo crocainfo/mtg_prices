@@ -1,0 +1,19 @@
+{
+  "name": "Blinking Spirit",
+  "lang": "",
+  "price": {
+    "nm": "0.35",
+    "ex": "0.28",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/9th-edition/blinking-spirit-25479-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/9th-edition/blinking-spirit-25479-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/9th-edition/blinking-spirit",
+    "foil": ""
+  }
+}

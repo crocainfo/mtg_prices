@@ -1,0 +1,19 @@
+{
+  "name": "Aegis of the Gods",
+  "lang": "",
+  "price": {
+    "nm": "2.49",
+    "ex": "1.99",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/journey-into-nyx/aegis-of-the-gods-39425-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/journey-into-nyx/aegis-of-the-gods-39425-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/journey-into-nyx/aegis-of-the-gods",
+    "foil": ""
+  }
+}

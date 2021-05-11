@@ -1,0 +1,19 @@
+{
+  "name": "Hawkeater Moth",
+  "lang": "",
+  "price": {
+    "nm": "0.25 ",
+    "ex": "0.20",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/urzas-saga/hawkeater-moth-10151-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/urzas-saga/hawkeater-moth-10151-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/urzas-saga/hawkeater-moth",
+    "foil": ""
+  }
+}

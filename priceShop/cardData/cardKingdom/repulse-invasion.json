@@ -1,0 +1,19 @@
+{
+  "name": "Repulse",
+  "lang": "",
+  "price": {
+    "nm": "0.25",
+    "ex": "0.20",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/invasion/repulse-28580-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/invasion/repulse-28580-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/invasion/repulse",
+    "foil": ""
+  }
+}

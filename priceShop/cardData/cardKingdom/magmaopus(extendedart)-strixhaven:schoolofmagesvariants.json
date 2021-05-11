@@ -1,0 +1,19 @@
+{
+  "name": "Magma Opus Extended Art",
+  "lang": "",
+  "price": {
+    "nm": "5.99",
+    "ex": "4.79",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/strixhaven-school-of-mages-variants/magma-opus-extended-art-64207-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/strixhaven-school-of-mages-variants/magma-opus-extended-art-64207-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/strixhaven-school-of-mages-variants/magma-opus-extended-art",
+    "foil": ""
+  }
+}

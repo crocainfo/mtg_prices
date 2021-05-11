@@ -1,0 +1,19 @@
+{
+  "name": "Kozilek, Butcher of Truth",
+  "lang": "",
+  "price": {
+    "nm": "199.99",
+    "ex": "179.99",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/ultimate-box-topper/kozilek-butcher-of-truth-70687-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/ultimate-box-topper/kozilek-butcher-of-truth-70687-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/ultimate-box-topper/kozilek-butcher-of-truth",
+    "foil": ""
+  }
+}

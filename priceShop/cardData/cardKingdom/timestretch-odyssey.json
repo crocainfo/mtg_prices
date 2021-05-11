@@ -1,0 +1,19 @@
+{
+  "name": "Time Stretch",
+  "lang": "",
+  "price": {
+    "nm": "22.99",
+    "ex": "19.54",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/odyssey/time-stretch-19580-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/odyssey/time-stretch-19580-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/odyssey/time-stretch",
+    "foil": ""
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "name": "Damping Sphere",
+  "lang": "",
+  "price": {
+    "nm": "2.49",
+    "ex": "1.99",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/dominaria/damping-sphere-84789-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/dominaria/damping-sphere-84789-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/dominaria/damping-sphere",
+    "foil": ""
+  }
+}

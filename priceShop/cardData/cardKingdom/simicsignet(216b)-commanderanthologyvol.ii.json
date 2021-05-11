@@ -1,0 +1,19 @@
+{
+  "name": "Simic Signet 216 B",
+  "lang": "",
+  "price": {
+    "nm": "0.69",
+    "ex": "0.55",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/commander-anthology-vol-ii/simic-signet-216-b-69627-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/commander-anthology-vol-ii/simic-signet-216-b-69627-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/commander-anthology-vol-ii/simic-signet-216-b",
+    "foil": ""
+  }
+}

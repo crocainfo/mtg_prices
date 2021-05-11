@@ -1,0 +1,19 @@
+{
+  "name": "Noxious Gearhulk Prerelease Foil",
+  "lang": "",
+  "price": {
+    "nm": "14.99",
+    "ex": "11.99",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/promotional/noxious-gearhulk-prerelease-foil-57160-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/promotional/noxious-gearhulk-prerelease-foil-57160-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/promotional/noxious-gearhulk-prerelease-foil",
+    "foil": ""
+  }
+}

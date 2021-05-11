@@ -1,0 +1,19 @@
+{
+  "name": "Dragon Mage",
+  "lang": "",
+  "price": {
+    "nm": "2.29",
+    "ex": "1.83",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/scourge/dragon-mage-25666-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/scourge/dragon-mage-25666-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/scourge/dragon-mage",
+    "foil": ""
+  }
+}

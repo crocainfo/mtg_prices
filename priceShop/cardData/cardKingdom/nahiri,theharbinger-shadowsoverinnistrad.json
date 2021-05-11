@@ -1,0 +1,19 @@
+{
+  "name": "Nahiri, the Harbinger",
+  "lang": "",
+  "price": {
+    "nm": "1.49",
+    "ex": "1.19",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/shadows-over-innistrad/nahiri-the-harbinger-74938-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/shadows-over-innistrad/nahiri-the-harbinger-74938-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/shadows-over-innistrad/nahiri-the-harbinger",
+    "foil": ""
+  }
+}

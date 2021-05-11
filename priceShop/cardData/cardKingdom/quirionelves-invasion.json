@@ -1,0 +1,19 @@
+{
+  "name": "Quirion Elves",
+  "lang": "",
+  "price": {
+    "nm": "0.29",
+    "ex": "0.23",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/invasion/quirion-elves-66524-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/invasion/quirion-elves-66524-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/invasion/quirion-elves",
+    "foil": ""
+  }
+}

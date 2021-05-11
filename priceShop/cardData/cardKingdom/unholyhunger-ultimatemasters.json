@@ -1,0 +1,19 @@
+{
+  "name": "Unholy Hunger",
+  "lang": "",
+  "price": {
+    "nm": "0.25",
+    "ex": "0.20",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/ultimate-masters/ultimate-masters-13596-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/ultimate-masters/ultimate-masters-13596-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/ultimate-masters/unholy-hunger",
+    "foil": ""
+  }
+}

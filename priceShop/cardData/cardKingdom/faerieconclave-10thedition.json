@@ -1,0 +1,19 @@
+{
+  "name": "Faerie Conclave",
+  "lang": "",
+  "price": {
+    "nm": "1.29",
+    "ex": "1.03",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/10th-edition/faerie-conclave-1255-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/10th-edition/faerie-conclave-1255-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/10th-edition/faerie-conclave",
+    "foil": ""
+  }
+}

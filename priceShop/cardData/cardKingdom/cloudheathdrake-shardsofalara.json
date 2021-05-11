@@ -1,0 +1,19 @@
+{
+  "name": "Cloudheath Drake",
+  "lang": "",
+  "price": {
+    "nm": "0.25",
+    "ex": "0.20",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/shards-of-alara/cloudheath-drake-24855-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/shards-of-alara/cloudheath-drake-24855-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/shards-of-alara/cloudheath-drake",
+    "foil": ""
+  }
+}

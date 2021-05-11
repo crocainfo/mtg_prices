@@ -1,0 +1,19 @@
+{
+  "name": "Skirk Prospector",
+  "lang": "",
+  "price": {
+    "nm": "0.25",
+    "ex": "0.20",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/dominaria/skirk-prospector-43400-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/dominaria/skirk-prospector-43400-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/dominaria/skirk-prospector",
+    "foil": ""
+  }
+}

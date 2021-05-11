@@ -1,0 +1,19 @@
+{
+  "name": "Dragon Broodmother Prerelease Foil",
+  "lang": "",
+  "price": {
+    "nm": "9.99",
+    "ex": "7.99",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/promotional/dragon-broodmother-prerelease-foil-79373-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/promotional/dragon-broodmother-prerelease-foil-79373-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/promotional/dragon-broodmother-prerelease-foil",
+    "foil": ""
+  }
+}

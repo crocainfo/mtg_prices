@@ -1,0 +1,19 @@
+{
+  "name": "Cosmos Elixir Extended Art",
+  "lang": "",
+  "price": {
+    "nm": "2.99",
+    "ex": "2.39",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/kaldheim-variants/cosmos-elixir-extended-art-34581-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/kaldheim-variants/cosmos-elixir-extended-art-34581-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/kaldheim-variants/cosmos-elixir-extended-art",
+    "foil": ""
+  }
+}

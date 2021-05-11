@@ -1,0 +1,19 @@
+{
+  "name": "Goblin Soldier Token Red/White",
+  "lang": "",
+  "price": {
+    "nm": "0.39",
+    "ex": "0.31",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/eternal-masters/goblin-soldier-token-red-white-49338-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/eternal-masters/goblin-soldier-token-red-white-49338-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/eternal-masters/goblin-soldier-token-red-white",
+    "foil": ""
+  }
+}

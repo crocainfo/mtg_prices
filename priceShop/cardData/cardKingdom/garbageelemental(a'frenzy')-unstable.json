@@ -1,0 +1,19 @@
+{
+  "name": "Garbage Elemental A 'Frenzy'",
+  "lang": "",
+  "price": {
+    "nm": "0.39",
+    "ex": "0.31",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/unstable/garbage-elemental-98286-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/unstable/garbage-elemental-98286-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/unstable/garbage-elemental-a-frenzy",
+    "foil": ""
+  }
+}

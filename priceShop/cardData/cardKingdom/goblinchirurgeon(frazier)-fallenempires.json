@@ -1,0 +1,19 @@
+{
+  "name": "Goblin Chirurgeon Frazier",
+  "lang": "",
+  "price": {
+    "nm": "0.35",
+    "ex": "0.28",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/fallen-empires/goblin-chirurgeon-foglio-83331-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/fallen-empires/goblin-chirurgeon-foglio-83331-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/fallen-empires/goblin-chirurgeon-frazier",
+    "foil": ""
+  }
+}

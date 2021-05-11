@@ -1,0 +1,19 @@
+{
+  "name": "Mountain 068",
+  "lang": "",
+  "price": {
+    "nm": "1.49",
+    "ex": "1.19",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/jumpstart/mountain-068-86359-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/jumpstart/mountain-068-86359-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/jumpstart/mountain-068",
+    "foil": ""
+  }
+}

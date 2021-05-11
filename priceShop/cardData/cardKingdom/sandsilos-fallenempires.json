@@ -1,0 +1,19 @@
+{
+  "name": "Sand Silos",
+  "lang": "",
+  "price": {
+    "nm": "0.49",
+    "ex": "0.39",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/fallen-empires/sand-silos-67875-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/fallen-empires/sand-silos-67875-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/fallen-empires/sand-silos",
+    "foil": ""
+  }
+}

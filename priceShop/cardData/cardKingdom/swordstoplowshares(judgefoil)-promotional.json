@@ -1,0 +1,19 @@
+{
+  "name": "Swords to Plowshares Judge Foil",
+  "lang": "",
+  "price": {
+    "nm": "64.99",
+    "ex": "55.24",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/promotional/swords-to-plowshares-judge-foil-67767-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/promotional/swords-to-plowshares-judge-foil-67767-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/promotional/swords-to-plowshares-judge-foil",
+    "foil": ""
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "name": "Breath of Darigaaz",
+  "lang": "",
+  "price": {
+    "nm": "0.25",
+    "ex": "0.20",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/commander/breath-of-darigaaz-29685-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/commander/breath-of-darigaaz-29685-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/commander/breath-of-darigaaz",
+    "foil": ""
+  }
+}

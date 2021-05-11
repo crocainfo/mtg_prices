@@ -1,0 +1,19 @@
+{
+  "name": "Sylvan Library",
+  "lang": "",
+  "price": {
+    "nm": "49.99",
+    "ex": "42.49",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/eternal-masters/sylvan-library-42680-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/eternal-masters/sylvan-library-42680-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/eternal-masters/sylvan-library",
+    "foil": ""
+  }
+}

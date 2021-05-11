@@ -1,0 +1,19 @@
+{
+  "name": "Scattering Stroke",
+  "lang": "",
+  "price": {
+    "nm": "0.25",
+    "ex": "0.20",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/commander/scattering-stroke-93183-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/commander/scattering-stroke-93183-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/commander/scattering-stroke",
+    "foil": ""
+  }
+}

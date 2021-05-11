@@ -1,0 +1,19 @@
+{
+  "name": "Festercreep",
+  "lang": "",
+  "price": {
+    "nm": "0.25",
+    "ex": "0.20",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/morningtide/festercreep-473-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/morningtide/festercreep-473-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/morningtide/festercreep",
+    "foil": ""
+  }
+}

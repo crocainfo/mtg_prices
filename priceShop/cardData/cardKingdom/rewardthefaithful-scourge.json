@@ -1,0 +1,19 @@
+{
+  "name": "Reward the Faithful",
+  "lang": "",
+  "price": {
+    "nm": "0.25",
+    "ex": "0.20",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/scourge/reward-the-faithful-8913-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/scourge/reward-the-faithful-8913-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/scourge/reward-the-faithful",
+    "foil": ""
+  }
+}

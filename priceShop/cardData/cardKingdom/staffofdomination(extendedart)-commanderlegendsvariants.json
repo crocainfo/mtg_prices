@@ -1,0 +1,19 @@
+{
+  "name": "Staff of Domination Extended Art",
+  "lang": "",
+  "price": {
+    "nm": "6.49",
+    "ex": "5.19",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/commander-legends-variants/staff-of-domination-extended-art-31298-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/commander-legends-variants/staff-of-domination-extended-art-31298-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/commander-legends-variants/staff-of-domination-extended-art",
+    "foil": ""
+  }
+}

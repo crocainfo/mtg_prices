@@ -1,0 +1,19 @@
+{
+  "name": "Fleetfoot Panther",
+  "lang": "",
+  "price": {
+    "nm": "2.29",
+    "ex": "1.83",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/duel-decks-ajani-vs-nicol-bolas/fleetfoot-panther-30314-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/duel-decks-ajani-vs-nicol-bolas/fleetfoot-panther-30314-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/duel-decks-ajani-vs-nicol-bolas/fleetfoot-panther",
+    "foil": ""
+  }
+}

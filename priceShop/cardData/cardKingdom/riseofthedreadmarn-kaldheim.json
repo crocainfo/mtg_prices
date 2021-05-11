@@ -1,0 +1,19 @@
+{
+  "name": "Rise of the Dread Marn",
+  "lang": "",
+  "price": {
+    "nm": "1.29",
+    "ex": "1.03",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/kaldheim/rise-of-the-dread-marn-92659-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/kaldheim/rise-of-the-dread-marn-92659-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/kaldheim/rise-of-the-dread-marn",
+    "foil": ""
+  }
+}

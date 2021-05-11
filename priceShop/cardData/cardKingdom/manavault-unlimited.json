@@ -1,0 +1,19 @@
+{
+  "name": "Mana Vault",
+  "lang": "",
+  "price": {
+    "nm": "429.99",
+    "ex": "343.99",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/unlimited/mana-vault-31242-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/unlimited/mana-vault-31242-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/unlimited/mana-vault",
+    "foil": ""
+  }
+}

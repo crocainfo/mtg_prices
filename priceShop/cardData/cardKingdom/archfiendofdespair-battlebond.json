@@ -1,0 +1,19 @@
+{
+  "name": "Archfiend of Despair",
+  "lang": "",
+  "price": {
+    "nm": "44.99",
+    "ex": "38.24",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/battlebond/archfiend-of-despair-15217-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/battlebond/archfiend-of-despair-15217-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/battlebond/archfiend-of-despair",
+    "foil": ""
+  }
+}

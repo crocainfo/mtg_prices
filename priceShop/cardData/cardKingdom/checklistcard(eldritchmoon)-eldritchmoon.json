@@ -1,0 +1,19 @@
+{
+  "name": "Checklist Card Eldritch Moon",
+  "lang": "",
+  "price": {
+    "nm": "0.25",
+    "ex": "0.20",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/eldritch-moon/checklist-card-eldritch-moon-95789-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/eldritch-moon/checklist-card-eldritch-moon-95789-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/eldritch-moon/checklist-card-eldritch-moon",
+    "foil": ""
+  }
+}

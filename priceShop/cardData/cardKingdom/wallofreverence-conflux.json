@@ -1,0 +1,19 @@
+{
+  "name": "Wall of Reverence",
+  "lang": "",
+  "price": {
+    "nm": "2.29",
+    "ex": "1.83",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/conflux/wall-of-reverence-12469-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/conflux/wall-of-reverence-12469-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/conflux/wall-of-reverence",
+    "foil": ""
+  }
+}

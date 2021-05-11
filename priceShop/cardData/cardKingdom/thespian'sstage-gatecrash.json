@@ -1,0 +1,19 @@
+{
+  "name": "Thespian's Stage",
+  "lang": "",
+  "price": {
+    "nm": "2.49",
+    "ex": "1.99",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/gatecrash/thespians-stage-32883-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/gatecrash/thespians-stage-32883-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/gatecrash/thespians-stage",
+    "foil": ""
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "name": "Paradox Engine",
+  "lang": "",
+  "price": {
+    "nm": "5.99",
+    "ex": "4.79",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/aether-revolt/paradox-engine-60463-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/aether-revolt/paradox-engine-60463-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/aether-revolt/paradox-engine",
+    "foil": ""
+  }
+}

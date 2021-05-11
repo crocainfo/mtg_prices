@@ -1,0 +1,19 @@
+{
+  "name": "Knight of the Kitchen Sink F - Tea Cozy",
+  "lang": "",
+  "price": {
+    "nm": "0.59",
+    "ex": "0.47",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/unstable/knight-of-the-kitchen-sink-tea-cozy-f-40025-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/unstable/knight-of-the-kitchen-sink-tea-cozy-f-40025-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/unstable/knight-of-the-kitchen-sink-f-tea-cozy",
+    "foil": ""
+  }
+}

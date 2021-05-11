@@ -1,0 +1,19 @@
+{
+  "name": "Folk Medicine",
+  "lang": "",
+  "price": {
+    "nm": "0.25",
+    "ex": "0.20",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/judgment/folk-medicine-27705-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/judgment/folk-medicine-27705-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/judgment/folk-medicine",
+    "foil": ""
+  }
+}

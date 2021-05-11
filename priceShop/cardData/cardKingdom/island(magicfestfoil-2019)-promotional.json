@@ -1,0 +1,19 @@
+{
+  "name": "Island MagicFest Foil - 2019",
+  "lang": "",
+  "price": {
+    "nm": "1.29",
+    "ex": "1.03",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/promotional/plains-magicfest-foil-37937-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/promotional/plains-magicfest-foil-37937-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/promotional/island-magicfest-foil-2019",
+    "foil": ""
+  }
+}

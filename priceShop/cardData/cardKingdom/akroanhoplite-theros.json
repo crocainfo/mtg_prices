@@ -1,0 +1,19 @@
+{
+  "name": "Akroan Hoplite",
+  "lang": "",
+  "price": {
+    "nm": "0.25",
+    "ex": "0.20",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/theros/akroan-hoplite-35666-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/theros/akroan-hoplite-35666-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/theros/akroan-hoplite",
+    "foil": ""
+  }
+}

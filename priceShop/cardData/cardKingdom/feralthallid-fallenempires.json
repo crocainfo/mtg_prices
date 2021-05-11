@@ -1,0 +1,19 @@
+{
+  "name": "Feral Thallid",
+  "lang": "",
+  "price": {
+    "nm": "0.25",
+    "ex": "0.20",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/fallen-empires/feral-thallid-3319-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/fallen-empires/feral-thallid-3319-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/fallen-empires/feral-thallid",
+    "foil": ""
+  }
+}

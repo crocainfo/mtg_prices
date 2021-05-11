@@ -1,0 +1,19 @@
+{
+  "name": "Nissa of Shadowed Boughs Promo Pack",
+  "lang": "",
+  "price": {
+    "nm": "2.99",
+    "ex": "2.39",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/promo-pack/nissa-of-shadowed-boughs-promo-pack-41569-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/promo-pack/nissa-of-shadowed-boughs-promo-pack-41569-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/promo-pack/nissa-of-shadowed-boughs-promo-pack",
+    "foil": ""
+  }
+}

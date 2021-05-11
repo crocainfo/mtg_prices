@@ -1,0 +1,19 @@
+{
+  "name": "Elvish Visionary FNM Foil",
+  "lang": "",
+  "price": {
+    "nm": "11.99",
+    "ex": "9.59 ",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/promotional/elvish-visionary-fnm-foil-28703-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/promotional/elvish-visionary-fnm-foil-28703-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/promotional/elvish-visionary-fnm-foil",
+    "foil": ""
+  }
+}

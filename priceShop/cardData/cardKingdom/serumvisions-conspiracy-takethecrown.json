@@ -1,0 +1,19 @@
+{
+  "name": "Serum Visions",
+  "lang": "",
+  "price": {
+    "nm": "1.99",
+    "ex": "1.59 ",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/conspiracy-take-the-crown/serum-visions-56087-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/conspiracy-take-the-crown/serum-visions-56087-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/conspiracy-take-the-crown/serum-visions",
+    "foil": ""
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "name": "Blood Moon",
+  "lang": "",
+  "price": {
+    "nm": "109.99",
+    "ex": "98.99",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/the-dark/blood-moon-15981-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/the-dark/blood-moon-15981-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/the-dark/blood-moon",
+    "foil": ""
+  }
+}

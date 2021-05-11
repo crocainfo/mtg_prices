@@ -1,0 +1,19 @@
+{
+  "name": "Inventors' Fair Prerelease Foil",
+  "lang": "",
+  "price": {
+    "nm": "37.99",
+    "ex": "32.29",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/promotional/inventors-fair-prerelease-foil-57147-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/promotional/inventors-fair-prerelease-foil-57147-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/promotional/inventors-fair-prerelease-foil",
+    "foil": ""
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "name": "Furnace of Rath",
+  "lang": "",
+  "price": {
+    "nm": "9.49",
+    "ex": "7.59",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/10th-edition/furnace-of-rath-5066-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/10th-edition/furnace-of-rath-5066-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/10th-edition/furnace-of-rath",
+    "foil": ""
+  }
+}

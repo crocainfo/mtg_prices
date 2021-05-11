@@ -1,0 +1,19 @@
+{
+  "name": "Hope of Ghirapur",
+  "lang": "",
+  "price": {
+    "nm": "1.49",
+    "ex": "1.19",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/aether-revolt/hope-of-ghirapur-86272-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/aether-revolt/hope-of-ghirapur-86272-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/aether-revolt/hope-of-ghirapur",
+    "foil": ""
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "name": "Orvar, the All-Form Promo Pack",
+  "lang": "",
+  "price": {
+    "nm": "9.99",
+    "ex": "7.99",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/promo-pack/orvar-the-all-form-promo-pack-46458-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/promo-pack/orvar-the-all-form-promo-pack-46458-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/promo-pack/orvar-the-all-form-promo-pack",
+    "foil": ""
+  }
+}

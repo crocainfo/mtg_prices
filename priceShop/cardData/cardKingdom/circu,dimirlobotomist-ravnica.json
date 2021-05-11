@@ -1,0 +1,19 @@
+{
+  "name": "Circu, Dimir Lobotomist",
+  "lang": "",
+  "price": {
+    "nm": "1.49",
+    "ex": "1.19",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/ravnica/circu-dimir-lobotomist-24713-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/ravnica/circu-dimir-lobotomist-24713-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/ravnica/circu-dimir-lobotomist",
+    "foil": ""
+  }
+}

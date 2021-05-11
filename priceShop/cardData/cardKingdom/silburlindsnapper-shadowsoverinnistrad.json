@@ -1,0 +1,19 @@
+{
+  "name": "Silburlind Snapper",
+  "lang": "",
+  "price": {
+    "nm": "0.25",
+    "ex": "0.20",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/shadows-over-innistrad/silburlind-snapper-48383-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/shadows-over-innistrad/silburlind-snapper-48383-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/shadows-over-innistrad/silburlind-snapper",
+    "foil": ""
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "name": "Wall of Dust",
+  "lang": "",
+  "price": {
+    "nm": "4.99",
+    "ex": "3.99",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/legends/wall-of-dust-5620-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/legends/wall-of-dust-5620-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/legends/wall-of-dust",
+    "foil": ""
+  }
+}

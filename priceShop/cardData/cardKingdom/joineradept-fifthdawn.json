@@ -1,0 +1,19 @@
+{
+  "name": "Joiner Adept",
+  "lang": "",
+  "price": {
+    "nm": "3.99",
+    "ex": "3.19",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/fifth-dawn/joiner-adept-12017-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/fifth-dawn/joiner-adept-12017-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/fifth-dawn/joiner-adept",
+    "foil": ""
+  }
+}

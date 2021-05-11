@@ -1,0 +1,19 @@
+{
+  "name": "Bonds of Faith",
+  "lang": "",
+  "price": {
+    "nm": "0.25",
+    "ex": "0.20",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/innistrad/bonds-of-faith-30472-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/innistrad/bonds-of-faith-30472-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/innistrad/bonds-of-faith",
+    "foil": ""
+  }
+}

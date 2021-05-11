@@ -1,0 +1,19 @@
+{
+  "name": "Joust",
+  "lang": "",
+  "price": {
+    "nm": "0.25",
+    "ex": "0.20",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/throne-of-eldraine/joust-97154-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/throne-of-eldraine/joust-97154-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/throne-of-eldraine/joust",
+    "foil": ""
+  }
+}

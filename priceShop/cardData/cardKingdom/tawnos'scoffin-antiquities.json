@@ -1,0 +1,19 @@
+{
+  "name": "Tawnos's Coffin",
+  "lang": "",
+  "price": {
+    "nm": "249.99",
+    "ex": "224.99",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/antiquities/tawnoss-coffin-22740-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/antiquities/tawnoss-coffin-22740-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/antiquities/tawnoss-coffin",
+    "foil": ""
+  }
+}

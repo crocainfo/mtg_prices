@@ -1,0 +1,19 @@
+{
+  "name": "Lim-Dul's High Guard Red Armor",
+  "lang": "",
+  "price": {
+    "nm": "0.25",
+    "ex": "0.20",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/alliances/lim-duls-high-guard-50383-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/alliances/lim-duls-high-guard-50383-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/alliances/lim-duls-high-guard-red-armor",
+    "foil": ""
+  }
+}

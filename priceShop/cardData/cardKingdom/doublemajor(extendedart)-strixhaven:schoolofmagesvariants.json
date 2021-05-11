@@ -1,0 +1,19 @@
+{
+  "name": "Double Major Extended Art",
+  "lang": "",
+  "price": {
+    "nm": "2.99",
+    "ex": "2.39",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/strixhaven-school-of-mages-variants/double-major-extended-art-50924-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/strixhaven-school-of-mages-variants/double-major-extended-art-50924-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/strixhaven-school-of-mages-variants/double-major-extended-art",
+    "foil": ""
+  }
+}

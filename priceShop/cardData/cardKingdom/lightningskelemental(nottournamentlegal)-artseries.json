@@ -1,0 +1,19 @@
+{
+  "name": "Lightning Skelemental Not Tournament Legal",
+  "lang": "",
+  "price": {
+    "nm": "0.25",
+    "ex": "0.20",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/art-series/lightning-skelemental-not-tournament-legal-63681-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/art-series/lightning-skelemental-not-tournament-legal-63681-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/art-series/lightning-skelemental-not-tournament-legal",
+    "foil": ""
+  }
+}

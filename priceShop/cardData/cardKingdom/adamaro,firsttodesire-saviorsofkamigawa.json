@@ -1,0 +1,19 @@
+{
+  "name": "Adamaro, First to Desire",
+  "lang": "",
+  "price": {
+    "nm": "1.49",
+    "ex": "1.19",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/saviors-of-kamigawa/adamaro-first-to-desire-286-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/saviors-of-kamigawa/adamaro-first-to-desire-286-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/saviors-of-kamigawa/adamaro-first-to-desire",
+    "foil": ""
+  }
+}

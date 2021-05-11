@@ -1,0 +1,19 @@
+{
+  "name": "Swamp 291 B",
+  "lang": "",
+  "price": {
+    "nm": "0.25",
+    "ex": "0.20",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/time-spiral/swamp-291-37120-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/time-spiral/swamp-291-37120-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/time-spiral/swamp-291-b",
+    "foil": ""
+  }
+}

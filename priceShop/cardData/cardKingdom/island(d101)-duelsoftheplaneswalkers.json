@@ -1,0 +1,19 @@
+{
+  "name": "Island D 101",
+  "lang": "",
+  "price": {
+    "nm": "0.25",
+    "ex": "0.20",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/duels-of-the-planeswalkers/island-101-38191-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/duels-of-the-planeswalkers/island-101-38191-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/duels-of-the-planeswalkers/island-d-101",
+    "foil": ""
+  }
+}

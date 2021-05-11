@@ -1,0 +1,19 @@
+{
+  "name": "Laccolith Titan",
+  "lang": "",
+  "price": {
+    "nm": "0.35",
+    "ex": "0.28",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/nemesis/laccolith-titan-28208-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/nemesis/laccolith-titan-28208-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/nemesis/laccolith-titan",
+    "foil": ""
+  }
+}

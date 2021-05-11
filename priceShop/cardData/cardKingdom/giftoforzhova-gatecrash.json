@@ -1,0 +1,19 @@
+{
+  "name": "Gift of Orzhova",
+  "lang": "",
+  "price": {
+    "nm": "0.25",
+    "ex": "0.20",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/gatecrash/gift-of-orzhova-33023-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/gatecrash/gift-of-orzhova-33023-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/gatecrash/gift-of-orzhova",
+    "foil": ""
+  }
+}

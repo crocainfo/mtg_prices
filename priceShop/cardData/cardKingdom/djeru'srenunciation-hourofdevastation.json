@@ -1,0 +1,19 @@
+{
+  "name": "Djeru's Renunciation",
+  "lang": "",
+  "price": {
+    "nm": "0.25",
+    "ex": "0.20",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/hour-of-devastation/djerus-renunciation-61109-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/hour-of-devastation/djerus-renunciation-61109-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/hour-of-devastation/djerus-renunciation",
+    "foil": ""
+  }
+}

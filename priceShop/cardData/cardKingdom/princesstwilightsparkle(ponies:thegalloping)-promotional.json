@@ -1,0 +1,19 @@
+{
+  "name": "Princess Twilight Sparkle Ponies: The Galloping",
+  "lang": "",
+  "price": {
+    "nm": "69.99",
+    "ex": "59.49",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/promotional/princess-twilight-sparkle-ponies-the-galloping-10992-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/promotional/princess-twilight-sparkle-ponies-the-galloping-10992-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/promotional/princess-twilight-sparkle-ponies-the-galloping",
+    "foil": ""
+  }
+}

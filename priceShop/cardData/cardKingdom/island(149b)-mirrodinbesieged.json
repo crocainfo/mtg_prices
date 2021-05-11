@@ -1,0 +1,19 @@
+{
+  "name": "Island 149 B",
+  "lang": "",
+  "price": {
+    "nm": "0.25",
+    "ex": "0.20",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/mirrodin-besieged/island-149-b-25889-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/mirrodin-besieged/island-149-b-25889-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/mirrodin-besieged/island-149-b",
+    "foil": ""
+  }
+}

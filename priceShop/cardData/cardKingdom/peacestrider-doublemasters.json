@@ -1,0 +1,19 @@
+{
+  "name": "Peace Strider",
+  "lang": "",
+  "price": {
+    "nm": "0.25",
+    "ex": "0.20",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/double-masters/peace-strider-79974-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/double-masters/peace-strider-79974-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/double-masters/peace-strider",
+    "foil": ""
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "name": "Poison-Tip Archer",
+  "lang": "",
+  "price": {
+    "nm": "1.29",
+    "ex": "1.03",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/core-set-2019/poison-tip-archer-27003-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/core-set-2019/poison-tip-archer-27003-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/core-set-2019/poison-tip-archer",
+    "foil": ""
+  }
+}

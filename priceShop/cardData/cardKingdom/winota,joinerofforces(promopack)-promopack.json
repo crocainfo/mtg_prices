@@ -1,0 +1,19 @@
+{
+  "name": "Winota, Joiner of Forces Promo Pack",
+  "lang": "",
+  "price": {
+    "nm": "7.99",
+    "ex": "6.39",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/promo-pack/winota-joiner-of-forces-promo-pack-66138-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/promo-pack/winota-joiner-of-forces-promo-pack-66138-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/promo-pack/winota-joiner-of-forces-promo-pack",
+    "foil": ""
+  }
+}

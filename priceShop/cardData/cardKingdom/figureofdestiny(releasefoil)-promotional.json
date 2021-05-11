@@ -1,0 +1,19 @@
+{
+  "name": "Figure of Destiny Release Foil",
+  "lang": "",
+  "price": {
+    "nm": "1.49",
+    "ex": "1.19",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/promotional/figure-of-destiny-release-foil-49501-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/promotional/figure-of-destiny-release-foil-49501-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/promotional/figure-of-destiny-release-foil",
+    "foil": ""
+  }
+}

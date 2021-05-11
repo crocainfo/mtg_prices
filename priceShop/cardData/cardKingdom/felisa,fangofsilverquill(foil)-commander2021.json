@@ -1,0 +1,19 @@
+{
+  "name": "Felisa, Fang of Silverquill Foil",
+  "lang": "",
+  "price": {
+    "nm": "1.49",
+    "ex": "1.19",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/commander-2021/felisa-fang-of-silverquill-foil-31241-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/commander-2021/felisa-fang-of-silverquill-foil-31241-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/commander-2021/felisa-fang-of-silverquill-foil",
+    "foil": ""
+  }
+}

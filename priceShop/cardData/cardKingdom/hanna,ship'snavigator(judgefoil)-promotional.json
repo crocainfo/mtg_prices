@@ -1,0 +1,19 @@
+{
+  "name": "Hanna, Ship's Navigator Judge Foil",
+  "lang": "",
+  "price": {
+    "nm": "27.99",
+    "ex": "23.79",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/promotional/hanna-ships-navigator-judge-foil-39873-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/promotional/hanna-ships-navigator-judge-foil-39873-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/promotional/hanna-ships-navigator-judge-foil",
+    "foil": ""
+  }
+}

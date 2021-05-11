@@ -1,0 +1,19 @@
+{
+  "name": "Veteran Explorer",
+  "lang": "",
+  "price": {
+    "nm": "0.39",
+    "ex": "0.31",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/weatherlight/veteran-explorer-58589-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/weatherlight/veteran-explorer-58589-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/weatherlight/veteran-explorer",
+    "foil": ""
+  }
+}

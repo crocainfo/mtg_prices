@@ -1,0 +1,19 @@
+{
+  "name": "Forest 381 B",
+  "lang": "",
+  "price": {
+    "nm": "0.25",
+    "ex": "0.20",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/10th-edition/forest-381-37374-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/10th-edition/forest-381-37374-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/10th-edition/forest-381-b",
+    "foil": ""
+  }
+}

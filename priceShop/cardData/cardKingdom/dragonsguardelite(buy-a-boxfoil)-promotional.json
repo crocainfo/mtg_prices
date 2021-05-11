@@ -1,0 +1,19 @@
+{
+  "name": "Dragonsguard Elite Buy-a-Box Foil",
+  "lang": "",
+  "price": {
+    "nm": "2.49",
+    "ex": "1.99",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/promotional/dragonsguard-elite-buy-a-box-foil-97544-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/promotional/dragonsguard-elite-buy-a-box-foil-97544-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/promotional/dragonsguard-elite-buy-a-box-foil",
+    "foil": ""
+  }
+}

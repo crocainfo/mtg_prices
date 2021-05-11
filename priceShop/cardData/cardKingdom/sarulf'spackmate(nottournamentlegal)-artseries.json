@@ -1,0 +1,19 @@
+{
+  "name": "Sarulf's Packmate Not Tournament Legal",
+  "lang": "",
+  "price": {
+    "nm": "0.25",
+    "ex": "0.20",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/art-series/sarulfs-packmate-not-tournament-legal-46429-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/art-series/sarulfs-packmate-not-tournament-legal-46429-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/art-series/sarulfs-packmate-not-tournament-legal",
+    "foil": ""
+  }
+}

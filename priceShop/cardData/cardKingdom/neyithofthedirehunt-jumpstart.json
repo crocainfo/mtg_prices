@@ -1,0 +1,19 @@
+{
+  "name": "Neyith of the Dire Hunt",
+  "lang": "",
+  "price": {
+    "nm": "5.49",
+    "ex": "4.39",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/jumpstart/neyith-of-the-dire-hunt-83909-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/jumpstart/neyith-of-the-dire-hunt-83909-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/jumpstart/neyith-of-the-dire-hunt",
+    "foil": ""
+  }
+}

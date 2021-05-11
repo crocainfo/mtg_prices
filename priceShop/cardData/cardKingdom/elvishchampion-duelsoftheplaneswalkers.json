@@ -1,0 +1,19 @@
+{
+  "name": "Elvish Champion",
+  "lang": "",
+  "price": {
+    "nm": "27.99",
+    "ex": "23.79",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/duels-of-the-planeswalkers/elvish-champion-17838-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/duels-of-the-planeswalkers/elvish-champion-17838-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/duels-of-the-planeswalkers/elvish-champion",
+    "foil": ""
+  }
+}

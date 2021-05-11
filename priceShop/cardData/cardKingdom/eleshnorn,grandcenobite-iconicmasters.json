@@ -1,0 +1,19 @@
+{
+  "name": "Elesh Norn, Grand Cenobite",
+  "lang": "",
+  "price": {
+    "nm": "29.99",
+    "ex": "25.49",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/iconic-masters/elesh-norn-grand-cenobite-62127-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/iconic-masters/elesh-norn-grand-cenobite-62127-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/iconic-masters/elesh-norn-grand-cenobite",
+    "foil": ""
+  }
+}

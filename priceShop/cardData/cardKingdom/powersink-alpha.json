@@ -1,0 +1,19 @@
+{
+  "name": "Power Sink",
+  "lang": "",
+  "price": {
+    "nm": "99.99",
+    "ex": "79.99",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/alpha/power-sink-74196-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/alpha/power-sink-74196-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/alpha/power-sink",
+    "foil": ""
+  }
+}

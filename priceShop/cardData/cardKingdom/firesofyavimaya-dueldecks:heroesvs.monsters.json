@@ -1,0 +1,19 @@
+{
+  "name": "Fires of Yavimaya",
+  "lang": "",
+  "price": {
+    "nm": "0.59",
+    "ex": "0.47",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/duel-decks-heroes-vs-monsters/fires-of-yavimaya-35029-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/duel-decks-heroes-vs-monsters/fires-of-yavimaya-35029-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/duel-decks-heroes-vs-monsters/fires-of-yavimaya",
+    "foil": ""
+  }
+}

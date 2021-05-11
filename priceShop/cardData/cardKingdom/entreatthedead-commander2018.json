@@ -1,0 +1,19 @@
+{
+  "name": "Entreat the Dead",
+  "lang": "",
+  "price": {
+    "nm": "1.49",
+    "ex": "1.19",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/commander-2018/entreat-the-dead-73651-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/commander-2018/entreat-the-dead-73651-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/commander-2018/entreat-the-dead",
+    "foil": ""
+  }
+}

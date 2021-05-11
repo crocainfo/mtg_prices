@@ -1,0 +1,19 @@
+{
+  "name": "Fire Elemental",
+  "lang": "",
+  "price": {
+    "nm": "399.99",
+    "ex": "319.99",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/alpha/fire-elemental-18864-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/alpha/fire-elemental-18864-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/alpha/fire-elemental",
+    "foil": ""
+  }
+}

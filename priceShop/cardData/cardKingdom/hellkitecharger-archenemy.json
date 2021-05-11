@@ -1,0 +1,19 @@
+{
+  "name": "Hellkite Charger",
+  "lang": "",
+  "price": {
+    "nm": "2.79",
+    "ex": "2.23",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/archenemy/hellkite-charger-27437-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/archenemy/hellkite-charger-27437-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/archenemy/hellkite-charger",
+    "foil": ""
+  }
+}

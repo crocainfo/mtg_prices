@@ -1,0 +1,19 @@
+{
+  "name": "Rakdos, the Showstopper Prerelease Foil",
+  "lang": "",
+  "price": {
+    "nm": "6.99",
+    "ex": "5.59",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/promotional/prerelease-foil-74788-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/promotional/prerelease-foil-74788-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/promotional/rakdos-the-showstopper-prerelease-foil",
+    "foil": ""
+  }
+}

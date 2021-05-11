@@ -1,0 +1,19 @@
+{
+  "name": "Slate of Ancestry",
+  "lang": "",
+  "price": {
+    "nm": "6.49",
+    "ex": "5.19",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/9th-edition/slate-of-ancestry-20002-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/9th-edition/slate-of-ancestry-20002-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/9th-edition/slate-of-ancestry",
+    "foil": ""
+  }
+}

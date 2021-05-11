@@ -1,0 +1,19 @@
+{
+  "name": "Noble Hierarch",
+  "lang": "",
+  "price": {
+    "nm": "18.99",
+    "ex": "16.14",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/ultimate-masters/noble-hierarch-12986-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/ultimate-masters/noble-hierarch-12986-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/ultimate-masters/noble-hierarch",
+    "foil": ""
+  }
+}

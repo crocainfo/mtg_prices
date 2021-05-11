@@ -1,0 +1,19 @@
+{
+  "name": "Quickling",
+  "lang": "",
+  "price": {
+    "nm": "0.49",
+    "ex": "0.39",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/2015-core-set/quickling-40456-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/2015-core-set/quickling-40456-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/2015-core-set/quickling",
+    "foil": ""
+  }
+}

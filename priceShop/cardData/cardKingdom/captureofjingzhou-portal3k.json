@@ -1,0 +1,19 @@
+{
+  "name": "Capture of Jingzhou",
+  "lang": "",
+  "price": {
+    "nm": "399.99",
+    "ex": "359.99",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/portal-3k/capture-of-jingzhou-42423-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/portal-3k/capture-of-jingzhou-42423-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/portal-3k/capture-of-jingzhou",
+    "foil": ""
+  }
+}

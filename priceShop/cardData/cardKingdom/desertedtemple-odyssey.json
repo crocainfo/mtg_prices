@@ -1,0 +1,19 @@
+{
+  "name": "Deserted Temple",
+  "lang": "",
+  "price": {
+    "nm": "69.99",
+    "ex": "59.49",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/odyssey/deserted-temple-31445-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/odyssey/deserted-temple-31445-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/odyssey/deserted-temple",
+    "foil": ""
+  }
+}

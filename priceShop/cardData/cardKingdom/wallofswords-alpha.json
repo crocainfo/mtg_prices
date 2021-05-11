@@ -1,0 +1,19 @@
+{
+  "name": "Wall of Swords",
+  "lang": "",
+  "price": {
+    "nm": "119.99",
+    "ex": "95.99",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/alpha/wall-of-swords-38792-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/alpha/wall-of-swords-38792-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/alpha/wall-of-swords",
+    "foil": ""
+  }
+}

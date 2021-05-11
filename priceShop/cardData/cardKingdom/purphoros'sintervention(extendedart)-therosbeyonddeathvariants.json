@@ -1,0 +1,19 @@
+{
+  "name": "Purphoros's Intervention Extended Art",
+  "lang": "",
+  "price": {
+    "nm": "0.49",
+    "ex": "0.39",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/theros-beyond-death-variants/purphoross-intervention-extended-art-56368-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/theros-beyond-death-variants/purphoross-intervention-extended-art-56368-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/theros-beyond-death-variants/purphoross-intervention-extended-art",
+    "foil": ""
+  }
+}

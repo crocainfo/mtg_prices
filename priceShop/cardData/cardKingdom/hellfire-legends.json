@@ -1,0 +1,19 @@
+{
+  "name": "Hellfire",
+  "lang": "",
+  "price": {
+    "nm": "169.99",
+    "ex": "152.99",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/legends/hellfire-99311-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/legends/hellfire-99311-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/legends/hellfire",
+    "foil": ""
+  }
+}

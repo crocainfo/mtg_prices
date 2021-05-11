@@ -1,0 +1,19 @@
+{
+  "name": "Touch and Go",
+  "lang": "",
+  "price": {
+    "nm": "0.25",
+    "ex": "0.20",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/unhinged/touch-and-go-64578-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/unhinged/touch-and-go-64578-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/unhinged/touch-and-go",
+    "foil": ""
+  }
+}

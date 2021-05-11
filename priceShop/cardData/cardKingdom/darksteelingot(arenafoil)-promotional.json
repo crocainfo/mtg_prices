@@ -1,0 +1,19 @@
+{
+  "name": "Darksteel Ingot Arena Foil",
+  "lang": "",
+  "price": {
+    "nm": "4.99",
+    "ex": "3.99",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/promotional/darksteel-ingot-arena-foil-44351-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/promotional/darksteel-ingot-arena-foil-44351-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/promotional/darksteel-ingot-arena-foil",
+    "foil": ""
+  }
+}

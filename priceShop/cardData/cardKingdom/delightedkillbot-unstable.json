@@ -1,0 +1,19 @@
+{
+  "name": "Delighted Killbot",
+  "lang": "",
+  "price": {
+    "nm": "0.25",
+    "ex": "0.20",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/unstable/delighted-killbot-98776-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/unstable/delighted-killbot-98776-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/unstable/delighted-killbot",
+    "foil": ""
+  }
+}

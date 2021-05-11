@@ -1,0 +1,19 @@
+{
+  "name": "Mountain MPS 2005 - Rakdos",
+  "lang": "",
+  "price": {
+    "nm": "10.99",
+    "ex": "8.79",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/promotional/mountain-mps-2005-rakdos-68167-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/promotional/mountain-mps-2005-rakdos-68167-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/promotional/mountain-mps-2005-rakdos",
+    "foil": ""
+  }
+}

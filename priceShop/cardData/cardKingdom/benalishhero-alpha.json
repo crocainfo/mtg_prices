@@ -1,0 +1,19 @@
+{
+  "name": "Benalish Hero",
+  "lang": "",
+  "price": {
+    "nm": "49.99",
+    "ex": "39.99",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/alpha/benalish-hero-5873-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/alpha/benalish-hero-5873-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/alpha/benalish-hero",
+    "foil": ""
+  }
+}

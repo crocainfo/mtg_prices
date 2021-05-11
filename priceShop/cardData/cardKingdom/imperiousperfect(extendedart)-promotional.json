@@ -1,0 +1,19 @@
+{
+  "name": "Imperious Perfect Extended Art",
+  "lang": "",
+  "price": {
+    "nm": "9.99",
+    "ex": "7.99",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/promotional/imperious-perfect-extended-art-45979-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/promotional/imperious-perfect-extended-art-45979-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/promotional/imperious-perfect-extended-art",
+    "foil": ""
+  }
+}

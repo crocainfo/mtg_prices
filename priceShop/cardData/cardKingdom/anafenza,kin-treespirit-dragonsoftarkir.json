@@ -1,0 +1,19 @@
+{
+  "name": "Anafenza, Kin-Tree Spirit",
+  "lang": "",
+  "price": {
+    "nm": "2.29",
+    "ex": "1.83",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/dragons-of-tarkir/anafenza-kin-tree-spirit-43539-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/dragons-of-tarkir/anafenza-kin-tree-spirit-43539-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/dragons-of-tarkir/anafenza-kin-tree-spirit",
+    "foil": ""
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "name": "Sudden Spoiling",
+  "lang": "",
+  "price": {
+    "nm": "2.79",
+    "ex": "2.23",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/time-spiral/sudden-spoiling-1754-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/time-spiral/sudden-spoiling-1754-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/time-spiral/sudden-spoiling",
+    "foil": ""
+  }
+}

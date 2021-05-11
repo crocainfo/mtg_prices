@@ -1,0 +1,19 @@
+{
+  "name": "Quick Sliver",
+  "lang": "",
+  "price": {
+    "nm": "2.49",
+    "ex": "1.99",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/premium-deck-series-slivers/quick-sliver-24740-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/premium-deck-series-slivers/quick-sliver-24740-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/premium-deck-series-slivers/quick-sliver",
+    "foil": ""
+  }
+}

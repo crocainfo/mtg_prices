@@ -1,0 +1,19 @@
+{
+  "name": "Jhoira's Toolbox",
+  "lang": "",
+  "price": {
+    "nm": "0.25",
+    "ex": "0.20",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/urzas-legacy/jhoiras-toolbox-4435-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/urzas-legacy/jhoiras-toolbox-4435-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/urzas-legacy/jhoiras-toolbox",
+    "foil": ""
+  }
+}

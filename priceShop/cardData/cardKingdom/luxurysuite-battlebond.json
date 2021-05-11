@@ -1,0 +1,19 @@
+{
+  "name": "Luxury Suite",
+  "lang": "",
+  "price": {
+    "nm": "29.99",
+    "ex": "25.49",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/battlebond/luxury-suite-25520-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/battlebond/luxury-suite-25520-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/battlebond/luxury-suite",
+    "foil": ""
+  }
+}

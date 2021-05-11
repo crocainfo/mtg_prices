@@ -1,0 +1,19 @@
+{
+  "name": "Arni Brokenbrow Prerelease Foil",
+  "lang": "",
+  "price": {
+    "nm": "0.49",
+    "ex": "0.39",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/promotional/arni-brokenbrow-prerelease-foil-23635-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/promotional/arni-brokenbrow-prerelease-foil-23635-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/promotional/arni-brokenbrow-prerelease-foil",
+    "foil": ""
+  }
+}

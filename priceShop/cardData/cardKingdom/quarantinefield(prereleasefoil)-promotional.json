@@ -1,0 +1,19 @@
+{
+  "name": "Quarantine Field Prerelease Foil",
+  "lang": "",
+  "price": {
+    "nm": "1.49",
+    "ex": "1.19",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/promotional/quarantine-field-prerelease-foil-37843-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/promotional/quarantine-field-prerelease-foil-37843-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/promotional/quarantine-field-prerelease-foil",
+    "foil": ""
+  }
+}

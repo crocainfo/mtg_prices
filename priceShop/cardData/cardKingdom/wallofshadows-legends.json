@@ -1,0 +1,19 @@
+{
+  "name": "Wall of Shadows",
+  "lang": "",
+  "price": {
+    "nm": "0.79",
+    "ex": "0.63",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/legends/wall-of-shadows-988-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/legends/wall-of-shadows-988-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/legends/wall-of-shadows",
+    "foil": ""
+  }
+}

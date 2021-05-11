@@ -1,0 +1,19 @@
+{
+  "name": "Oracle of Bones",
+  "lang": "",
+  "price": {
+    "nm": "0.35",
+    "ex": "0.28",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/born-of-the-gods/oracle-of-bones-38646-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/born-of-the-gods/oracle-of-bones-38646-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/born-of-the-gods/oracle-of-bones",
+    "foil": ""
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "name": "Thryx, the Sudden Storm Promo Pack",
+  "lang": "",
+  "price": {
+    "nm": "1.29",
+    "ex": "1.03",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/promo-pack/thryx-the-sudden-storm-promo-pack-71024-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/promo-pack/thryx-the-sudden-storm-promo-pack-71024-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/promo-pack/thryx-the-sudden-storm-promo-pack",
+    "foil": ""
+  }
+}

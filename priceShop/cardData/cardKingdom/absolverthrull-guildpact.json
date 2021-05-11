@@ -1,0 +1,19 @@
+{
+  "name": "Absolver Thrull",
+  "lang": "",
+  "price": {
+    "nm": "0.25",
+    "ex": "0.20",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/guildpact/absolver-thrull-16090-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/guildpact/absolver-thrull-16090-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/guildpact/absolver-thrull",
+    "foil": ""
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "name": "Hivis of the Scale",
+  "lang": "",
+  "price": {
+    "nm": "4.49",
+    "ex": "3.59",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/mirage/hivis-of-the-scale-8575-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/mirage/hivis-of-the-scale-8575-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/mirage/hivis-of-the-scale",
+    "foil": ""
+  }
+}

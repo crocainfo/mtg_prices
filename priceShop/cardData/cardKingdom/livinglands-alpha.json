@@ -1,0 +1,19 @@
+{
+  "name": "Living Lands",
+  "lang": "",
+  "price": {
+    "nm": "699.99",
+    "ex": "559.99",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/alpha/living-lands-8019-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/alpha/living-lands-8019-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/alpha/living-lands",
+    "foil": ""
+  }
+}

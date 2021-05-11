@@ -1,0 +1,19 @@
+{
+  "name": "Archmage Emeritus Promo Pack",
+  "lang": "",
+  "price": {
+    "nm": "2.99",
+    "ex": "2.39",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/promo-pack/archmage-emeritus-promo-pack-42585-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/promo-pack/archmage-emeritus-promo-pack-42585-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/promo-pack/archmage-emeritus-promo-pack",
+    "foil": ""
+  }
+}

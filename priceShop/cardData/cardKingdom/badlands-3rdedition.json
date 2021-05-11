@@ -1,0 +1,19 @@
+{
+  "name": "Badlands",
+  "lang": "",
+  "price": {
+    "nm": "529.99",
+    "ex": "476.99",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/3rd-edition/badlands-84292-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/3rd-edition/badlands-84292-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/3rd-edition/badlands",
+    "foil": ""
+  }
+}

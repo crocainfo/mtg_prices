@@ -1,0 +1,19 @@
+{
+  "name": "Ishkanah, Grafwidow Prerelease Foil",
+  "lang": "",
+  "price": {
+    "nm": "9.99",
+    "ex": "7.99",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/promotional/ishkanah-grafwidow-prerelease-foil-59502-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/promotional/ishkanah-grafwidow-prerelease-foil-59502-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/promotional/ishkanah-grafwidow-prerelease-foil",
+    "foil": ""
+  }
+}

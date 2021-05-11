@@ -1,0 +1,19 @@
+{
+  "name": "Atog",
+  "lang": "",
+  "price": {
+    "nm": "5.99",
+    "ex": "4.79",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/antiquities/atog-16676-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/antiquities/atog-16676-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/antiquities/atog",
+    "foil": ""
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "name": "Underground River",
+  "lang": "",
+  "price": {
+    "nm": "11.99",
+    "ex": "9.59",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/6th-edition/underground-river-42955-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/6th-edition/underground-river-42955-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/6th-edition/underground-river",
+    "foil": ""
+  }
+}

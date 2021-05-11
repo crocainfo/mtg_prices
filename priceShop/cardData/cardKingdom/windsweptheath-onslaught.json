@@ -1,0 +1,19 @@
+{
+  "name": "Windswept Heath",
+  "lang": "",
+  "price": {
+    "nm": "69.99",
+    "ex": "59.49",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/onslaught/windswept-heath-31536-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/onslaught/windswept-heath-31536-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/onslaught/windswept-heath",
+    "foil": ""
+  }
+}

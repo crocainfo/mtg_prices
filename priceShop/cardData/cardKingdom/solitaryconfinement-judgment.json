@@ -1,0 +1,19 @@
+{
+  "name": "Solitary Confinement",
+  "lang": "",
+  "price": {
+    "nm": "13.99",
+    "ex": "11.19",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/judgment/solitary-confinement-12631-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/judgment/solitary-confinement-12631-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/judgment/solitary-confinement",
+    "foil": ""
+  }
+}

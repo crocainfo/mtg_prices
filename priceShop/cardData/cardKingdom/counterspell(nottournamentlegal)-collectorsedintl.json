@@ -1,0 +1,19 @@
+{
+  "name": "Counterspell Not Tournament Legal",
+  "lang": "",
+  "price": {
+    "nm": "129.99",
+    "ex": "116.99",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/collectors-ed-intl/counterspell-not-tournament-legal-11530-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/collectors-ed-intl/counterspell-not-tournament-legal-11530-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/collectors-ed-intl/counterspell-not-tournament-legal",
+    "foil": ""
+  }
+}

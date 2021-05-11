@@ -1,0 +1,19 @@
+{
+  "name": "Elvish Promenade",
+  "lang": "",
+  "price": {
+    "nm": "6.49",
+    "ex": "5.19",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/duel-decks-elves-vs-goblins/elvish-promenade-17643-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/duel-decks-elves-vs-goblins/elvish-promenade-17643-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/duel-decks-elves-vs-goblins/elvish-promenade",
+    "foil": ""
+  }
+}

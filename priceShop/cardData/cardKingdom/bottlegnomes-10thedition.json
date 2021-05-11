@@ -1,0 +1,19 @@
+{
+  "name": "Bottle Gnomes",
+  "lang": "",
+  "price": {
+    "nm": "0.25",
+    "ex": "0.20",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/10th-edition/bottle-gnomes-28862-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/10th-edition/bottle-gnomes-28862-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/10th-edition/bottle-gnomes",
+    "foil": ""
+  }
+}

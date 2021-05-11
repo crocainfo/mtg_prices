@@ -1,0 +1,19 @@
+{
+  "name": "Penumbra Kavu",
+  "lang": "",
+  "price": {
+    "nm": "0.25",
+    "ex": "0.20",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/apocalypse/penumbra-kavu-27600-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/apocalypse/penumbra-kavu-27600-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/apocalypse/penumbra-kavu",
+    "foil": ""
+  }
+}

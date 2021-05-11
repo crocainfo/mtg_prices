@@ -1,0 +1,19 @@
+{
+  "name": "Showdown of the Skalds Promo Pack",
+  "lang": "",
+  "price": {
+    "nm": "2.79",
+    "ex": "2.23",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/promo-pack/showdown-of-the-skalds-promo-pack-84142-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/promo-pack/showdown-of-the-skalds-promo-pack-84142-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/promo-pack/showdown-of-the-skalds-promo-pack",
+    "foil": ""
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "name": "Eloren Wilds Plane Oversized",
+  "lang": "",
+  "price": {
+    "nm": "0.79",
+    "ex": "0.63",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/planechase-anthology/eloren-wilds-plane-oversized-36976-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/planechase-anthology/eloren-wilds-plane-oversized-36976-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/planechase-anthology/eloren-wilds-plane-oversized",
+    "foil": ""
+  }
+}

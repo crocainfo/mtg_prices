@@ -1,0 +1,19 @@
+{
+  "name": "Hyperion Blacksmith",
+  "lang": "",
+  "price": {
+    "nm": "9.99",
+    "ex": "7.99",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/legends/hyperion-blacksmith-13433-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/legends/hyperion-blacksmith-13433-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/legends/hyperion-blacksmith",
+    "foil": ""
+  }
+}

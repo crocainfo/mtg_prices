@@ -1,0 +1,19 @@
+{
+  "name": "Fyndhorn Druid Facing Front",
+  "lang": "",
+  "price": {
+    "nm": "0.25",
+    "ex": "0.20",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/alliances/fyndhorn-druid-42347-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/alliances/fyndhorn-druid-42347-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/alliances/fyndhorn-druid-facing-front",
+    "foil": ""
+  }
+}

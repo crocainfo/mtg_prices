@@ -1,0 +1,19 @@
+{
+  "name": "Kraken Hatchling",
+  "lang": "",
+  "price": {
+    "nm": "0.25",
+    "ex": "0.20",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/zendikar/kraken-hatchling-17794-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/zendikar/kraken-hatchling-17794-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/zendikar/kraken-hatchling",
+    "foil": ""
+  }
+}

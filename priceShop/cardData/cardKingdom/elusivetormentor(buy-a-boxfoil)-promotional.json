@@ -1,0 +1,19 @@
+{
+  "name": "Elusive Tormentor Buy-A-Box Foil",
+  "lang": "",
+  "price": {
+    "nm": "0.49",
+    "ex": "0.39",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/promotional/elusive-tormentor-buy-a-box-foil-65016-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/promotional/elusive-tormentor-buy-a-box-foil-65016-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/promotional/elusive-tormentor-buy-a-box-foil",
+    "foil": ""
+  }
+}

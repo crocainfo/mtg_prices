@@ -1,0 +1,19 @@
+{
+  "name": "Ghave, Guru of Spores",
+  "lang": "",
+  "price": {
+    "nm": "5.49",
+    "ex": "4.39",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/commander-anthology-vol-ii/ghave-guru-of-spores-63631-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/commander-anthology-vol-ii/ghave-guru-of-spores-63631-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/commander-anthology-vol-ii/ghave-guru-of-spores",
+    "foil": ""
+  }
+}

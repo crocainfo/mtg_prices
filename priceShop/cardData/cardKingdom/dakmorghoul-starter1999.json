@@ -1,0 +1,19 @@
+{
+  "name": "Dakmor Ghoul",
+  "lang": "",
+  "price": {
+    "nm": "2.49",
+    "ex": "1.99",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/starter-1999/dakmor-ghoul-16244-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/starter-1999/dakmor-ghoul-16244-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/starter-1999/dakmor-ghoul",
+    "foil": ""
+  }
+}

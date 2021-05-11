@@ -1,0 +1,19 @@
+{
+  "name": "Preordain",
+  "lang": "",
+  "price": {
+    "nm": "1.99",
+    "ex": "1.59",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/2011-core-set/preordain-54176-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/2011-core-set/preordain-54176-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/2011-core-set/preordain",
+    "foil": ""
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "name": "Pride of the Clouds",
+  "lang": "",
+  "price": {
+    "nm": "5.99",
+    "ex": "4.79",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/dissension/pride-of-the-clouds-3860-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/dissension/pride-of-the-clouds-3860-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/dissension/pride-of-the-clouds",
+    "foil": ""
+  }
+}

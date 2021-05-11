@@ -1,0 +1,19 @@
+{
+  "name": "Aphemia, the Cacophony Extended Art",
+  "lang": "",
+  "price": {
+    "nm": "0.59",
+    "ex": "0.47",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/theros-beyond-death-variants/aphemia-the-cacophony-extended-art-75493-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/theros-beyond-death-variants/aphemia-the-cacophony-extended-art-75493-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/theros-beyond-death-variants/aphemia-the-cacophony-extended-art",
+    "foil": ""
+  }
+}

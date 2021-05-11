@@ -1,0 +1,19 @@
+{
+  "name": "Behemoth Sledge",
+  "lang": "",
+  "price": {
+    "nm": "0.35",
+    "ex": "0.28",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/alara-reborn/behemoth-sledge-18991-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/alara-reborn/behemoth-sledge-18991-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/alara-reborn/behemoth-sledge",
+    "foil": ""
+  }
+}

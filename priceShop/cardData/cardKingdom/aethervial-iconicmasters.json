@@ -1,0 +1,19 @@
+{
+  "name": "Aether Vial",
+  "lang": "",
+  "price": {
+    "nm": "54.99",
+    "ex": "46.74",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/iconic-masters/aether-vial-17036-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/iconic-masters/aether-vial-17036-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/iconic-masters/aether-vial",
+    "foil": ""
+  }
+}

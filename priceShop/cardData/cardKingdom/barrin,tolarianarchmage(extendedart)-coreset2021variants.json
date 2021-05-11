@@ -1,0 +1,19 @@
+{
+  "name": "Barrin, Tolarian Archmage Extended Art",
+  "lang": "",
+  "price": {
+    "nm": "1.99",
+    "ex": "1.59",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/core-set-2021-variants/barrin-tolarian-archmage-extended-art-50184-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/core-set-2021-variants/barrin-tolarian-archmage-extended-art-50184-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/core-set-2021-variants/barrin-tolarian-archmage-extended-art",
+    "foil": ""
+  }
+}

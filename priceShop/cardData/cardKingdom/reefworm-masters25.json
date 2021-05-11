@@ -1,0 +1,19 @@
+{
+  "name": "Reef Worm",
+  "lang": "",
+  "price": {
+    "nm": "2.49",
+    "ex": "1.99",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/masters-25/reef-worm-92808-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/masters-25/reef-worm-92808-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/masters-25/reef-worm",
+    "foil": ""
+  }
+}

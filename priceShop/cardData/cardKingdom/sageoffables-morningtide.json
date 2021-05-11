@@ -1,0 +1,19 @@
+{
+  "name": "Sage of Fables",
+  "lang": "",
+  "price": {
+    "nm": "2.29",
+    "ex": "1.83",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/morningtide/sage-of-fables-16123-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/morningtide/sage-of-fables-16123-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/morningtide/sage-of-fables",
+    "foil": ""
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "name": "Nettling Imp",
+  "lang": "",
+  "price": {
+    "nm": "9.49",
+    "ex": "7.59",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/unlimited/nettling-imp-22817-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/unlimited/nettling-imp-22817-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/unlimited/nettling-imp",
+    "foil": ""
+  }
+}

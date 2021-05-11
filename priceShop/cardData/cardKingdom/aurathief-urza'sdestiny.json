@@ -1,0 +1,19 @@
+{
+  "name": "Aura Thief",
+  "lang": "",
+  "price": {
+    "nm": "12.99",
+    "ex": "10.39",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/urzas-destiny/aura-thief-5636-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/urzas-destiny/aura-thief-5636-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/urzas-destiny/aura-thief",
+    "foil": ""
+  }
+}

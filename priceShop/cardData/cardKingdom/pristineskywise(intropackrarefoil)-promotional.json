@@ -1,0 +1,19 @@
+{
+  "name": "Pristine Skywise Intro Pack Rare Foil",
+  "lang": "",
+  "price": {
+    "nm": "0.49",
+    "ex": "0.39",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/promotional/pristine-skywise-intro-pack-rare-foil-81025-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/promotional/pristine-skywise-intro-pack-rare-foil-81025-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/promotional/pristine-skywise-intro-pack-rare-foil",
+    "foil": ""
+  }
+}

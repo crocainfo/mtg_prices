@@ -1,0 +1,19 @@
+{
+  "name": "Forest A",
+  "lang": "",
+  "price": {
+    "nm": "0.59",
+    "ex": "0.47",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/battle-royale/forest-a-38410-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/battle-royale/forest-a-38410-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/battle-royale/forest-a",
+    "foil": ""
+  }
+}

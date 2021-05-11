@@ -1,0 +1,19 @@
+{
+  "name": "Hull Breach",
+  "lang": "",
+  "price": {
+    "nm": "1.29",
+    "ex": "1.03",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/planeshift/hull-breach-1914-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/planeshift/hull-breach-1914-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/planeshift/hull-breach",
+    "foil": ""
+  }
+}

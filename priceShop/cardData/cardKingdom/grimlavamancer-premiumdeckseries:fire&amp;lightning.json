@@ -1,0 +1,19 @@
+{
+  "name": "Grim Lavamancer",
+  "lang": "",
+  "price": {
+    "nm": "0.99",
+    "ex": "0.79",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/premium-deck-series-fire-and-lightning/grim-lavamancer-9023-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/premium-deck-series-fire-and-lightning/grim-lavamancer-9023-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/premium-deck-series-fire-lightning/grim-lavamancer",
+    "foil": ""
+  }
+}

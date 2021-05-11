@@ -1,0 +1,19 @@
+{
+  "name": "Strength of Lunacy",
+  "lang": "",
+  "price": {
+    "nm": "0.59",
+    "ex": "0.47",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/torment/strength-of-lunacy-16045-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/torment/strength-of-lunacy-16045-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/torment/strength-of-lunacy",
+    "foil": ""
+  }
+}

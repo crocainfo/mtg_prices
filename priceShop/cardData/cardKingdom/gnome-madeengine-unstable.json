@@ -1,0 +1,19 @@
+{
+  "name": "Gnome-Made Engine",
+  "lang": "",
+  "price": {
+    "nm": "0.25",
+    "ex": "0.20",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/unstable/gnome-made-engine-79480-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/unstable/gnome-made-engine-79480-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/unstable/gnome-made-engine",
+    "foil": ""
+  }
+}

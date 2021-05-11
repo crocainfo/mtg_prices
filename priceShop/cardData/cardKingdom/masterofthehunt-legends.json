@@ -1,0 +1,19 @@
+{
+  "name": "Master of the Hunt",
+  "lang": "",
+  "price": {
+    "nm": "89.99",
+    "ex": "76.49",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/legends/master-of-the-hunt-43874-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/legends/master-of-the-hunt-43874-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/legends/master-of-the-hunt",
+    "foil": ""
+  }
+}

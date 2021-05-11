@@ -1,0 +1,19 @@
+{
+  "name": "Plains 35 A",
+  "lang": "",
+  "price": {
+    "nm": "0.25",
+    "ex": "0.20",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/duel-decks-zendikar-vs-eldrazi/plains-35-46033-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/duel-decks-zendikar-vs-eldrazi/plains-35-46033-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/duel-decks-zendikar-vs-eldrazi/plains-35-a",
+    "foil": ""
+  }
+}

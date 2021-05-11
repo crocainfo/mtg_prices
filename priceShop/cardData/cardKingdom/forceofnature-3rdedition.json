@@ -1,0 +1,19 @@
+{
+  "name": "Force of Nature",
+  "lang": "",
+  "price": {
+    "nm": "4.99",
+    "ex": "3.99",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/3rd-edition/force-of-nature-85788-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/3rd-edition/force-of-nature-85788-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/3rd-edition/force-of-nature",
+    "foil": ""
+  }
+}

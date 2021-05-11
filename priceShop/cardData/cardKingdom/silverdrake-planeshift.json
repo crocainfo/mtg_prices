@@ -1,0 +1,19 @@
+{
+  "name": "Silver Drake",
+  "lang": "",
+  "price": {
+    "nm": "0.25",
+    "ex": "0.20",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/planeshift/silver-drake-14887-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/planeshift/silver-drake-14887-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/planeshift/silver-drake",
+    "foil": ""
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "name": "Gang of Elk",
+  "lang": "",
+  "price": {
+    "nm": "0.25",
+    "ex": "0.20",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/urzas-legacy/gang-of-elk-23340-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/urzas-legacy/gang-of-elk-23340-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/urzas-legacy/gang-of-elk",
+    "foil": ""
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "name": "Troll Ascetic",
+  "lang": "",
+  "price": {
+    "nm": "0.39",
+    "ex": "0.31",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/commander/troll-ascetic-29878-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/commander/troll-ascetic-29878-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/commander/troll-ascetic",
+    "foil": ""
+  }
+}

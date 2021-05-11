@@ -1,0 +1,19 @@
+{
+  "name": "Mathas, Fiend Seeker Foil",
+  "lang": "",
+  "price": {
+    "nm": "3.99",
+    "ex": "3.19",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/commander-2017/marthas-fiend-seeker-61404-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/commander-2017/marthas-fiend-seeker-61404-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/commander-2017/mathas-fiend-seeker-foil",
+    "foil": ""
+  }
+}

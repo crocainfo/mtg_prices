@@ -1,0 +1,19 @@
+{
+  "name": "Desert",
+  "lang": "",
+  "price": {
+    "nm": "13.99",
+    "ex": "11.19",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/arabian-nights/desert-94484-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/arabian-nights/desert-94484-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/arabian-nights/desert",
+    "foil": ""
+  }
+}

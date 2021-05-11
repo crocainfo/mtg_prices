@@ -1,0 +1,19 @@
+{
+  "name": "Marked By Honor Welcome 2016",
+  "lang": "",
+  "price": {
+    "nm": "0.25",
+    "ex": "0.20",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/promotional/marked-by-honor-welcome-2016-48821-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/promotional/marked-by-honor-welcome-2016-48821-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/promotional/marked-by-honor-welcome-2016",
+    "foil": ""
+  }
+}

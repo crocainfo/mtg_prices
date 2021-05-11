@@ -1,0 +1,19 @@
+{
+  "name": "Woodland Cemetery Promo Pack",
+  "lang": "",
+  "price": {
+    "nm": "16.99",
+    "ex": "14.44",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/promotional/promo-pack-43635-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/promotional/promo-pack-43635-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/promo-pack/woodland-cemetery-promo-pack",
+    "foil": ""
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "name": "Island 292 B",
+  "lang": "",
+  "price": {
+    "nm": "0.25",
+    "ex": "0.20",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/mirrodin/island-292-b-86928-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/mirrodin/island-292-b-86928-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/mirrodin/island-292-b",
+    "foil": ""
+  }
+}

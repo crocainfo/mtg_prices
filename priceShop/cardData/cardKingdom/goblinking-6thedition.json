@@ -1,0 +1,19 @@
+{
+  "name": "Goblin King",
+  "lang": "",
+  "price": {
+    "nm": "5.99",
+    "ex": "4.79",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/6th-edition/goblin-king-17839-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/6th-edition/goblin-king-17839-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/6th-edition/goblin-king",
+    "foil": ""
+  }
+}

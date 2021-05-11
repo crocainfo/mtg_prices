@@ -1,0 +1,19 @@
+{
+  "name": "Summer Bloom",
+  "lang": "",
+  "price": {
+    "nm": "5.99",
+    "ex": "4.79",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/portal/summer-bloom-13911-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/portal/summer-bloom-13911-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/portal/summer-bloom",
+    "foil": ""
+  }
+}

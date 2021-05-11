@@ -1,0 +1,19 @@
+{
+  "name": "Mountain Ravnica Weekend - B06 Foil",
+  "lang": "",
+  "price": {
+    "nm": "3.49",
+    "ex": "2.79",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/promotional/mountain-ravnica-weekend-a04-foil-67514-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/promotional/mountain-ravnica-weekend-a04-foil-67514-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/promotional/mountain-ravnica-weekend-b06-foil",
+    "foil": ""
+  }
+}

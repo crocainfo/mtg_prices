@@ -1,0 +1,19 @@
+{
+  "name": "Exquisite Blood",
+  "lang": "",
+  "price": {
+    "nm": "49.99",
+    "ex": "42.49",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/avacyn-restored/exquisite-blood-59564-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/avacyn-restored/exquisite-blood-59564-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/avacyn-restored/exquisite-blood",
+    "foil": ""
+  }
+}

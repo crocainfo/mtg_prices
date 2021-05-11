@@ -1,0 +1,19 @@
+{
+  "name": "Island 236 C",
+  "lang": "",
+  "price": {
+    "nm": "0.25",
+    "ex": "0.20",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/scars-of-mirrodin/island-236-c-57787-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/scars-of-mirrodin/island-236-c-57787-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/scars-of-mirrodin/island-236-c",
+    "foil": ""
+  }
+}

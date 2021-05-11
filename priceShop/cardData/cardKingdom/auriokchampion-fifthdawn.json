@@ -1,0 +1,19 @@
+{
+  "name": "Auriok Champion",
+  "lang": "",
+  "price": {
+    "nm": "64.99",
+    "ex": "55.24",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/fifth-dawn/auriok-champion-16205-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/fifth-dawn/auriok-champion-16205-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/fifth-dawn/auriok-champion",
+    "foil": ""
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "name": "Sylvan Paradise",
+  "lang": "",
+  "price": {
+    "nm": "15.99",
+    "ex": "13.59",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/legends/sylvan-paradise-5990-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/legends/sylvan-paradise-5990-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/legends/sylvan-paradise",
+    "foil": ""
+  }
+}

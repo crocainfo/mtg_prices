@@ -1,0 +1,19 @@
+{
+  "name": "Wall of Diffusion",
+  "lang": "",
+  "price": {
+    "nm": "0.25",
+    "ex": "0.20",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/tempest/wall-of-diffusion-23442-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/tempest/wall-of-diffusion-23442-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/tempest/wall-of-diffusion",
+    "foil": ""
+  }
+}

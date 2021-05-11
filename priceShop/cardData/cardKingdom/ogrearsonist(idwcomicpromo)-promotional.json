@@ -1,0 +1,19 @@
+{
+  "name": "Ogre Arsonist IDW Comic Promo",
+  "lang": "",
+  "price": {
+    "nm": "2.49",
+    "ex": "1.99",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/promotional/ogre-arsonist-comic-promo-34963-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/promotional/ogre-arsonist-comic-promo-34963-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/promotional/ogre-arsonist-idw-comic-promo",
+    "foil": ""
+  }
+}

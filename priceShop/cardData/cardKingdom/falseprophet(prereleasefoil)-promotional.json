@@ -1,0 +1,19 @@
+{
+  "name": "False Prophet Prerelease Foil",
+  "lang": "",
+  "price": {
+    "nm": "13.99",
+    "ex": "11.19",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/promotional/false-prophet-prerelease-foil-28003-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/promotional/false-prophet-prerelease-foil-28003-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/promotional/false-prophet-prerelease-foil",
+    "foil": ""
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "name": "Dromad Purebred",
+  "lang": "",
+  "price": {
+    "nm": "0.25",
+    "ex": "0.20",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/ravnica/dromad-purebred-13015-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/ravnica/dromad-purebred-13015-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/ravnica/dromad-purebred",
+    "foil": ""
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "name": "Boartusk Liege",
+  "lang": "",
+  "price": {
+    "nm": "6.99",
+    "ex": "5.59",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/shadowmoor/boartusk-liege-7940-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/shadowmoor/boartusk-liege-7940-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/shadowmoor/boartusk-liege",
+    "foil": ""
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "name": "Blacklance Paragon Extended Art",
+  "lang": "",
+  "price": {
+    "nm": "2.49",
+    "ex": "1.99",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/throne-of-eldraine-variants/blacklance-paragon-extended-art-75939-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/throne-of-eldraine-variants/blacklance-paragon-extended-art-75939-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/throne-of-eldraine-variants/blacklance-paragon-extended-art",
+    "foil": ""
+  }
+}

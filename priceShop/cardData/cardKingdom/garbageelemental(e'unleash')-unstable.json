@@ -1,0 +1,19 @@
+{
+  "name": "Garbage Elemental E 'Unleash'",
+  "lang": "",
+  "price": {
+    "nm": "0.25",
+    "ex": "0.20",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/unstable/garbage-elemental-e-55519-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/unstable/garbage-elemental-e-55519-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/unstable/garbage-elemental-e-unleash",
+    "foil": ""
+  }
+}

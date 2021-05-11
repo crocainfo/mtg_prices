@@ -1,0 +1,19 @@
+{
+  "name": "Burst of Speed",
+  "lang": "",
+  "price": {
+    "nm": "0.25",
+    "ex": "0.20",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/2010-core-set/burst-of-speed-9309-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/2010-core-set/burst-of-speed-9309-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/2010-core-set/burst-of-speed",
+    "foil": ""
+  }
+}

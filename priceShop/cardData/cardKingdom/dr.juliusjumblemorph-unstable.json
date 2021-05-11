@@ -1,0 +1,19 @@
+{
+  "name": "Dr. Julius Jumblemorph",
+  "lang": "",
+  "price": {
+    "nm": "1.29",
+    "ex": "1.03 ",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/unstable/dr-julius-jumblemorph-74628-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/unstable/dr-julius-jumblemorph-74628-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/unstable/dr-julius-jumblemorph",
+    "foil": ""
+  }
+}

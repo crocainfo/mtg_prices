@@ -1,0 +1,19 @@
+{
+  "name": "Nature's Cloak",
+  "lang": "",
+  "price": {
+    "nm": "1.29 ",
+    "ex": "1.03",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/starter-1999/natures-cloak-5011-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/starter-1999/natures-cloak-5011-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/starter-1999/natures-cloak",
+    "foil": ""
+  }
+}

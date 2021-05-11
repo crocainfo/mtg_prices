@@ -1,0 +1,19 @@
+{
+  "name": "Obelisk of Urd",
+  "lang": "",
+  "price": {
+    "nm": "3.49",
+    "ex": "2.79",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/2015-core-set/obelisk-of-urd-44615-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/2015-core-set/obelisk-of-urd-44615-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/2015-core-set/obelisk-of-urd",
+    "foil": ""
+  }
+}

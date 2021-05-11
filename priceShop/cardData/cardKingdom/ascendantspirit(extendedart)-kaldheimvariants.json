@@ -1,0 +1,19 @@
+{
+  "name": "Ascendant Spirit Extended Art",
+  "lang": "",
+  "price": {
+    "nm": "1.29",
+    "ex": "1.03",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/kaldheim-variants/ascendant-spirit-extended-art-28320-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/kaldheim-variants/ascendant-spirit-extended-art-28320-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/kaldheim-variants/ascendant-spirit-extended-art",
+    "foil": ""
+  }
+}

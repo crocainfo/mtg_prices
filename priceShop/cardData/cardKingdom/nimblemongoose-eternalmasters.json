@@ -1,0 +1,19 @@
+{
+  "name": "Nimble Mongoose",
+  "lang": "",
+  "price": {
+    "nm": "0.25 ",
+    "ex": "0.20",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/eternal-masters/nimble-mongoose-48947-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/eternal-masters/nimble-mongoose-48947-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/eternal-masters/nimble-mongoose",
+    "foil": ""
+  }
+}

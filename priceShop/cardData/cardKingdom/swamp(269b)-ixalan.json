@@ -1,0 +1,19 @@
+{
+  "name": "Swamp 269 B",
+  "lang": "",
+  "price": {
+    "nm": "0.35",
+    "ex": "0.28",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/ixalan/swamp-a-61919-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/ixalan/swamp-a-61919-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/ixalan/swamp-269-b",
+    "foil": ""
+  }
+}

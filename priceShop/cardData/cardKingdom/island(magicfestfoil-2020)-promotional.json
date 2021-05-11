@@ -1,0 +1,19 @@
+{
+  "name": "Island MagicFest Foil - 2020",
+  "lang": "",
+  "price": {
+    "nm": "1.99",
+    "ex": "1.59",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/promotional/island-magicfest-foil-2020-89771-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/promotional/island-magicfest-foil-2020-89771-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/promotional/island-magicfest-foil-2020",
+    "foil": ""
+  }
+}

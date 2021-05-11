@@ -1,0 +1,19 @@
+{
+  "name": "Catacomb Dragon",
+  "lang": "",
+  "price": {
+    "nm": "11.99",
+    "ex": "9.59",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/mirage/catacomb-dragon-21577-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/mirage/catacomb-dragon-21577-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/mirage/catacomb-dragon",
+    "foil": ""
+  }
+}

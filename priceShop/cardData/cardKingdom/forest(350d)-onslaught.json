@@ -1,0 +1,19 @@
+{
+  "name": "Forest 350 D",
+  "lang": "",
+  "price": {
+    "nm": "0.69",
+    "ex": "0.55",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/onslaught/forest-350-37467-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/onslaught/forest-350-37467-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/onslaught/forest-350-d",
+    "foil": ""
+  }
+}

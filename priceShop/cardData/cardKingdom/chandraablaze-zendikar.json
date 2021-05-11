@@ -1,0 +1,19 @@
+{
+  "name": "Chandra Ablaze",
+  "lang": "",
+  "price": {
+    "nm": "7.99",
+    "ex": "6.39",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/zendikar/chandra-ablaze-44496-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/zendikar/chandra-ablaze-44496-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/zendikar/chandra-ablaze",
+    "foil": ""
+  }
+}

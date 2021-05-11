@@ -1,0 +1,19 @@
+{
+  "name": "Living Wall",
+  "lang": "",
+  "price": {
+    "nm": "39.99",
+    "ex": "31.99",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/beta/living-wall-9761-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/beta/living-wall-9761-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/beta/living-wall",
+    "foil": ""
+  }
+}

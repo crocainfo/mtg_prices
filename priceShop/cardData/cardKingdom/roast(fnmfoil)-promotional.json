@@ -1,0 +1,19 @@
+{
+  "name": "Roast FNM Foil",
+  "lang": "",
+  "price": {
+    "nm": "0.25",
+    "ex": "0.20",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/promotional/roast-fnm-foil-47426-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/promotional/roast-fnm-foil-47426-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/promotional/roast-fnm-foil",
+    "foil": ""
+  }
+}

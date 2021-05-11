@@ -1,0 +1,19 @@
+{
+  "name": "Azorius Signet",
+  "lang": "",
+  "price": {
+    "nm": "1.29",
+    "ex": "1.03",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/dissension/azorius-signet-15633-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/dissension/azorius-signet-15633-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/dissension/azorius-signet",
+    "foil": ""
+  }
+}

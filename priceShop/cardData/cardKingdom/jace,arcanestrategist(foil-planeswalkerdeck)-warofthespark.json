@@ -1,0 +1,19 @@
+{
+  "name": "Jace, Arcane Strategist Foil - Planeswalker Deck",
+  "lang": "",
+  "price": {
+    "nm": "3.99",
+    "ex": "3.19",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/war-of-the-spark/jace-arcane-strategist-foil-planeswalker-deck-46780-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/war-of-the-spark/jace-arcane-strategist-foil-planeswalker-deck-46780-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/war-of-the-spark/jace-arcane-strategist-foil-planeswalker-deck",
+    "foil": ""
+  }
+}

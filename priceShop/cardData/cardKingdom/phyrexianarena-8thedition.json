@@ -1,0 +1,19 @@
+{
+  "name": "Phyrexian Arena",
+  "lang": "",
+  "price": {
+    "nm": "27.99",
+    "ex": "23.79",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/8th-edition/phyrexian-arena-75220-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/8th-edition/phyrexian-arena-75220-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/8th-edition/phyrexian-arena",
+    "foil": ""
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "name": "Earth Elemental",
+  "lang": "",
+  "price": {
+    "nm": "44.99",
+    "ex": "35.99",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/beta/earth-elemental-12600-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/beta/earth-elemental-12600-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/beta/earth-elemental",
+    "foil": ""
+  }
+}

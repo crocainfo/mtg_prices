@@ -1,0 +1,19 @@
+{
+  "name": "Hydra Omnivore",
+  "lang": "",
+  "price": {
+    "nm": "6.49",
+    "ex": "5.19",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/commander/hydra-omnivore-29642-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/commander/hydra-omnivore-29642-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/commander/hydra-omnivore",
+    "foil": ""
+  }
+}

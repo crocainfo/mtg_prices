@@ -1,0 +1,19 @@
+{
+  "name": "Golgari Rot Farm",
+  "lang": "",
+  "price": {
+    "nm": "0.39",
+    "ex": "0.31",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/guilds-of-ravnica-guild-kits/golgari-rot-farm-82931-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/guilds-of-ravnica-guild-kits/golgari-rot-farm-82931-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/guilds-of-ravnica-guild-kits/golgari-rot-farm",
+    "foil": ""
+  }
+}

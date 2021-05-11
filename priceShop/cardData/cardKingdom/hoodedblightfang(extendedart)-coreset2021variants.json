@@ -1,0 +1,19 @@
+{
+  "name": "Hooded Blightfang Extended Art",
+  "lang": "",
+  "price": {
+    "nm": "3.99",
+    "ex": "3.19",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/core-set-2021-variants/hooded-blightfang-extended-art-27695-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/core-set-2021-variants/hooded-blightfang-extended-art-27695-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/core-set-2021-variants/hooded-blightfang-extended-art",
+    "foil": ""
+  }
+}

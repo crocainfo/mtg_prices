@@ -1,0 +1,19 @@
+{
+  "name": "Decree of Pain",
+  "lang": "",
+  "price": {
+    "nm": "5.99",
+    "ex": "4.79",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/commander-2017/decree-of-pain-61492-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/commander-2017/decree-of-pain-61492-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/commander-2017/decree-of-pain",
+    "foil": ""
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "name": "Spell Contortion",
+  "lang": "",
+  "price": {
+    "nm": "0.25",
+    "ex": "0.20",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/worldwake/spell-contortion-22206-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/worldwake/spell-contortion-22206-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/worldwake/spell-contortion",
+    "foil": ""
+  }
+}

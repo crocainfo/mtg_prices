@@ -1,0 +1,19 @@
+{
+  "name": "Nissa, Who Shakes the World",
+  "lang": "",
+  "price": {
+    "nm": "7.49",
+    "ex": "5.99",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/war-of-the-spark/nissa-who-shakes-the-world-38009-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/war-of-the-spark/nissa-who-shakes-the-world-38009-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/war-of-the-spark/nissa-who-shakes-the-world",
+    "foil": ""
+  }
+}

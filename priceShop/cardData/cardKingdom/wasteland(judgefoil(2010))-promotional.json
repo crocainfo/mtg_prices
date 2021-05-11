@@ -1,0 +1,19 @@
+{
+  "name": "Wasteland Judge Foil (2010)",
+  "lang": "",
+  "price": {
+    "nm": "119.99",
+    "ex": "107.99",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/promotional/wasteland-judge-foil-2010-30970-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/promotional/wasteland-judge-foil-2010-30970-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/promotional/wasteland-judge-foil-2010",
+    "foil": ""
+  }
+}

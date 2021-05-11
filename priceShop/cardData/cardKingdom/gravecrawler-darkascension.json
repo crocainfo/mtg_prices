@@ -1,0 +1,19 @@
+{
+  "name": "Gravecrawler",
+  "lang": "",
+  "price": {
+    "nm": "9.49",
+    "ex": "7.59",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/dark-ascension/gravecrawler-30784-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/dark-ascension/gravecrawler-30784-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/dark-ascension/gravecrawler",
+    "foil": ""
+  }
+}

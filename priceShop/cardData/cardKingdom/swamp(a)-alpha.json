@@ -1,0 +1,19 @@
+{
+  "name": "Swamp A",
+  "lang": "",
+  "price": {
+    "nm": "99.99",
+    "ex": "79.99",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/alpha/swamp-a-37920-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/alpha/swamp-a-37920-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/alpha/swamp-a",
+    "foil": ""
+  }
+}

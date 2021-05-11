@@ -1,0 +1,19 @@
+{
+  "name": "Ikra Shidiqi, the Usurper Foil",
+  "lang": "",
+  "price": {
+    "nm": "2.49",
+    "ex": "1.99",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/commander-anthology-vol-ii/ikra-shidiqi-the-usurper-32410-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/commander-anthology-vol-ii/ikra-shidiqi-the-usurper-32410-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/commander-anthology-vol-ii/ikra-shidiqi-the-usurper-foil",
+    "foil": ""
+  }
+}

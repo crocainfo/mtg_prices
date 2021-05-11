@@ -1,0 +1,19 @@
+{
+  "name": "Swamp Arena 2006",
+  "lang": "",
+  "price": {
+    "nm": "2.49",
+    "ex": "1.99",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/promotional/swamp-arena-2006-32654-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/promotional/swamp-arena-2006-32654-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/promotional/swamp-arena-2006",
+    "foil": ""
+  }
+}

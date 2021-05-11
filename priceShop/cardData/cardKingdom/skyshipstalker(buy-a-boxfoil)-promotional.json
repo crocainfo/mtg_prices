@@ -1,0 +1,19 @@
+{
+  "name": "Skyship Stalker Buy-A-Box Foil",
+  "lang": "",
+  "price": {
+    "nm": "0.35",
+    "ex": "0.28",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/promotional/skyship-stalker-buy-a-box-57406-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/promotional/skyship-stalker-buy-a-box-57406-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/promotional/skyship-stalker-buy-a-box-foil",
+    "foil": ""
+  }
+}

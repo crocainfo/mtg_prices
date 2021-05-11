@@ -1,0 +1,19 @@
+{
+  "name": "Millstone",
+  "lang": "",
+  "price": {
+    "nm": "29.99",
+    "ex": "25.49",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/antiquities/millstone-90713-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/antiquities/millstone-90713-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/antiquities/millstone",
+    "foil": ""
+  }
+}

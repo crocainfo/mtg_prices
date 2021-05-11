@@ -1,0 +1,19 @@
+{
+  "name": "Mountain 47 C",
+  "lang": "",
+  "price": {
+    "nm": "0.35",
+    "ex": "0.28",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/deckmaster/mountain-47-39667-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/deckmaster/mountain-47-39667-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/deckmaster/mountain-47-c",
+    "foil": ""
+  }
+}

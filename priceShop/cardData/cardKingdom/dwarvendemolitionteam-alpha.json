@@ -1,0 +1,19 @@
+{
+  "name": "Dwarven Demolition Team",
+  "lang": "",
+  "price": {
+    "nm": "159.99",
+    "ex": "127.99",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/alpha/dwarven-demolition-team-17017-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/alpha/dwarven-demolition-team-17017-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/alpha/dwarven-demolition-team",
+    "foil": ""
+  }
+}

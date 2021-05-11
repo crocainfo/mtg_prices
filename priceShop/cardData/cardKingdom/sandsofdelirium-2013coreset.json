@@ -1,0 +1,19 @@
+{
+  "name": "Sands of Delirium",
+  "lang": "",
+  "price": {
+    "nm": "0.99",
+    "ex": "0.79",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/2013-core-set/sands-of-delirium-12984-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/2013-core-set/sands-of-delirium-12984-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/2013-core-set/sands-of-delirium",
+    "foil": ""
+  }
+}

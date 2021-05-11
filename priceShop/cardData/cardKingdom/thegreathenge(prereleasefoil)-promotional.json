@@ -1,0 +1,19 @@
+{
+  "name": "The Great Henge Prerelease Foil",
+  "lang": "",
+  "price": {
+    "nm": "79.99",
+    "ex": "67.99",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/promotional/the-great-henge-prerelease-foil-73525-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/promotional/the-great-henge-prerelease-foil-73525-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/promotional/the-great-henge-prerelease-foil",
+    "foil": ""
+  }
+}

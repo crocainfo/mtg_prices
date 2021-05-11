@@ -1,0 +1,19 @@
+{
+  "name": "Kaya's Guile",
+  "lang": "",
+  "price": {
+    "nm": "6.49",
+    "ex": "5.19",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/modern-horizons/kayas-guile-69624-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/modern-horizons/kayas-guile-69624-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/modern-horizons/kayas-guile",
+    "foil": ""
+  }
+}

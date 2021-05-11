@@ -1,0 +1,19 @@
+{
+  "name": "Exponential Growth Extended Art",
+  "lang": "",
+  "price": {
+    "nm": "0.99",
+    "ex": "0.79",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/strixhaven-school-of-mages-variants/exponential-growth-extended-art-33534-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/strixhaven-school-of-mages-variants/exponential-growth-extended-art-33534-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/strixhaven-school-of-mages-variants/exponential-growth-extended-art",
+    "foil": ""
+  }
+}

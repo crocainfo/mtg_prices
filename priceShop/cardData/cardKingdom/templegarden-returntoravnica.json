@@ -1,0 +1,19 @@
+{
+  "name": "Temple Garden",
+  "lang": "",
+  "price": {
+    "nm": "12.99",
+    "ex": "10.39",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/return-to-ravnica/temple-garden-32106-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/return-to-ravnica/temple-garden-32106-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/return-to-ravnica/temple-garden",
+    "foil": ""
+  }
+}

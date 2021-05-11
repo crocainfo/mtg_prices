@@ -1,0 +1,19 @@
+{
+  "name": "Marked by Honor",
+  "lang": "",
+  "price": {
+    "nm": "0.25",
+    "ex": "0.20",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/2015-core-set/marked-by-honor-40500-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/2015-core-set/marked-by-honor-40500-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/2015-core-set/marked-by-honor",
+    "foil": ""
+  }
+}

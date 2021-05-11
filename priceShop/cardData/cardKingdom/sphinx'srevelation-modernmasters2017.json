@@ -1,0 +1,19 @@
+{
+  "name": "Sphinx's Revelation",
+  "lang": "",
+  "price": {
+    "nm": "4.99",
+    "ex": "3.99",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/modern-masters-2017/sphinxs-revelation-59286-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/modern-masters-2017/sphinxs-revelation-59286-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/modern-masters-2017/sphinxs-revelation",
+    "foil": ""
+  }
+}

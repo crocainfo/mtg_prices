@@ -1,0 +1,19 @@
+{
+  "name": "Planar Bridge Prerelease Foil",
+  "lang": "",
+  "price": {
+    "nm": "16.99",
+    "ex": "14.44",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/promotional/planar-bridge-prerelease-foil-59117-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/promotional/planar-bridge-prerelease-foil-59117-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/promotional/planar-bridge-prerelease-foil",
+    "foil": ""
+  }
+}

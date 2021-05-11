@@ -1,0 +1,19 @@
+{
+  "name": "Serendib Efreet",
+  "lang": "",
+  "price": {
+    "nm": "0.35",
+    "ex": "0.28",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/eternal-masters/serendib-efreet-49242-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/eternal-masters/serendib-efreet-49242-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/eternal-masters/serendib-efreet",
+    "foil": ""
+  }
+}

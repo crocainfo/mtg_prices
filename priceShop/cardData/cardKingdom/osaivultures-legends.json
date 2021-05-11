@@ -1,0 +1,19 @@
+{
+  "name": "Osai Vultures",
+  "lang": "",
+  "price": {
+    "nm": "0.99",
+    "ex": "0.79",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/legends/osai-vultures-23528-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/legends/osai-vultures-23528-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/legends/osai-vultures",
+    "foil": ""
+  }
+}

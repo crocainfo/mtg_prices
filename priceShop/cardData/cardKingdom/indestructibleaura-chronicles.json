@@ -1,0 +1,19 @@
+{
+  "name": "Indestructible Aura",
+  "lang": "",
+  "price": {
+    "nm": "0.25",
+    "ex": "0.20",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/chronicles/indestructible-aura-22174-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/chronicles/indestructible-aura-22174-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/chronicles/indestructible-aura",
+    "foil": ""
+  }
+}

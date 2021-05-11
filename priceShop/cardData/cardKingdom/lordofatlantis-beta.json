@@ -1,0 +1,19 @@
+{
+  "name": "Lord of Atlantis",
+  "lang": "",
+  "price": {
+    "nm": "699.99",
+    "ex": "559.99",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/beta/lord-of-atlantis-9998-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/beta/lord-of-atlantis-9998-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/beta/lord-of-atlantis",
+    "foil": ""
+  }
+}

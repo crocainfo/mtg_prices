@@ -1,0 +1,19 @@
+{
+  "name": "Vivid Revival Prerelease Foil",
+  "lang": "",
+  "price": {
+    "nm": "0.79",
+    "ex": "0.63",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/promotional/vivid-revival-prerelease-foil-25336-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/promotional/vivid-revival-prerelease-foil-25336-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/promotional/vivid-revival-prerelease-foil",
+    "foil": ""
+  }
+}

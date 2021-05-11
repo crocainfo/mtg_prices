@@ -1,0 +1,19 @@
+{
+  "name": "Relentless Rats",
+  "lang": "",
+  "price": {
+    "nm": "2.99 ",
+    "ex": "2.39",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/2010-core-set/relentless-rats-14104-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/2010-core-set/relentless-rats-14104-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/2010-core-set/relentless-rats",
+    "foil": ""
+  }
+}

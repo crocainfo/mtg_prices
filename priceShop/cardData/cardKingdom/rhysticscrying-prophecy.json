@@ -1,0 +1,19 @@
+{
+  "name": "Rhystic Scrying",
+  "lang": "",
+  "price": {
+    "nm": "0.25",
+    "ex": "0.20",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/prophecy/rhystic-scrying-26191-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/prophecy/rhystic-scrying-26191-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/prophecy/rhystic-scrying",
+    "foil": ""
+  }
+}
