@@ -89,6 +89,28 @@
       <path value="$PROJECT_DIR$/priceShop/vendor/swiftmailer/swiftmailer" />
       <path value="$PROJECT_DIR$/priceShop/vendor/tijsverkoyen/css-to-inline-styles" />
       <path value="$PROJECT_DIR$/priceShop/vendor/dragonmantank/cron-expression" />
+      <path value="$PROJECT_DIR$/priceShop/vendor/facade/ignition-contracts" />
+      <path value="$PROJECT_DIR$/priceShop/vendor/league/commonmark" />
+      <path value="$PROJECT_DIR$/priceShop/vendor/scrivo/highlight.php" />
+      <path value="$PROJECT_DIR$/priceShop/vendor/ramsey/collection" />
+      <path value="$PROJECT_DIR$/priceShop/vendor/symfony/polyfill-intl-grapheme" />
+      <path value="$PROJECT_DIR$/priceShop/vendor/symfony/string" />
+      <path value="$PROJECT_DIR$/priceShop/vendor/fakerphp/faker" />
+      <path value="$PROJECT_DIR$/priceShop/vendor/fruitcake/laravel-cors" />
+      <path value="$PROJECT_DIR$/priceShop/vendor/ralouphie/getallheaders" />
+      <path value="$PROJECT_DIR$/priceShop/vendor/sebastian/type" />
+      <path value="$PROJECT_DIR$/priceShop/vendor/guzzlehttp/promises" />
+      <path value="$PROJECT_DIR$/priceShop/vendor/guzzlehttp/psr7" />
+      <path value="$PROJECT_DIR$/priceShop/vendor/guzzlehttp/guzzle" />
+      <path value="$PROJECT_DIR$/priceShop/vendor/laravel/ui" />
+      <path value="$PROJECT_DIR$/priceShop/vendor/psr/http-message" />
+      <path value="$PROJECT_DIR$/priceShop/vendor/psr/http-client" />
+      <path value="$PROJECT_DIR$/priceShop/vendor/psr/event-dispatcher" />
+      <path value="$PROJECT_DIR$/priceShop/vendor/asm89/stack-cors" />
+      <path value="$PROJECT_DIR$/priceShop/vendor/voku/portable-ascii" />
+      <path value="$PROJECT_DIR$/priceShop/vendor/brick/math" />
+      <path value="$PROJECT_DIR$/priceShop/vendor/facade/flare-client-php" />
+      <path value="$PROJECT_DIR$/priceShop/vendor/facade/ignition" />
     </include_path>
   </component>
   <component name="PhpProjectSharedConfiguration" php_language_level="7.1" />

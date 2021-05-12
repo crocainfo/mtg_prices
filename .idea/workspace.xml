@@ -1,7 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="58d2ab37-f8a8-4f2e-ac79-447dee6195e1" name="Default Changelist" comment="" />
+    <list default="true" id="58d2ab37-f8a8-4f2e-ac79-447dee6195e1" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/jsLibraryMappings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/watcherTasks.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/priceShop/public/images/magic-trade.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/priceShop/public/js/hamburger_menu.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/mtg_prices.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/mtg_prices.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/php.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/php.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/priceShop/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/priceShop/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/priceShop/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/priceShop/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/priceShop/resources/sass/app.scss" beforeDir="false" afterPath="$PROJECT_DIR$/priceShop/resources/sass/app.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/priceShop/resources/views/welcome.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/priceShop/resources/views/welcome.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/priceShop/routes/web.php" beforeDir="false" afterPath="$PROJECT_DIR$/priceShop/routes/web.php" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -106,13 +119,42 @@
       <path value="$PROJECT_DIR$/priceShop/vendor/swiftmailer/swiftmailer" />
       <path value="$PROJECT_DIR$/priceShop/vendor/tijsverkoyen/css-to-inline-styles" />
       <path value="$PROJECT_DIR$/priceShop/vendor/dragonmantank/cron-expression" />
+      <path value="$PROJECT_DIR$/priceShop/vendor/facade/ignition-contracts" />
+      <path value="$PROJECT_DIR$/priceShop/vendor/league/commonmark" />
+      <path value="$PROJECT_DIR$/priceShop/vendor/scrivo/highlight.php" />
+      <path value="$PROJECT_DIR$/priceShop/vendor/ramsey/collection" />
+      <path value="$PROJECT_DIR$/priceShop/vendor/symfony/polyfill-intl-grapheme" />
+      <path value="$PROJECT_DIR$/priceShop/vendor/symfony/string" />
+      <path value="$PROJECT_DIR$/priceShop/vendor/fakerphp/faker" />
+      <path value="$PROJECT_DIR$/priceShop/vendor/fruitcake/laravel-cors" />
+      <path value="$PROJECT_DIR$/priceShop/vendor/ralouphie/getallheaders" />
+      <path value="$PROJECT_DIR$/priceShop/vendor/sebastian/type" />
+      <path value="$PROJECT_DIR$/priceShop/vendor/guzzlehttp/promises" />
+      <path value="$PROJECT_DIR$/priceShop/vendor/guzzlehttp/psr7" />
+      <path value="$PROJECT_DIR$/priceShop/vendor/guzzlehttp/guzzle" />
+      <path value="$PROJECT_DIR$/priceShop/vendor/laravel/ui" />
+      <path value="$PROJECT_DIR$/priceShop/vendor/psr/http-message" />
+      <path value="$PROJECT_DIR$/priceShop/vendor/psr/http-client" />
+      <path value="$PROJECT_DIR$/priceShop/vendor/psr/event-dispatcher" />
+      <path value="$PROJECT_DIR$/priceShop/vendor/asm89/stack-cors" />
+      <path value="$PROJECT_DIR$/priceShop/vendor/voku/portable-ascii" />
+      <path value="$PROJECT_DIR$/priceShop/vendor/brick/math" />
+      <path value="$PROJECT_DIR$/priceShop/vendor/facade/flare-client-php" />
+      <path value="$PROJECT_DIR$/priceShop/vendor/facade/ignition" />
     </include_path>
   </component>
   <component name="ProjectId" id="1sOPqfp9Utmubz9MCM63ChrTOXk" />
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../test" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/priceShop/public/js" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/priceShop/public/js" />
+      <recent name="$PROJECT_DIR$/priceShop/public/images" />
+      <recent name="$PROJECT_DIR$/priceShop/public/css" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -137,7 +179,10 @@
       <option name="presentableId" value="Default" />
       <updated>1620740854461</updated>
       <workItem from="1620740856210" duration="1467000" />
-      <workItem from="1620743103952" duration="2889000" />
+      <workItem from="1620743103952" duration="4926000" />
+      <workItem from="1620759034833" duration="76000" />
+      <workItem from="1620759122639" duration="3865000" />
+      <workItem from="1620814032086" duration="2839000" />
     </task>
     <task id="LOCAL-00001" summary="First Laravel installations">
       <created>1620742594062</created>
@@ -160,7 +205,14 @@
       <option name="project" value="LOCAL" />
       <updated>1620746660672</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="First Laravel installations">
+      <created>1620746725949</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1620746725949</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
