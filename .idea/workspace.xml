@@ -1,19 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="58d2ab37-f8a8-4f2e-ac79-447dee6195e1" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/jsLibraryMappings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/watcherTasks.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/priceShop/public/images/magic-trade.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/priceShop/public/js/hamburger_menu.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/mtg_prices.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/mtg_prices.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/php.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/php.xml" afterDir="false" />
+    <list default="true" id="58d2ab37-f8a8-4f2e-ac79-447dee6195e1" name="Default Changelist" comment="landing page">
+      <change afterPath="$PROJECT_DIR$/priceShop/public/images/blue_m.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/priceShop/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/priceShop/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/priceShop/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/priceShop/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/priceShop/resources/sass/app.scss" beforeDir="false" afterPath="$PROJECT_DIR$/priceShop/resources/sass/app.scss" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/priceShop/resources/views/welcome.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/priceShop/resources/views/welcome.blade.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/priceShop/routes/web.php" beforeDir="false" afterPath="$PROJECT_DIR$/priceShop/routes/web.php" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -147,12 +138,12 @@
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/priceShop/public/js" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/priceShop/public/images" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/priceShop/public/js" />
       <recent name="$PROJECT_DIR$/priceShop/public/images" />
+      <recent name="$PROJECT_DIR$/priceShop/public/js" />
       <recent name="$PROJECT_DIR$/priceShop/public/css" />
     </key>
   </component>
@@ -182,7 +173,10 @@
       <workItem from="1620743103952" duration="4926000" />
       <workItem from="1620759034833" duration="76000" />
       <workItem from="1620759122639" duration="3865000" />
-      <workItem from="1620814032086" duration="2839000" />
+      <workItem from="1620814032086" duration="3331000" />
+      <workItem from="1620845540735" duration="360000" />
+      <workItem from="1620845910766" duration="1886000" />
+      <workItem from="1621012499972" duration="1502000" />
     </task>
     <task id="LOCAL-00001" summary="First Laravel installations">
       <created>1620742594062</created>
@@ -212,7 +206,14 @@
       <option name="project" value="LOCAL" />
       <updated>1620746725949</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="landing page">
+      <created>1620817851734</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1620817851734</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -233,6 +234,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="First Laravel installations" />
-    <option name="LAST_COMMIT_MESSAGE" value="First Laravel installations" />
+    <MESSAGE value="landing page" />
+    <option name="LAST_COMMIT_MESSAGE" value="landing page" />
   </component>
 </project>
