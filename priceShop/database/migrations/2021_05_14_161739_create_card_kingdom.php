@@ -15,6 +15,12 @@ class CreateCardKingdom extends Migration
     {
         Schema::create('card_kingdom', function (Blueprint $table) {
             $table->id('id')->autoIncrement();
+            $table->integer('price_nm')->nullable();
+            $table->integer('price_ex')->nullable();
+            $table->integer('price_nm_foil')->nullable();
+            $table->integer('price_ex_foil')->nullable();
+            $table->string('link_to_webpage')->nullable();
+            $table->string('link_to_image')->nullable();
 
             $table->timestamps();
         });
