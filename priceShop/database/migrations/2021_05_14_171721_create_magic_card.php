@@ -16,6 +16,7 @@ class CreateMagicCard extends Migration
         Schema::create('magic_card', function (Blueprint $table) {
             $table->id('id')->autoIncrement();
             $table->string('name');
+            $table->string('expansion');
             $table->unsignedBigInteger('card_kingdom_id');
             $table->foreign('card_kingdom_id')->references('id')->on('card_kingdom');
             $table->timestamps();

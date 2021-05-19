@@ -20,7 +20,12 @@ class CreateCardKingdom extends Migration
             $table->integer('price_nm_foil')->nullable();
             $table->integer('price_ex_foil')->nullable();
             $table->string('link_to_webpage')->nullable();
+            $table->string('link_to_webpage_foil')->nullable();
             $table->string('link_to_image')->nullable();
+            $table->string('link_to_image_little')->nullable();
+            $table->string('lang')->nullable();
+            $table->string('currency')->nullable();
+
 
             $table->timestamps();
         });

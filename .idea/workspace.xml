@@ -2,13 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="58d2ab37-f8a8-4f2e-ac79-447dee6195e1" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/priceShop/storage/expansionLibraryNames.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/priceShop/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/priceShop/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/priceShop/composer.json" beforeDir="false" afterPath="$PROJECT_DIR$/priceShop/composer.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/priceShop/database/migrations/2021_05_14_161739_create_card_kingdom.php" beforeDir="false" afterPath="$PROJECT_DIR$/priceShop/database/migrations/2021_05_14_161739_create_card_kingdom.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/priceShop/database/migrations/2021_05_14_171721_create_magic_card.php" beforeDir="false" afterPath="$PROJECT_DIR$/priceShop/database/migrations/2021_05_14_171721_create_magic_card.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/priceShop/database/seeds/DatabaseSeeder.php" beforeDir="false" afterPath="$PROJECT_DIR$/priceShop/database/seeds/DatabaseSeeder.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/priceShop/resources/views/welcome.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/priceShop/resources/views/welcome.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/priceShop/database/seeds/CardDataInjectionSeeder.php" beforeDir="false" afterPath="$PROJECT_DIR$/priceShop/database/seeds/CardDataInjectionSeeder.php" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -142,17 +140,18 @@
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/cardDataTest/cardkingdom" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/priceShop/storage" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/priceShop/storage" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/priceShop/storage" />
       <recent name="$PROJECT_DIR$/cardDataTest/cardkingdom" />
       <recent name="$PROJECT_DIR$/priceShop/public/images" />
       <recent name="$PROJECT_DIR$/priceShop/public/js" />
       <recent name="$PROJECT_DIR$/priceShop/public/css" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/priceShop/storage" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -187,7 +186,8 @@
       <workItem from="1621012499972" duration="2431000" />
       <workItem from="1621260740430" duration="698000" />
       <workItem from="1621329485862" duration="7417000" />
-      <workItem from="1621344114510" duration="3677000" />
+      <workItem from="1621344114510" duration="6878000" />
+      <workItem from="1621415193393" duration="2728000" />
     </task>
     <task id="LOCAL-00001" summary="First Laravel installations">
       <created>1620742594062</created>
@@ -238,7 +238,21 @@
       <option name="project" value="LOCAL" />
       <updated>1621014058709</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="Minor text changes to make it easy to work with crawled data">
+      <created>1621347958602</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1621347958602</updated>
+    </task>
+    <task id="LOCAL-00009" summary="WIP: Add crawled data seed">
+      <created>1621347999890</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1621347999890</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -261,6 +275,8 @@
     <MESSAGE value="First Laravel installations" />
     <MESSAGE value="landing page" />
     <MESSAGE value="made migrations" />
-    <option name="LAST_COMMIT_MESSAGE" value="made migrations" />
+    <MESSAGE value="Minor text changes to make it easy to work with crawled data" />
+    <MESSAGE value="WIP: Add crawled data seed" />
+    <option name="LAST_COMMIT_MESSAGE" value="WIP: Add crawled data seed" />
   </component>
 </project>
