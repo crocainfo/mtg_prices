@@ -2,7 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="58d2ab37-f8a8-4f2e-ac79-447dee6195e1" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/priceShop/database/seeds/CardDataInjectionSeeder.php" beforeDir="false" afterPath="$PROJECT_DIR$/priceShop/database/seeds/CardDataInjectionSeeder.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/priceShop/resources/sass/shop.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/priceShop/resources/views/base.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/priceShop/resources/views/shop.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/priceShop/resources/js/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/priceShop/resources/js/app.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/priceShop/resources/js/components/ExampleComponent.vue" beforeDir="false" afterPath="$PROJECT_DIR$/priceShop/resources/js/components/ShopComponent.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/priceShop/resources/sass/app.scss" beforeDir="false" afterPath="$PROJECT_DIR$/priceShop/resources/sass/app.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/priceShop/resources/views/welcome.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/priceShop/resources/views/welcome.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/priceShop/routes/web.php" beforeDir="false" afterPath="$PROJECT_DIR$/priceShop/routes/web.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/priceShop/webpack.mix.js" beforeDir="false" afterPath="$PROJECT_DIR$/priceShop/webpack.mix.js" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -15,6 +24,13 @@
     <execution>
       <executable />
     </execution>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="SCSS" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -136,15 +152,16 @@
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/priceShop/storage" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/priceShop/resources/views" />
+    <property name="nodejs_package_manager_path" value="npm" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/priceShop/resources/views" />
       <recent name="$PROJECT_DIR$/priceShop/storage" />
       <recent name="$PROJECT_DIR$/cardDataTest/cardkingdom" />
       <recent name="$PROJECT_DIR$/priceShop/public/images" />
       <recent name="$PROJECT_DIR$/priceShop/public/js" />
-      <recent name="$PROJECT_DIR$/priceShop/public/css" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/priceShop/storage" />
@@ -183,7 +200,8 @@
       <workItem from="1621260740430" duration="698000" />
       <workItem from="1621329485862" duration="7417000" />
       <workItem from="1621344114510" duration="6878000" />
-      <workItem from="1621415193393" duration="3263000" />
+      <workItem from="1621415193393" duration="13496000" />
+      <workItem from="1621507083775" duration="4877000" />
     </task>
     <task id="LOCAL-00001" summary="First Laravel installations">
       <created>1620742594062</created>
@@ -255,7 +273,14 @@
       <option name="project" value="LOCAL" />
       <updated>1621419242151</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="add comments">
+      <created>1621419754113</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1621419754113</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -281,6 +306,7 @@
     <MESSAGE value="Minor text changes to make it easy to work with crawled data" />
     <MESSAGE value="WIP: Add crawled data seed" />
     <MESSAGE value="Data Seed and migrations collect data from crawled jsons" />
-    <option name="LAST_COMMIT_MESSAGE" value="Data Seed and migrations collect data from crawled jsons" />
+    <MESSAGE value="add comments" />
+    <option name="LAST_COMMIT_MESSAGE" value="add comments" />
   </component>
 </project>

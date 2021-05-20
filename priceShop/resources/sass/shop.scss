@@ -1,0 +1,49 @@
+// Fonts
+@import url('https://fonts.googleapis.com/css?family=Nunito');
+
+// Variables
+@import 'variables';
+
+// Bootstrap
+@import '~bootstrap/scss/bootstrap';
+
+$item-color : #24252A;
+
+body{
+    background-color: #2B2B30;
+}
+.fixed-top{
+    position:relative;
+    margin-bottom: 1em;
+    background-color: $item-color;
+    .container li a.nav-link {
+        color: white;
+    }
+}
+
+.card-display{
+    display: grid;
+    align-items: center;
+    justify-items: center;
+    padding: 1em;
+    background: grey;
+}
+.row.search{
+    justify-content: center;
+    align-items: center;
+    padding: 2em;
+}
+h1{
+    color: white;
+}
+.card-parent{
+    background-color: #24252A;
+    color: white;
+}
+.search-btn{
+  background-color: grey;
+}
+.list-group-item{
+    background-color: $item-color;
+}
+

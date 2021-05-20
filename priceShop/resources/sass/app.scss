@@ -58,12 +58,12 @@ hr.light {
     font-size: 0.9rem;
     padding: 0.75rem 0;
 }
-#mainNav .navbar-nav .nav-item .nav-link:hover, #mainNav .navbar-nav .nav-item .nav-link:active {
-    color: #f4623a;
-}
-#mainNav .navbar-nav .nav-item .nav-link.active {
-    color: #f4623a !important;
-}
+//#mainNav .navbar-nav .nav-item .nav-link:hover, #mainNav .navbar-nav .nav-item .nav-link:active {
+//    color: #f4623a;
+//}
+//#mainNav .navbar-nav .nav-item .nav-link.active {
+//    color: #f4623a !important;
+//}
 @media (min-width: 992px) {
     #mainNav {
         box-shadow: none;
@@ -143,4 +143,8 @@ header.masthead h1 {
     &:hover{
         background-color: darken(#da65f2 , 20%);
     }
+}
+.blue_mana {
+    width: 1.5em;
+    padding-bottom: 1vh;
 }
