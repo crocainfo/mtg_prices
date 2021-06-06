@@ -12,7 +12,7 @@ class MagicCardController extends Controller
 
     public function index(){
 
-        $cards = MagicCard::with('cardKingdom')->get();
+        $cards = MagicCard::with('cardKingdom')->paginate(10);
         return MagicCardResource::collection($cards);
     }
 }

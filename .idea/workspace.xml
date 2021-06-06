@@ -2,12 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="58d2ab37-f8a8-4f2e-ac79-447dee6195e1" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/priceShop/app/Http/Controllers/Api/MagicCardController.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/priceShop/app/Http/Resources/CardKingdomResource.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/priceShop/app/Http/Resources/MagicCardResource.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/priceShop/app/CardKingdom.php" beforeDir="false" afterPath="$PROJECT_DIR$/priceShop/app/CardKingdom.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/priceShop/routes/api.php" beforeDir="false" afterPath="$PROJECT_DIR$/priceShop/routes/api.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/priceShop/app/Http/Controllers/Api/MagicCardController.php" beforeDir="false" afterPath="$PROJECT_DIR$/priceShop/app/Http/Controllers/Api/MagicCardController.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/priceShop/app/Http/Resources/MagicCardResource.php" beforeDir="false" afterPath="$PROJECT_DIR$/priceShop/app/Http/Resources/MagicCardResource.php" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -203,7 +200,8 @@
       <workItem from="1622466872184" duration="6382000" />
       <workItem from="1622570348469" duration="44000" />
       <workItem from="1622570403138" duration="3744000" />
-      <workItem from="1622640133869" duration="3499000" />
+      <workItem from="1622640133869" duration="4306000" />
+      <workItem from="1623003413607" duration="38000" />
     </task>
     <task id="LOCAL-00001" summary="First Laravel installations">
       <created>1620742594062</created>
@@ -303,7 +301,14 @@
       <option name="project" value="LOCAL" />
       <updated>1622643779240</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="Made Controller and resource">
+      <created>1622646629062</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1622646629062</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -333,6 +338,7 @@
     <MESSAGE value="WIP: Shop FrontEnd" />
     <MESSAGE value="Changed chunks of code to a model function" />
     <MESSAGE value="Models for db objects" />
-    <option name="LAST_COMMIT_MESSAGE" value="Models for db objects" />
+    <MESSAGE value="Made Controller and resource" />
+    <option name="LAST_COMMIT_MESSAGE" value="Made Controller and resource" />
   </component>
 </project>
