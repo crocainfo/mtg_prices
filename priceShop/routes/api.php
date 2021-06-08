@@ -19,3 +19,4 @@ Route::middleware('auth:api')->get('/user', function (Request $request) {
 });
 
 Route::get('cards', 'Api\MagicCardController@index');
+Route::get('expansions', 'Api\MagicCardController@getExpansions');

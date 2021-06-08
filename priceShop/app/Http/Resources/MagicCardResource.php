@@ -19,6 +19,7 @@ class MagicCardResource extends JsonResource
             'name' => $this->name,
             'expansion' => $this->expansion,
             'cardkingdom' => $this->cardKingdom,
+            'price' => ''
         ];
     }
 }

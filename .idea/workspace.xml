@@ -4,7 +4,16 @@
     <list default="true" id="58d2ab37-f8a8-4f2e-ac79-447dee6195e1" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/priceShop/app/Http/Controllers/Api/MagicCardController.php" beforeDir="false" afterPath="$PROJECT_DIR$/priceShop/app/Http/Controllers/Api/MagicCardController.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/priceShop/app/Http/Resources/CardKingdomResource.php" beforeDir="false" afterPath="$PROJECT_DIR$/priceShop/app/Http/Resources/CardKingdomResource.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/priceShop/app/Http/Resources/MagicCardResource.php" beforeDir="false" afterPath="$PROJECT_DIR$/priceShop/app/Http/Resources/MagicCardResource.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/priceShop/app/MagicCard.php" beforeDir="false" afterPath="$PROJECT_DIR$/priceShop/app/MagicCard.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/priceShop/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/priceShop/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/priceShop/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/priceShop/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/priceShop/resources/js/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/priceShop/resources/js/app.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/priceShop/resources/js/components/ShopComponent.vue" beforeDir="false" afterPath="$PROJECT_DIR$/priceShop/resources/js/components/ShopComponent.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/priceShop/resources/sass/shop.scss" beforeDir="false" afterPath="$PROJECT_DIR$/priceShop/resources/sass/shop.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/priceShop/routes/api.php" beforeDir="false" afterPath="$PROJECT_DIR$/priceShop/routes/api.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/priceShop/storage/expansionLibraryNames.json" beforeDir="false" afterPath="$PROJECT_DIR$/priceShop/storage/expansionLibraryNames.json" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -201,7 +210,9 @@
       <workItem from="1622570348469" duration="44000" />
       <workItem from="1622570403138" duration="3744000" />
       <workItem from="1622640133869" duration="4306000" />
-      <workItem from="1623003413607" duration="38000" />
+      <workItem from="1623003413607" duration="4373000" />
+      <workItem from="1623056843156" duration="16532000" />
+      <workItem from="1623086111334" duration="1930000" />
     </task>
     <task id="LOCAL-00001" summary="First Laravel installations">
       <created>1620742594062</created>
@@ -308,7 +319,14 @@
       <option name="project" value="LOCAL" />
       <updated>1622646629062</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="Magic Card Api ready">
+      <created>1623003506288</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1623003506289</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -339,6 +357,7 @@
     <MESSAGE value="Changed chunks of code to a model function" />
     <MESSAGE value="Models for db objects" />
     <MESSAGE value="Made Controller and resource" />
-    <option name="LAST_COMMIT_MESSAGE" value="Made Controller and resource" />
+    <MESSAGE value="Magic Card Api ready" />
+    <option name="LAST_COMMIT_MESSAGE" value="Magic Card Api ready" />
   </component>
 </project>

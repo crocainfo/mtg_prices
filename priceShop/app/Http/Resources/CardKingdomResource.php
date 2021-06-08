@@ -16,11 +16,11 @@ class CardKingdomResource extends JsonResource
     {
         return [
             'id' => $this->id,
-            'price_nm' => $this->price_nm,
-            'price_ex' => $this->price_ex,
-            'price_nm_foil' => $this->price_nm_foil,
-            'price_ex_foil' => $this->price_ex_foil,
-            'link_to_webpage' => $this->link_to_webpage,
+            'price_nm' => ($this->price_nm / 100),
+            'price_ex' => ($this->price_ex / 100),
+            'price_nm_foil' => $this->price_nm_foil / 100,
+            'price_ex_foil' => $this->price_ex_foil / 100,
+            'link_to_webpage' => $this->link_to_webpage ,
             'link_to_webpage_foil' => $this->link_to_webpage_foil,
             'link_to_image' => $this->link_to_image,
             'link_to_image_little' => $this->link_to_image_little,

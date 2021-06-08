@@ -12,7 +12,20 @@ class MagicCardController extends Controller
 
     public function index(){
 
-        $cards = MagicCard::with('cardKingdom')->paginate(10);
+        $search_term = request('q', '');
+        $expansion = request('expansion');
+
+
+        $cards = MagicCard::with('cardKingdom')
+            ->when($expansion, function ($query) use ($expansion){ $query->where('expansion', $expansion);})
+            ->search(trim($search_term))
+            ->paginate(12);
         return MagicCardResource::collection($cards);
+    }
+
+    public function getExpansions(){
+
+        $expansions = file_get_contents(storage_path() . "/expansionLibraryNames.json", true);
+        return $expansions;
     }
 }
