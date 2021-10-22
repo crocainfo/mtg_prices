@@ -1,0 +1,19 @@
+{
+  "name": "Aboshan, Cephalid Emperor",
+  "lang": "",
+  "price": {
+    "nm": "1.49",
+    "ex": "1.19",
+    "foil_nm": "",
+    "foil_ex": ""
+  },
+  "currency": "$",
+  "img": {
+    "medium": "https://www.cardkingdom.com/images/magic-the-gathering/odyssey/aboshan-cephalid-emperor-27113-medium.jpg",
+    "little": "https://www.cardkingdom.com/images/magic-the-gathering/odyssey/aboshan-cephalid-emperor-27113-thumb.jpg"
+  },
+  "webLink": {
+    "normal": "https://www.cardkingdom.com/mtg/odyssey/aboshan-cephalid-emperor",
+    "foil": ""
+  }
+}

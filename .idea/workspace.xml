@@ -3,12 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="58d2ab37-f8a8-4f2e-ac79-447dee6195e1" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/priceShop/app/Http/Controllers/Api/MagicCardController.php" beforeDir="false" afterPath="$PROJECT_DIR$/priceShop/app/Http/Controllers/Api/MagicCardController.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/priceShop/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/priceShop/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/priceShop/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/priceShop/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/priceShop/resources/js/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/priceShop/resources/js/app.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/priceShop/resources/js/components/ShopComponent.vue" beforeDir="false" afterPath="$PROJECT_DIR$/priceShop/resources/js/components/ShopComponent.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/priceShop/resources/sass/shop.scss" beforeDir="false" afterPath="$PROJECT_DIR$/priceShop/resources/sass/shop.scss" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -211,6 +205,8 @@
       <workItem from="1623140780857" duration="5471000" />
       <workItem from="1623155789596" duration="1221000" />
       <workItem from="1623333481670" duration="27000" />
+      <workItem from="1634895126765" duration="206000" />
+      <workItem from="1634895362967" duration="8000" />
     </task>
     <task id="LOCAL-00001" summary="First Laravel installations">
       <created>1620742594062</created>
@@ -331,7 +327,14 @@
       <option name="project" value="LOCAL" />
       <updated>1623140823095</updated>
     </task>
-    <option name="localTasksCounter" value="18" />
+    <task id="LOCAL-00018" summary="Uncommited Changes From April">
+      <created>1634895157867</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1634895157867</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -364,6 +367,7 @@
     <MESSAGE value="Made Controller and resource" />
     <MESSAGE value="Magic Card Api ready" />
     <MESSAGE value="WIP: Frontend Shop Searcher" />
-    <option name="LAST_COMMIT_MESSAGE" value="WIP: Frontend Shop Searcher" />
+    <MESSAGE value="Uncommited Changes From April" />
+    <option name="LAST_COMMIT_MESSAGE" value="Uncommited Changes From April" />
   </component>
 </project>
