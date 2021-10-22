@@ -4,16 +4,11 @@
     <list default="true" id="58d2ab37-f8a8-4f2e-ac79-447dee6195e1" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/priceShop/app/Http/Controllers/Api/MagicCardController.php" beforeDir="false" afterPath="$PROJECT_DIR$/priceShop/app/Http/Controllers/Api/MagicCardController.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/priceShop/app/Http/Resources/CardKingdomResource.php" beforeDir="false" afterPath="$PROJECT_DIR$/priceShop/app/Http/Resources/CardKingdomResource.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/priceShop/app/Http/Resources/MagicCardResource.php" beforeDir="false" afterPath="$PROJECT_DIR$/priceShop/app/Http/Resources/MagicCardResource.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/priceShop/app/MagicCard.php" beforeDir="false" afterPath="$PROJECT_DIR$/priceShop/app/MagicCard.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/priceShop/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/priceShop/package-lock.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/priceShop/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/priceShop/package.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/priceShop/resources/js/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/priceShop/resources/js/app.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/priceShop/resources/js/components/ShopComponent.vue" beforeDir="false" afterPath="$PROJECT_DIR$/priceShop/resources/js/components/ShopComponent.vue" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/priceShop/resources/sass/shop.scss" beforeDir="false" afterPath="$PROJECT_DIR$/priceShop/resources/sass/shop.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/priceShop/routes/api.php" beforeDir="false" afterPath="$PROJECT_DIR$/priceShop/routes/api.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/priceShop/storage/expansionLibraryNames.json" beforeDir="false" afterPath="$PROJECT_DIR$/priceShop/storage/expansionLibraryNames.json" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -154,7 +149,7 @@
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../workTests/test6conecta" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../crocainfo.github.io" />
     <property name="nodejs_package_manager_path" value="npm" />
   </component>
   <component name="RecentsManager">
@@ -213,6 +208,9 @@
       <workItem from="1623003413607" duration="4373000" />
       <workItem from="1623056843156" duration="16532000" />
       <workItem from="1623086111334" duration="1930000" />
+      <workItem from="1623140780857" duration="5471000" />
+      <workItem from="1623155789596" duration="1221000" />
+      <workItem from="1623333481670" duration="27000" />
     </task>
     <task id="LOCAL-00001" summary="First Laravel installations">
       <created>1620742594062</created>
@@ -326,7 +324,14 @@
       <option name="project" value="LOCAL" />
       <updated>1623003506289</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="WIP: Frontend Shop Searcher">
+      <created>1623140823095</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1623140823095</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -358,6 +363,7 @@
     <MESSAGE value="Models for db objects" />
     <MESSAGE value="Made Controller and resource" />
     <MESSAGE value="Magic Card Api ready" />
-    <option name="LAST_COMMIT_MESSAGE" value="Magic Card Api ready" />
+    <MESSAGE value="WIP: Frontend Shop Searcher" />
+    <option name="LAST_COMMIT_MESSAGE" value="WIP: Frontend Shop Searcher" />
   </component>
 </project>

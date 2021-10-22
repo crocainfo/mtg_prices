@@ -5,7 +5,7 @@
                 <div class="col-lg-3">
                     <h1 class="my-4">CounterSpell</h1>
                     <div class="list-group">
-                        <div class="list-group-item"><p>Foils <input style="display: inline" type="checkbox"></p> </div>
+                        <div class="list-group-item"><p>Foils <input style="display: inline" type="checkbox" value="true" v-model="foil"></p> </div>
                         <div class="list-group-item">
                             <p>Expansion </p>
                             <select style="width:100%;max-width:100%;" name="expansions" id="expansions" v-model="selectedExpansion">
@@ -52,8 +52,11 @@
                         </div>
 
                     </div>
+                    <div @click="scrollToTop()" class="col-lg-9 paginationShop">
+                        <pagination :data="rawCards"  @pagination-change-page="fetchCards"></pagination>
+                    </div>
+
                 </div>
-                <pagination :data="rawCards" @pagination-change-page="fetchCards"></pagination>
             </div>
         </div>
     </div>
@@ -68,6 +71,7 @@
                expansions : {},
                selectedExpansion : "",
                pickedQuality : "nm",
+               foil: true
 
 
            }
@@ -85,8 +89,11 @@
                 axios.get('/api/cards?page=' + page
                     +"&q=" + this.search
                     +"&expansion=" + this.selectedExpansion
+                    +"&foil=" + this.foil
+
                 )
                     .then(response => {
+                        console.log(response.data);
                         this.rawCards = response.data;
 
                     });
@@ -94,6 +101,9 @@
             onSearch($event){
                 $event.preventDefault();
                 this.fetchCards();
+            },
+            scrollToTop() {
+                window.scrollTo(0,0);
             }
 
 
@@ -106,6 +116,10 @@
             selectedExpansion: function (value) {
                 this.fetchCards();
             },
+            foil: function (value) {
+                this.fetchCards();
+
+            }
 
         },
         computed: {
@@ -113,7 +127,9 @@
                     if(!this.rawCards.data) return [];
 
                     return this.rawCards.data.map(card => {
-                        card.price = this.pickedQuality === "nm" ? card.cardkingdom.price_nm : card.cardkingdom.price_ex ;
+
+                            card.price = this.pickedQuality === "nm" ? card.cardkingdom.price_nm : card.cardkingdom.price_ex ;
+                        
                        return card;
                     });
 
